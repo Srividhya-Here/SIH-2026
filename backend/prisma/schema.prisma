@@ -1,0 +1,144 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  ADMIN
+  CAREGIVER
+  PATIENT
+}
+
+enum DifficultyLevel {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum ReminderStatus {
+  PENDING
+  COMPLETED
+  MISSED
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  name         String
+  email        String   @unique
+  passwordHash String
+  role         UserRole
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  patient   Patient?
+  caregiver Caregiver?
+
+  @@map("users")
+}
+
+model Patient {
+  id          Int      @id @default(autoincrement())
+  userId      Int      @unique
+  dateOfBirth DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user       User              @relation(fields: [userId], references: [id])
+  caregivers PatientCaregiver[]
+  sessions   GameSession[]
+  reminders  Reminder[]
+  syncQueue  SyncQueue[]
+
+  @@map("patients")
+}
+
+model Caregiver {
+  id        Int      @id @default(autoincrement())
+  userId    Int      @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user     User              @relation(fields: [userId], references: [id])
+  patients PatientCaregiver[]
+
+  @@map("caregivers")
+}
+
+model PatientCaregiver {
+  id          Int @id @default(autoincrement())
+  patientId   Int
+  caregiverId Int
+
+  patient   Patient   @relation(fields: [patientId], references: [id])
+  caregiver Caregiver @relation(fields: [caregiverId], references: [id])
+
+  @@unique([patientId, caregiverId])
+  @@map("patient_caregivers")
+}
+
+model GameSession {
+  id             Int             @id @default(autoincrement())
+  patientId      Int
+  gameType       String
+  difficulty     DifficultyLevel
+  score          Float
+  accuracy       Float
+  reactionTime   Float
+  errorRate      Float
+  attempts       Int
+  hintUsage      Int
+  completionTime Float
+  streak         Int
+  playedAt       DateTime        @default(now())
+
+  patient Patient          @relation(fields: [patientId], references: [id])
+  metric  CognitiveMetric?
+
+  @@map("game_sessions")
+}
+
+model CognitiveMetric {
+  id             Int      @id @default(autoincrement())
+  sessionId      Int      @unique
+  memoryScore    Float
+  attentionScore Float
+  reactionScore  Float
+  overallScore   Float
+  recordedAt     DateTime @default(now())
+
+  session GameSession @relation(fields: [sessionId], references: [id])
+
+  @@map("cognitive_metrics")
+}
+
+model Reminder {
+  id          Int            @id @default(autoincrement())
+  patientId   Int
+  title       String
+  description String?
+  reminderAt  DateTime
+  status      ReminderStatus @default(PENDING)
+  createdAt   DateTime       @default(now())
+
+  patient Patient @relation(fields: [patientId], references: [id])
+
+  @@map("reminders")
+}
+
+model SyncQueue {
+  id        Int       @id @default(autoincrement())
+  patientId Int?
+  eventId   String    @unique
+  eventType String
+  payload   String
+  synced    Boolean  @default(false)
+  createdAt DateTime  @default(now())
+  syncedAt  DateTime?
+
+  patient Patient? @relation(fields: [patientId], references: [id])
+
+  @@map("sync_queue")
+}
