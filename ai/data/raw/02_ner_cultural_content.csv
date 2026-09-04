@@ -1,0 +1,41 @@
+content_id,state,language,item_name,category,default_difficulty
+C001,Assam,Assamese,Jaapi,landmark,medium
+C002,Assam,Assamese,Gamosa,craft,hard
+C003,Assam,Assamese,Xorai,craft,medium
+C004,Assam,Assamese,Assam tea,landmark,easy
+C005,Assam,Assamese,One-horned rhinoceros,clothing,medium
+C006,Arunachal Pradesh,Hindi,Traditional shawl,clothing,hard
+C007,Arunachal Pradesh,Hindi,Bamboo basket,clothing,easy
+C008,Arunachal Pradesh,Hindi,Monastery,landmark,easy
+C009,Arunachal Pradesh,Hindi,Hornbill,nature,easy
+C010,Arunachal Pradesh,Hindi,Mountain landscape,nature,medium
+C011,Manipur,Meitei,Phanek,food,medium
+C012,Manipur,Meitei,Eromba,nature,medium
+C013,Manipur,Meitei,Loktak Lake,food,medium
+C014,Manipur,Meitei,Pena,landmark,medium
+C015,Manipur,Meitei,Traditional textile,craft,easy
+C016,Meghalaya,Khasi,Bamboo basket,landmark,easy
+C017,Meghalaya,Khasi,Living root bridge,landmark,hard
+C018,Meghalaya,Khasi,Traditional shawl,food,hard
+C019,Meghalaya,Khasi,Pineapple,landmark,hard
+C020,Meghalaya,Khasi,Cloud landscape,food,easy
+C021,Mizoram,Mizo,Puan,clothing,easy
+C022,Mizoram,Mizo,Bamboo craft,craft,hard
+C023,Mizoram,Mizo,Traditional basket,nature,medium
+C024,Mizoram,Mizo,Traditional house,household,easy
+C025,Mizoram,Mizo,Local fruit,household,hard
+C026,Nagaland,Nagamese,Naga shawl,food,hard
+C027,Nagaland,Nagamese,Bamboo craft,food,medium
+C028,Nagaland,Nagamese,Traditional basket,landmark,easy
+C029,Nagaland,Nagamese,Hornbill,household,medium
+C030,Nagaland,Nagamese,Rice dish,landmark,medium
+C031,Sikkim,Nepali,Prayer flag,craft,hard
+C032,Sikkim,Nepali,Traditional textile,food,hard
+C033,Sikkim,Nepali,Mountain landscape,nature,easy
+C034,Sikkim,Nepali,Bamboo craft,clothing,easy
+C035,Sikkim,Nepali,Local food,food,medium
+C036,Tripura,Bengali,Rignai,clothing,easy
+C037,Tripura,Bengali,Bamboo craft,household,easy
+C038,Tripura,Bengali,Traditional basket,craft,hard
+C039,Tripura,Bengali,Heritage site,nature,medium
+C040,Tripura,Bengali,Local fruit,clothing,hard

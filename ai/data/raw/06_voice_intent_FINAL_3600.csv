@@ -1,0 +1,3601 @@
+utterance_id,language,intent,text
+V000001,English,start_game,Start the memory game
+V000002,English,start_game,Start the memory game
+V000003,English,start_game,Start the memory game
+V000004,English,start_game,Start the memory game
+V000005,English,start_game,Start the memory game
+V000006,English,start_game,Start the memory game
+V000007,English,start_game,Start the memory game
+V000008,English,start_game,Start the memory game
+V000009,English,start_game,Start the memory game
+V000010,English,start_game,Start the memory game
+V000011,English,start_game,Start the memory game
+V000012,English,start_game,Start the memory game
+V000013,English,start_game,Start the memory game
+V000014,English,start_game,Start the memory game
+V000015,English,start_game,Start the memory game
+V000016,English,start_game,Start the memory game
+V000017,English,start_game,Start the memory game
+V000018,English,start_game,Start the memory game
+V000019,English,start_game,Start the memory game
+V000020,English,start_game,Start the memory game
+V000021,English,start_game,Start the memory game
+V000022,English,start_game,Start the memory game
+V000023,English,start_game,Start the memory game
+V000024,English,start_game,Start the memory game
+V000025,English,start_game,Start the memory game
+V000026,English,start_game,Start the memory game
+V000027,English,start_game,Start the memory game
+V000028,English,start_game,Start the memory game
+V000029,English,start_game,Start the memory game
+V000030,English,start_game,Start the memory game
+V000031,English,start_game,Start the memory game
+V000032,English,start_game,Start the memory game
+V000033,English,start_game,Start the memory game
+V000034,English,start_game,Start the memory game
+V000035,English,start_game,Start the memory game
+V000036,English,start_game,Start the memory game
+V000037,English,start_game,Start the memory game
+V000038,English,start_game,Start the memory game
+V000039,English,start_game,Start the memory game
+V000040,English,start_game,Start the memory game
+V000041,English,start_game,Start the memory game
+V000042,English,start_game,Start the memory game
+V000043,English,start_game,Start the memory game
+V000044,English,start_game,Start the memory game
+V000045,English,start_game,Start the memory game
+V000046,English,start_game,Start the memory game
+V000047,English,start_game,Start the memory game
+V000048,English,start_game,Start the memory game
+V000049,English,start_game,Start the memory game
+V000050,English,start_game,Start the memory game
+V000051,English,start_game,Start the memory game
+V000052,English,start_game,Start the memory game
+V000053,English,start_game,Start the memory game
+V000054,English,start_game,Start the memory game
+V000055,English,start_game,Start the memory game
+V000056,English,start_game,Start the memory game
+V000057,English,start_game,Start the memory game
+V000058,English,start_game,Start the memory game
+V000059,English,start_game,Start the memory game
+V000060,English,start_game,Start the memory game
+V000061,English,start_game,Start the memory game
+V000062,English,start_game,Start the memory game
+V000063,English,start_game,Start the memory game
+V000064,English,start_game,Start the memory game
+V000065,English,start_game,Start the memory game
+V000066,English,start_game,Start the memory game
+V000067,English,start_game,Start the memory game
+V000068,English,start_game,Start the memory game
+V000069,English,start_game,Start the memory game
+V000070,English,start_game,Start the memory game
+V000071,English,start_game,Start the memory game
+V000072,English,start_game,Start the memory game
+V000073,English,start_game,Start the memory game
+V000074,English,start_game,Start the memory game
+V000075,English,start_game,Start the memory game
+V000076,English,start_game,Start the memory game
+V000077,English,start_game,Start the memory game
+V000078,English,start_game,Start the memory game
+V000079,English,start_game,Start the memory game
+V000080,English,start_game,Start the memory game
+V000081,English,start_game,Start the memory game
+V000082,English,start_game,Start the memory game
+V000083,English,start_game,Start the memory game
+V000084,English,start_game,Start the memory game
+V000085,English,start_game,Start the memory game
+V000086,English,start_game,Start the memory game
+V000087,English,start_game,Start the memory game
+V000088,English,start_game,Start the memory game
+V000089,English,start_game,Start the memory game
+V000090,English,start_game,Start the memory game
+V000091,English,start_game,Start the memory game
+V000092,English,start_game,Start the memory game
+V000093,English,start_game,Start the memory game
+V000094,English,start_game,Start the memory game
+V000095,English,start_game,Start the memory game
+V000096,English,start_game,Start the memory game
+V000097,English,start_game,Start the memory game
+V000098,English,start_game,Start the memory game
+V000099,English,start_game,Start the memory game
+V000100,English,start_game,Start the memory game
+V000101,English,start_game,Start the memory game
+V000102,English,start_game,Start the memory game
+V000103,English,start_game,Start the memory game
+V000104,English,start_game,Start the memory game
+V000105,English,start_game,Start the memory game
+V000106,English,start_game,Start the memory game
+V000107,English,start_game,Start the memory game
+V000108,English,start_game,Start the memory game
+V000109,English,start_game,Start the memory game
+V000110,English,start_game,Start the memory game
+V000111,English,start_game,Start the memory game
+V000112,English,start_game,Start the memory game
+V000113,English,start_game,Start the memory game
+V000114,English,start_game,Start the memory game
+V000115,English,start_game,Start the memory game
+V000116,English,start_game,Start the memory game
+V000117,English,start_game,Start the memory game
+V000118,English,start_game,Start the memory game
+V000119,English,start_game,Start the memory game
+V000120,English,start_game,Start the memory game
+V000121,English,start_game,Start the memory game
+V000122,English,start_game,Start the memory game
+V000123,English,start_game,Start the memory game
+V000124,English,start_game,Start the memory game
+V000125,English,start_game,Start the memory game
+V000126,English,start_game,Start the memory game
+V000127,English,start_game,Start the memory game
+V000128,English,start_game,Start the memory game
+V000129,English,start_game,Start the memory game
+V000130,English,start_game,Start the memory game
+V000131,English,start_game,Start the memory game
+V000132,English,start_game,Start the memory game
+V000133,English,start_game,Start the memory game
+V000134,English,start_game,Start the memory game
+V000135,English,start_game,Start the memory game
+V000136,English,start_game,Start the memory game
+V000137,English,start_game,Start the memory game
+V000138,English,start_game,Start the memory game
+V000139,English,start_game,Start the memory game
+V000140,English,start_game,Start the memory game
+V000141,English,start_game,Start the memory game
+V000142,English,start_game,Start the memory game
+V000143,English,start_game,Start the memory game
+V000144,English,start_game,Start the memory game
+V000145,English,start_game,Start the memory game
+V000146,English,start_game,Start the memory game
+V000147,English,start_game,Start the memory game
+V000148,English,start_game,Start the memory game
+V000149,English,start_game,Start the memory game
+V000150,English,start_game,Start the memory game
+V000151,English,start_game,Start the memory game
+V000152,English,start_game,Start the memory game
+V000153,English,start_game,Start the memory game
+V000154,English,start_game,Start the memory game
+V000155,English,start_game,Start the memory game
+V000156,English,start_game,Start the memory game
+V000157,English,start_game,Start the memory game
+V000158,English,start_game,Start the memory game
+V000159,English,start_game,Start the memory game
+V000160,English,start_game,Start the memory game
+V000161,English,start_game,Start the memory game
+V000162,English,start_game,Start the memory game
+V000163,English,start_game,Start the memory game
+V000164,English,start_game,Start the memory game
+V000165,English,start_game,Start the memory game
+V000166,English,start_game,Start the memory game
+V000167,English,start_game,Start the memory game
+V000168,English,start_game,Start the memory game
+V000169,English,start_game,Start the memory game
+V000170,English,start_game,Start the memory game
+V000171,English,start_game,Start the memory game
+V000172,English,start_game,Start the memory game
+V000173,English,start_game,Start the memory game
+V000174,English,start_game,Start the memory game
+V000175,English,start_game,Start the memory game
+V000176,English,start_game,Start the memory game
+V000177,English,start_game,Start the memory game
+V000178,English,start_game,Start the memory game
+V000179,English,start_game,Start the memory game
+V000180,English,start_game,Start the memory game
+V000181,English,start_game,Start the memory game
+V000182,English,start_game,Start the memory game
+V000183,English,start_game,Start the memory game
+V000184,English,start_game,Start the memory game
+V000185,English,start_game,Start the memory game
+V000186,English,start_game,Start the memory game
+V000187,English,start_game,Start the memory game
+V000188,English,start_game,Start the memory game
+V000189,English,start_game,Start the memory game
+V000190,English,start_game,Start the memory game
+V000191,English,start_game,Start the memory game
+V000192,English,start_game,Start the memory game
+V000193,English,start_game,Start the memory game
+V000194,English,start_game,Start the memory game
+V000195,English,start_game,Start the memory game
+V000196,English,start_game,Start the memory game
+V000197,English,start_game,Start the memory game
+V000198,English,start_game,Start the memory game
+V000199,English,start_game,Start the memory game
+V000200,English,start_game,Start the memory game
+V000201,Hindi,start_game,मेमोरी गेम शुरू करो
+V000202,Hindi,start_game,मेमोरी गेम शुरू करो
+V000203,Hindi,start_game,मेमोरी गेम शुरू करो
+V000204,Hindi,start_game,मेमोरी गेम शुरू करो
+V000205,Hindi,start_game,मेमोरी गेम शुरू करो
+V000206,Hindi,start_game,मेमोरी गेम शुरू करो
+V000207,Hindi,start_game,मेमोरी गेम शुरू करो
+V000208,Hindi,start_game,मेमोरी गेम शुरू करो
+V000209,Hindi,start_game,मेमोरी गेम शुरू करो
+V000210,Hindi,start_game,मेमोरी गेम शुरू करो
+V000211,Hindi,start_game,मेमोरी गेम शुरू करो
+V000212,Hindi,start_game,मेमोरी गेम शुरू करो
+V000213,Hindi,start_game,मेमोरी गेम शुरू करो
+V000214,Hindi,start_game,मेमोरी गेम शुरू करो
+V000215,Hindi,start_game,मेमोरी गेम शुरू करो
+V000216,Hindi,start_game,मेमोरी गेम शुरू करो
+V000217,Hindi,start_game,मेमोरी गेम शुरू करो
+V000218,Hindi,start_game,मेमोरी गेम शुरू करो
+V000219,Hindi,start_game,मेमोरी गेम शुरू करो
+V000220,Hindi,start_game,मेमोरी गेम शुरू करो
+V000221,Hindi,start_game,मेमोरी गेम शुरू करो
+V000222,Hindi,start_game,मेमोरी गेम शुरू करो
+V000223,Hindi,start_game,मेमोरी गेम शुरू करो
+V000224,Hindi,start_game,मेमोरी गेम शुरू करो
+V000225,Hindi,start_game,मेमोरी गेम शुरू करो
+V000226,Hindi,start_game,मेमोरी गेम शुरू करो
+V000227,Hindi,start_game,मेमोरी गेम शुरू करो
+V000228,Hindi,start_game,मेमोरी गेम शुरू करो
+V000229,Hindi,start_game,मेमोरी गेम शुरू करो
+V000230,Hindi,start_game,मेमोरी गेम शुरू करो
+V000231,Hindi,start_game,मेमोरी गेम शुरू करो
+V000232,Hindi,start_game,मेमोरी गेम शुरू करो
+V000233,Hindi,start_game,मेमोरी गेम शुरू करो
+V000234,Hindi,start_game,मेमोरी गेम शुरू करो
+V000235,Hindi,start_game,मेमोरी गेम शुरू करो
+V000236,Hindi,start_game,मेमोरी गेम शुरू करो
+V000237,Hindi,start_game,मेमोरी गेम शुरू करो
+V000238,Hindi,start_game,मेमोरी गेम शुरू करो
+V000239,Hindi,start_game,मेमोरी गेम शुरू करो
+V000240,Hindi,start_game,मेमोरी गेम शुरू करो
+V000241,Hindi,start_game,मेमोरी गेम शुरू करो
+V000242,Hindi,start_game,मेमोरी गेम शुरू करो
+V000243,Hindi,start_game,मेमोरी गेम शुरू करो
+V000244,Hindi,start_game,मेमोरी गेम शुरू करो
+V000245,Hindi,start_game,मेमोरी गेम शुरू करो
+V000246,Hindi,start_game,मेमोरी गेम शुरू करो
+V000247,Hindi,start_game,मेमोरी गेम शुरू करो
+V000248,Hindi,start_game,मेमोरी गेम शुरू करो
+V000249,Hindi,start_game,मेमोरी गेम शुरू करो
+V000250,Hindi,start_game,मेमोरी गेम शुरू करो
+V000251,Hindi,start_game,मेमोरी गेम शुरू करो
+V000252,Hindi,start_game,मेमोरी गेम शुरू करो
+V000253,Hindi,start_game,मेमोरी गेम शुरू करो
+V000254,Hindi,start_game,मेमोरी गेम शुरू करो
+V000255,Hindi,start_game,मेमोरी गेम शुरू करो
+V000256,Hindi,start_game,मेमोरी गेम शुरू करो
+V000257,Hindi,start_game,मेमोरी गेम शुरू करो
+V000258,Hindi,start_game,मेमोरी गेम शुरू करो
+V000259,Hindi,start_game,मेमोरी गेम शुरू करो
+V000260,Hindi,start_game,मेमोरी गेम शुरू करो
+V000261,Hindi,start_game,मेमोरी गेम शुरू करो
+V000262,Hindi,start_game,मेमोरी गेम शुरू करो
+V000263,Hindi,start_game,मेमोरी गेम शुरू करो
+V000264,Hindi,start_game,मेमोरी गेम शुरू करो
+V000265,Hindi,start_game,मेमोरी गेम शुरू करो
+V000266,Hindi,start_game,मेमोरी गेम शुरू करो
+V000267,Hindi,start_game,मेमोरी गेम शुरू करो
+V000268,Hindi,start_game,मेमोरी गेम शुरू करो
+V000269,Hindi,start_game,मेमोरी गेम शुरू करो
+V000270,Hindi,start_game,मेमोरी गेम शुरू करो
+V000271,Hindi,start_game,मेमोरी गेम शुरू करो
+V000272,Hindi,start_game,मेमोरी गेम शुरू करो
+V000273,Hindi,start_game,मेमोरी गेम शुरू करो
+V000274,Hindi,start_game,मेमोरी गेम शुरू करो
+V000275,Hindi,start_game,मेमोरी गेम शुरू करो
+V000276,Hindi,start_game,मेमोरी गेम शुरू करो
+V000277,Hindi,start_game,मेमोरी गेम शुरू करो
+V000278,Hindi,start_game,मेमोरी गेम शुरू करो
+V000279,Hindi,start_game,मेमोरी गेम शुरू करो
+V000280,Hindi,start_game,मेमोरी गेम शुरू करो
+V000281,Hindi,start_game,मेमोरी गेम शुरू करो
+V000282,Hindi,start_game,मेमोरी गेम शुरू करो
+V000283,Hindi,start_game,मेमोरी गेम शुरू करो
+V000284,Hindi,start_game,मेमोरी गेम शुरू करो
+V000285,Hindi,start_game,मेमोरी गेम शुरू करो
+V000286,Hindi,start_game,मेमोरी गेम शुरू करो
+V000287,Hindi,start_game,मेमोरी गेम शुरू करो
+V000288,Hindi,start_game,मेमोरी गेम शुरू करो
+V000289,Hindi,start_game,मेमोरी गेम शुरू करो
+V000290,Hindi,start_game,मेमोरी गेम शुरू करो
+V000291,Hindi,start_game,मेमोरी गेम शुरू करो
+V000292,Hindi,start_game,मेमोरी गेम शुरू करो
+V000293,Hindi,start_game,मेमोरी गेम शुरू करो
+V000294,Hindi,start_game,मेमोरी गेम शुरू करो
+V000295,Hindi,start_game,मेमोरी गेम शुरू करो
+V000296,Hindi,start_game,मेमोरी गेम शुरू करो
+V000297,Hindi,start_game,मेमोरी गेम शुरू करो
+V000298,Hindi,start_game,मेमोरी गेम शुरू करो
+V000299,Hindi,start_game,मेमोरी गेम शुरू करो
+V000300,Hindi,start_game,मेमोरी गेम शुरू करो
+V000301,Hindi,start_game,मेमोरी गेम शुरू करो
+V000302,Hindi,start_game,मेमोरी गेम शुरू करो
+V000303,Hindi,start_game,मेमोरी गेम शुरू करो
+V000304,Hindi,start_game,मेमोरी गेम शुरू करो
+V000305,Hindi,start_game,मेमोरी गेम शुरू करो
+V000306,Hindi,start_game,मेमोरी गेम शुरू करो
+V000307,Hindi,start_game,मेमोरी गेम शुरू करो
+V000308,Hindi,start_game,मेमोरी गेम शुरू करो
+V000309,Hindi,start_game,मेमोरी गेम शुरू करो
+V000310,Hindi,start_game,मेमोरी गेम शुरू करो
+V000311,Hindi,start_game,मेमोरी गेम शुरू करो
+V000312,Hindi,start_game,मेमोरी गेम शुरू करो
+V000313,Hindi,start_game,मेमोरी गेम शुरू करो
+V000314,Hindi,start_game,मेमोरी गेम शुरू करो
+V000315,Hindi,start_game,मेमोरी गेम शुरू करो
+V000316,Hindi,start_game,मेमोरी गेम शुरू करो
+V000317,Hindi,start_game,मेमोरी गेम शुरू करो
+V000318,Hindi,start_game,मेमोरी गेम शुरू करो
+V000319,Hindi,start_game,मेमोरी गेम शुरू करो
+V000320,Hindi,start_game,मेमोरी गेम शुरू करो
+V000321,Hindi,start_game,मेमोरी गेम शुरू करो
+V000322,Hindi,start_game,मेमोरी गेम शुरू करो
+V000323,Hindi,start_game,मेमोरी गेम शुरू करो
+V000324,Hindi,start_game,मेमोरी गेम शुरू करो
+V000325,Hindi,start_game,मेमोरी गेम शुरू करो
+V000326,Hindi,start_game,मेमोरी गेम शुरू करो
+V000327,Hindi,start_game,मेमोरी गेम शुरू करो
+V000328,Hindi,start_game,मेमोरी गेम शुरू करो
+V000329,Hindi,start_game,मेमोरी गेम शुरू करो
+V000330,Hindi,start_game,मेमोरी गेम शुरू करो
+V000331,Hindi,start_game,मेमोरी गेम शुरू करो
+V000332,Hindi,start_game,मेमोरी गेम शुरू करो
+V000333,Hindi,start_game,मेमोरी गेम शुरू करो
+V000334,Hindi,start_game,मेमोरी गेम शुरू करो
+V000335,Hindi,start_game,मेमोरी गेम शुरू करो
+V000336,Hindi,start_game,मेमोरी गेम शुरू करो
+V000337,Hindi,start_game,मेमोरी गेम शुरू करो
+V000338,Hindi,start_game,मेमोरी गेम शुरू करो
+V000339,Hindi,start_game,मेमोरी गेम शुरू करो
+V000340,Hindi,start_game,मेमोरी गेम शुरू करो
+V000341,Hindi,start_game,मेमोरी गेम शुरू करो
+V000342,Hindi,start_game,मेमोरी गेम शुरू करो
+V000343,Hindi,start_game,मेमोरी गेम शुरू करो
+V000344,Hindi,start_game,मेमोरी गेम शुरू करो
+V000345,Hindi,start_game,मेमोरी गेम शुरू करो
+V000346,Hindi,start_game,मेमोरी गेम शुरू करो
+V000347,Hindi,start_game,मेमोरी गेम शुरू करो
+V000348,Hindi,start_game,मेमोरी गेम शुरू करो
+V000349,Hindi,start_game,मेमोरी गेम शुरू करो
+V000350,Hindi,start_game,मेमोरी गेम शुरू करो
+V000351,Hindi,start_game,मेमोरी गेम शुरू करो
+V000352,Hindi,start_game,मेमोरी गेम शुरू करो
+V000353,Hindi,start_game,मेमोरी गेम शुरू करो
+V000354,Hindi,start_game,मेमोरी गेम शुरू करो
+V000355,Hindi,start_game,मेमोरी गेम शुरू करो
+V000356,Hindi,start_game,मेमोरी गेम शुरू करो
+V000357,Hindi,start_game,मेमोरी गेम शुरू करो
+V000358,Hindi,start_game,मेमोरी गेम शुरू करो
+V000359,Hindi,start_game,मेमोरी गेम शुरू करो
+V000360,Hindi,start_game,मेमोरी गेम शुरू करो
+V000361,Hindi,start_game,मेमोरी गेम शुरू करो
+V000362,Hindi,start_game,मेमोरी गेम शुरू करो
+V000363,Hindi,start_game,मेमोरी गेम शुरू करो
+V000364,Hindi,start_game,मेमोरी गेम शुरू करो
+V000365,Hindi,start_game,मेमोरी गेम शुरू करो
+V000366,Hindi,start_game,मेमोरी गेम शुरू करो
+V000367,Hindi,start_game,मेमोरी गेम शुरू करो
+V000368,Hindi,start_game,मेमोरी गेम शुरू करो
+V000369,Hindi,start_game,मेमोरी गेम शुरू करो
+V000370,Hindi,start_game,मेमोरी गेम शुरू करो
+V000371,Hindi,start_game,मेमोरी गेम शुरू करो
+V000372,Hindi,start_game,मेमोरी गेम शुरू करो
+V000373,Hindi,start_game,मेमोरी गेम शुरू करो
+V000374,Hindi,start_game,मेमोरी गेम शुरू करो
+V000375,Hindi,start_game,मेमोरी गेम शुरू करो
+V000376,Hindi,start_game,मेमोरी गेम शुरू करो
+V000377,Hindi,start_game,मेमोरी गेम शुरू करो
+V000378,Hindi,start_game,मेमोरी गेम शुरू करो
+V000379,Hindi,start_game,मेमोरी गेम शुरू करो
+V000380,Hindi,start_game,मेमोरी गेम शुरू करो
+V000381,Hindi,start_game,मेमोरी गेम शुरू करो
+V000382,Hindi,start_game,मेमोरी गेम शुरू करो
+V000383,Hindi,start_game,मेमोरी गेम शुरू करो
+V000384,Hindi,start_game,मेमोरी गेम शुरू करो
+V000385,Hindi,start_game,मेमोरी गेम शुरू करो
+V000386,Hindi,start_game,मेमोरी गेम शुरू करो
+V000387,Hindi,start_game,मेमोरी गेम शुरू करो
+V000388,Hindi,start_game,मेमोरी गेम शुरू करो
+V000389,Hindi,start_game,मेमोरी गेम शुरू करो
+V000390,Hindi,start_game,मेमोरी गेम शुरू करो
+V000391,Hindi,start_game,मेमोरी गेम शुरू करो
+V000392,Hindi,start_game,मेमोरी गेम शुरू करो
+V000393,Hindi,start_game,मेमोरी गेम शुरू करो
+V000394,Hindi,start_game,मेमोरी गेम शुरू करो
+V000395,Hindi,start_game,मेमोरी गेम शुरू करो
+V000396,Hindi,start_game,मेमोरी गेम शुरू करो
+V000397,Hindi,start_game,मेमोरी गेम शुरू करो
+V000398,Hindi,start_game,मेमोरी गेम शुरू करो
+V000399,Hindi,start_game,मेमोरी गेम शुरू करो
+V000400,Hindi,start_game,मेमोरी गेम शुरू करो
+V000401,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000402,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000403,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000404,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000405,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000406,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000407,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000408,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000409,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000410,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000411,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000412,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000413,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000414,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000415,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000416,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000417,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000418,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000419,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000420,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000421,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000422,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000423,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000424,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000425,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000426,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000427,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000428,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000429,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000430,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000431,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000432,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000433,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000434,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000435,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000436,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000437,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000438,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000439,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000440,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000441,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000442,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000443,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000444,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000445,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000446,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000447,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000448,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000449,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000450,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000451,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000452,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000453,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000454,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000455,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000456,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000457,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000458,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000459,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000460,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000461,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000462,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000463,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000464,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000465,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000466,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000467,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000468,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000469,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000470,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000471,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000472,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000473,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000474,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000475,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000476,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000477,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000478,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000479,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000480,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000481,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000482,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000483,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000484,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000485,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000486,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000487,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000488,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000489,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000490,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000491,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000492,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000493,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000494,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000495,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000496,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000497,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000498,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000499,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000500,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000501,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000502,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000503,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000504,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000505,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000506,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000507,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000508,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000509,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000510,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000511,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000512,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000513,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000514,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000515,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000516,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000517,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000518,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000519,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000520,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000521,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000522,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000523,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000524,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000525,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000526,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000527,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000528,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000529,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000530,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000531,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000532,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000533,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000534,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000535,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000536,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000537,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000538,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000539,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000540,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000541,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000542,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000543,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000544,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000545,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000546,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000547,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000548,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000549,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000550,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000551,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000552,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000553,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000554,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000555,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000556,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000557,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000558,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000559,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000560,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000561,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000562,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000563,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000564,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000565,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000566,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000567,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000568,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000569,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000570,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000571,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000572,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000573,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000574,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000575,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000576,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000577,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000578,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000579,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000580,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000581,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000582,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000583,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000584,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000585,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000586,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000587,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000588,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000589,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000590,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000591,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000592,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000593,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000594,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000595,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000596,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000597,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000598,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000599,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000600,Assamese,start_game,মেমৰি গেম আৰম্ভ কৰক
+V000601,English,medicine_reminder,Remind me to take my medicine
+V000602,English,medicine_reminder,Remind me to take my medicine
+V000603,English,medicine_reminder,Remind me to take my medicine
+V000604,English,medicine_reminder,Remind me to take my medicine
+V000605,English,medicine_reminder,Remind me to take my medicine
+V000606,English,medicine_reminder,Remind me to take my medicine
+V000607,English,medicine_reminder,Remind me to take my medicine
+V000608,English,medicine_reminder,Remind me to take my medicine
+V000609,English,medicine_reminder,Remind me to take my medicine
+V000610,English,medicine_reminder,Remind me to take my medicine
+V000611,English,medicine_reminder,Remind me to take my medicine
+V000612,English,medicine_reminder,Remind me to take my medicine
+V000613,English,medicine_reminder,Remind me to take my medicine
+V000614,English,medicine_reminder,Remind me to take my medicine
+V000615,English,medicine_reminder,Remind me to take my medicine
+V000616,English,medicine_reminder,Remind me to take my medicine
+V000617,English,medicine_reminder,Remind me to take my medicine
+V000618,English,medicine_reminder,Remind me to take my medicine
+V000619,English,medicine_reminder,Remind me to take my medicine
+V000620,English,medicine_reminder,Remind me to take my medicine
+V000621,English,medicine_reminder,Remind me to take my medicine
+V000622,English,medicine_reminder,Remind me to take my medicine
+V000623,English,medicine_reminder,Remind me to take my medicine
+V000624,English,medicine_reminder,Remind me to take my medicine
+V000625,English,medicine_reminder,Remind me to take my medicine
+V000626,English,medicine_reminder,Remind me to take my medicine
+V000627,English,medicine_reminder,Remind me to take my medicine
+V000628,English,medicine_reminder,Remind me to take my medicine
+V000629,English,medicine_reminder,Remind me to take my medicine
+V000630,English,medicine_reminder,Remind me to take my medicine
+V000631,English,medicine_reminder,Remind me to take my medicine
+V000632,English,medicine_reminder,Remind me to take my medicine
+V000633,English,medicine_reminder,Remind me to take my medicine
+V000634,English,medicine_reminder,Remind me to take my medicine
+V000635,English,medicine_reminder,Remind me to take my medicine
+V000636,English,medicine_reminder,Remind me to take my medicine
+V000637,English,medicine_reminder,Remind me to take my medicine
+V000638,English,medicine_reminder,Remind me to take my medicine
+V000639,English,medicine_reminder,Remind me to take my medicine
+V000640,English,medicine_reminder,Remind me to take my medicine
+V000641,English,medicine_reminder,Remind me to take my medicine
+V000642,English,medicine_reminder,Remind me to take my medicine
+V000643,English,medicine_reminder,Remind me to take my medicine
+V000644,English,medicine_reminder,Remind me to take my medicine
+V000645,English,medicine_reminder,Remind me to take my medicine
+V000646,English,medicine_reminder,Remind me to take my medicine
+V000647,English,medicine_reminder,Remind me to take my medicine
+V000648,English,medicine_reminder,Remind me to take my medicine
+V000649,English,medicine_reminder,Remind me to take my medicine
+V000650,English,medicine_reminder,Remind me to take my medicine
+V000651,English,medicine_reminder,Remind me to take my medicine
+V000652,English,medicine_reminder,Remind me to take my medicine
+V000653,English,medicine_reminder,Remind me to take my medicine
+V000654,English,medicine_reminder,Remind me to take my medicine
+V000655,English,medicine_reminder,Remind me to take my medicine
+V000656,English,medicine_reminder,Remind me to take my medicine
+V000657,English,medicine_reminder,Remind me to take my medicine
+V000658,English,medicine_reminder,Remind me to take my medicine
+V000659,English,medicine_reminder,Remind me to take my medicine
+V000660,English,medicine_reminder,Remind me to take my medicine
+V000661,English,medicine_reminder,Remind me to take my medicine
+V000662,English,medicine_reminder,Remind me to take my medicine
+V000663,English,medicine_reminder,Remind me to take my medicine
+V000664,English,medicine_reminder,Remind me to take my medicine
+V000665,English,medicine_reminder,Remind me to take my medicine
+V000666,English,medicine_reminder,Remind me to take my medicine
+V000667,English,medicine_reminder,Remind me to take my medicine
+V000668,English,medicine_reminder,Remind me to take my medicine
+V000669,English,medicine_reminder,Remind me to take my medicine
+V000670,English,medicine_reminder,Remind me to take my medicine
+V000671,English,medicine_reminder,Remind me to take my medicine
+V000672,English,medicine_reminder,Remind me to take my medicine
+V000673,English,medicine_reminder,Remind me to take my medicine
+V000674,English,medicine_reminder,Remind me to take my medicine
+V000675,English,medicine_reminder,Remind me to take my medicine
+V000676,English,medicine_reminder,Remind me to take my medicine
+V000677,English,medicine_reminder,Remind me to take my medicine
+V000678,English,medicine_reminder,Remind me to take my medicine
+V000679,English,medicine_reminder,Remind me to take my medicine
+V000680,English,medicine_reminder,Remind me to take my medicine
+V000681,English,medicine_reminder,Remind me to take my medicine
+V000682,English,medicine_reminder,Remind me to take my medicine
+V000683,English,medicine_reminder,Remind me to take my medicine
+V000684,English,medicine_reminder,Remind me to take my medicine
+V000685,English,medicine_reminder,Remind me to take my medicine
+V000686,English,medicine_reminder,Remind me to take my medicine
+V000687,English,medicine_reminder,Remind me to take my medicine
+V000688,English,medicine_reminder,Remind me to take my medicine
+V000689,English,medicine_reminder,Remind me to take my medicine
+V000690,English,medicine_reminder,Remind me to take my medicine
+V000691,English,medicine_reminder,Remind me to take my medicine
+V000692,English,medicine_reminder,Remind me to take my medicine
+V000693,English,medicine_reminder,Remind me to take my medicine
+V000694,English,medicine_reminder,Remind me to take my medicine
+V000695,English,medicine_reminder,Remind me to take my medicine
+V000696,English,medicine_reminder,Remind me to take my medicine
+V000697,English,medicine_reminder,Remind me to take my medicine
+V000698,English,medicine_reminder,Remind me to take my medicine
+V000699,English,medicine_reminder,Remind me to take my medicine
+V000700,English,medicine_reminder,Remind me to take my medicine
+V000701,English,medicine_reminder,Remind me to take my medicine
+V000702,English,medicine_reminder,Remind me to take my medicine
+V000703,English,medicine_reminder,Remind me to take my medicine
+V000704,English,medicine_reminder,Remind me to take my medicine
+V000705,English,medicine_reminder,Remind me to take my medicine
+V000706,English,medicine_reminder,Remind me to take my medicine
+V000707,English,medicine_reminder,Remind me to take my medicine
+V000708,English,medicine_reminder,Remind me to take my medicine
+V000709,English,medicine_reminder,Remind me to take my medicine
+V000710,English,medicine_reminder,Remind me to take my medicine
+V000711,English,medicine_reminder,Remind me to take my medicine
+V000712,English,medicine_reminder,Remind me to take my medicine
+V000713,English,medicine_reminder,Remind me to take my medicine
+V000714,English,medicine_reminder,Remind me to take my medicine
+V000715,English,medicine_reminder,Remind me to take my medicine
+V000716,English,medicine_reminder,Remind me to take my medicine
+V000717,English,medicine_reminder,Remind me to take my medicine
+V000718,English,medicine_reminder,Remind me to take my medicine
+V000719,English,medicine_reminder,Remind me to take my medicine
+V000720,English,medicine_reminder,Remind me to take my medicine
+V000721,English,medicine_reminder,Remind me to take my medicine
+V000722,English,medicine_reminder,Remind me to take my medicine
+V000723,English,medicine_reminder,Remind me to take my medicine
+V000724,English,medicine_reminder,Remind me to take my medicine
+V000725,English,medicine_reminder,Remind me to take my medicine
+V000726,English,medicine_reminder,Remind me to take my medicine
+V000727,English,medicine_reminder,Remind me to take my medicine
+V000728,English,medicine_reminder,Remind me to take my medicine
+V000729,English,medicine_reminder,Remind me to take my medicine
+V000730,English,medicine_reminder,Remind me to take my medicine
+V000731,English,medicine_reminder,Remind me to take my medicine
+V000732,English,medicine_reminder,Remind me to take my medicine
+V000733,English,medicine_reminder,Remind me to take my medicine
+V000734,English,medicine_reminder,Remind me to take my medicine
+V000735,English,medicine_reminder,Remind me to take my medicine
+V000736,English,medicine_reminder,Remind me to take my medicine
+V000737,English,medicine_reminder,Remind me to take my medicine
+V000738,English,medicine_reminder,Remind me to take my medicine
+V000739,English,medicine_reminder,Remind me to take my medicine
+V000740,English,medicine_reminder,Remind me to take my medicine
+V000741,English,medicine_reminder,Remind me to take my medicine
+V000742,English,medicine_reminder,Remind me to take my medicine
+V000743,English,medicine_reminder,Remind me to take my medicine
+V000744,English,medicine_reminder,Remind me to take my medicine
+V000745,English,medicine_reminder,Remind me to take my medicine
+V000746,English,medicine_reminder,Remind me to take my medicine
+V000747,English,medicine_reminder,Remind me to take my medicine
+V000748,English,medicine_reminder,Remind me to take my medicine
+V000749,English,medicine_reminder,Remind me to take my medicine
+V000750,English,medicine_reminder,Remind me to take my medicine
+V000751,English,medicine_reminder,Remind me to take my medicine
+V000752,English,medicine_reminder,Remind me to take my medicine
+V000753,English,medicine_reminder,Remind me to take my medicine
+V000754,English,medicine_reminder,Remind me to take my medicine
+V000755,English,medicine_reminder,Remind me to take my medicine
+V000756,English,medicine_reminder,Remind me to take my medicine
+V000757,English,medicine_reminder,Remind me to take my medicine
+V000758,English,medicine_reminder,Remind me to take my medicine
+V000759,English,medicine_reminder,Remind me to take my medicine
+V000760,English,medicine_reminder,Remind me to take my medicine
+V000761,English,medicine_reminder,Remind me to take my medicine
+V000762,English,medicine_reminder,Remind me to take my medicine
+V000763,English,medicine_reminder,Remind me to take my medicine
+V000764,English,medicine_reminder,Remind me to take my medicine
+V000765,English,medicine_reminder,Remind me to take my medicine
+V000766,English,medicine_reminder,Remind me to take my medicine
+V000767,English,medicine_reminder,Remind me to take my medicine
+V000768,English,medicine_reminder,Remind me to take my medicine
+V000769,English,medicine_reminder,Remind me to take my medicine
+V000770,English,medicine_reminder,Remind me to take my medicine
+V000771,English,medicine_reminder,Remind me to take my medicine
+V000772,English,medicine_reminder,Remind me to take my medicine
+V000773,English,medicine_reminder,Remind me to take my medicine
+V000774,English,medicine_reminder,Remind me to take my medicine
+V000775,English,medicine_reminder,Remind me to take my medicine
+V000776,English,medicine_reminder,Remind me to take my medicine
+V000777,English,medicine_reminder,Remind me to take my medicine
+V000778,English,medicine_reminder,Remind me to take my medicine
+V000779,English,medicine_reminder,Remind me to take my medicine
+V000780,English,medicine_reminder,Remind me to take my medicine
+V000781,English,medicine_reminder,Remind me to take my medicine
+V000782,English,medicine_reminder,Remind me to take my medicine
+V000783,English,medicine_reminder,Remind me to take my medicine
+V000784,English,medicine_reminder,Remind me to take my medicine
+V000785,English,medicine_reminder,Remind me to take my medicine
+V000786,English,medicine_reminder,Remind me to take my medicine
+V000787,English,medicine_reminder,Remind me to take my medicine
+V000788,English,medicine_reminder,Remind me to take my medicine
+V000789,English,medicine_reminder,Remind me to take my medicine
+V000790,English,medicine_reminder,Remind me to take my medicine
+V000791,English,medicine_reminder,Remind me to take my medicine
+V000792,English,medicine_reminder,Remind me to take my medicine
+V000793,English,medicine_reminder,Remind me to take my medicine
+V000794,English,medicine_reminder,Remind me to take my medicine
+V000795,English,medicine_reminder,Remind me to take my medicine
+V000796,English,medicine_reminder,Remind me to take my medicine
+V000797,English,medicine_reminder,Remind me to take my medicine
+V000798,English,medicine_reminder,Remind me to take my medicine
+V000799,English,medicine_reminder,Remind me to take my medicine
+V000800,English,medicine_reminder,Remind me to take my medicine
+V000801,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000802,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000803,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000804,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000805,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000806,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000807,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000808,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000809,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000810,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000811,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000812,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000813,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000814,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000815,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000816,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000817,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000818,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000819,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000820,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000821,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000822,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000823,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000824,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000825,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000826,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000827,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000828,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000829,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000830,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000831,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000832,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000833,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000834,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000835,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000836,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000837,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000838,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000839,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000840,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000841,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000842,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000843,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000844,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000845,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000846,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000847,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000848,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000849,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000850,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000851,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000852,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000853,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000854,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000855,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000856,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000857,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000858,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000859,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000860,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000861,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000862,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000863,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000864,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000865,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000866,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000867,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000868,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000869,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000870,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000871,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000872,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000873,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000874,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000875,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000876,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000877,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000878,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000879,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000880,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000881,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000882,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000883,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000884,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000885,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000886,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000887,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000888,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000889,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000890,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000891,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000892,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000893,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000894,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000895,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000896,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000897,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000898,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000899,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000900,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000901,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000902,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000903,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000904,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000905,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000906,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000907,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000908,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000909,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000910,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000911,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000912,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000913,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000914,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000915,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000916,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000917,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000918,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000919,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000920,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000921,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000922,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000923,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000924,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000925,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000926,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000927,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000928,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000929,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000930,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000931,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000932,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000933,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000934,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000935,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000936,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000937,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000938,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000939,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000940,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000941,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000942,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000943,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000944,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000945,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000946,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000947,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000948,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000949,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000950,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000951,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000952,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000953,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000954,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000955,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000956,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000957,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000958,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000959,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000960,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000961,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000962,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000963,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000964,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000965,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000966,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000967,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000968,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000969,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000970,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000971,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000972,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000973,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000974,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000975,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000976,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000977,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000978,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000979,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000980,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000981,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000982,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000983,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000984,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000985,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000986,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000987,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000988,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000989,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000990,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000991,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000992,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000993,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000994,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000995,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000996,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000997,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000998,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V000999,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V001000,Hindi,medicine_reminder,दवा लेने की याद दिलाओ
+V001001,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001002,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001003,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001004,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001005,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001006,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001007,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001008,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001009,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001010,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001011,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001012,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001013,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001014,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001015,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001016,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001017,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001018,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001019,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001020,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001021,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001022,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001023,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001024,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001025,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001026,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001027,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001028,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001029,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001030,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001031,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001032,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001033,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001034,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001035,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001036,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001037,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001038,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001039,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001040,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001041,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001042,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001043,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001044,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001045,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001046,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001047,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001048,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001049,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001050,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001051,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001052,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001053,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001054,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001055,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001056,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001057,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001058,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001059,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001060,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001061,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001062,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001063,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001064,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001065,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001066,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001067,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001068,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001069,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001070,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001071,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001072,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001073,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001074,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001075,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001076,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001077,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001078,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001079,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001080,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001081,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001082,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001083,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001084,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001085,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001086,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001087,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001088,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001089,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001090,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001091,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001092,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001093,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001094,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001095,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001096,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001097,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001098,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001099,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001100,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001101,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001102,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001103,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001104,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001105,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001106,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001107,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001108,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001109,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001110,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001111,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001112,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001113,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001114,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001115,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001116,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001117,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001118,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001119,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001120,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001121,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001122,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001123,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001124,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001125,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001126,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001127,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001128,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001129,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001130,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001131,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001132,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001133,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001134,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001135,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001136,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001137,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001138,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001139,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001140,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001141,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001142,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001143,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001144,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001145,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001146,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001147,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001148,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001149,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001150,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001151,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001152,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001153,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001154,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001155,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001156,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001157,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001158,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001159,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001160,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001161,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001162,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001163,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001164,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001165,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001166,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001167,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001168,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001169,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001170,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001171,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001172,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001173,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001174,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001175,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001176,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001177,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001178,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001179,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001180,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001181,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001182,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001183,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001184,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001185,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001186,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001187,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001188,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001189,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001190,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001191,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001192,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001193,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001194,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001195,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001196,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001197,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001198,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001199,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001200,Assamese,medicine_reminder,ঔষধ খোৱাৰ কথা মনত পেলাই দিয়ক
+V001201,English,hydration_reminder,Remind me to drink water
+V001202,English,hydration_reminder,Remind me to drink water
+V001203,English,hydration_reminder,Remind me to drink water
+V001204,English,hydration_reminder,Remind me to drink water
+V001205,English,hydration_reminder,Remind me to drink water
+V001206,English,hydration_reminder,Remind me to drink water
+V001207,English,hydration_reminder,Remind me to drink water
+V001208,English,hydration_reminder,Remind me to drink water
+V001209,English,hydration_reminder,Remind me to drink water
+V001210,English,hydration_reminder,Remind me to drink water
+V001211,English,hydration_reminder,Remind me to drink water
+V001212,English,hydration_reminder,Remind me to drink water
+V001213,English,hydration_reminder,Remind me to drink water
+V001214,English,hydration_reminder,Remind me to drink water
+V001215,English,hydration_reminder,Remind me to drink water
+V001216,English,hydration_reminder,Remind me to drink water
+V001217,English,hydration_reminder,Remind me to drink water
+V001218,English,hydration_reminder,Remind me to drink water
+V001219,English,hydration_reminder,Remind me to drink water
+V001220,English,hydration_reminder,Remind me to drink water
+V001221,English,hydration_reminder,Remind me to drink water
+V001222,English,hydration_reminder,Remind me to drink water
+V001223,English,hydration_reminder,Remind me to drink water
+V001224,English,hydration_reminder,Remind me to drink water
+V001225,English,hydration_reminder,Remind me to drink water
+V001226,English,hydration_reminder,Remind me to drink water
+V001227,English,hydration_reminder,Remind me to drink water
+V001228,English,hydration_reminder,Remind me to drink water
+V001229,English,hydration_reminder,Remind me to drink water
+V001230,English,hydration_reminder,Remind me to drink water
+V001231,English,hydration_reminder,Remind me to drink water
+V001232,English,hydration_reminder,Remind me to drink water
+V001233,English,hydration_reminder,Remind me to drink water
+V001234,English,hydration_reminder,Remind me to drink water
+V001235,English,hydration_reminder,Remind me to drink water
+V001236,English,hydration_reminder,Remind me to drink water
+V001237,English,hydration_reminder,Remind me to drink water
+V001238,English,hydration_reminder,Remind me to drink water
+V001239,English,hydration_reminder,Remind me to drink water
+V001240,English,hydration_reminder,Remind me to drink water
+V001241,English,hydration_reminder,Remind me to drink water
+V001242,English,hydration_reminder,Remind me to drink water
+V001243,English,hydration_reminder,Remind me to drink water
+V001244,English,hydration_reminder,Remind me to drink water
+V001245,English,hydration_reminder,Remind me to drink water
+V001246,English,hydration_reminder,Remind me to drink water
+V001247,English,hydration_reminder,Remind me to drink water
+V001248,English,hydration_reminder,Remind me to drink water
+V001249,English,hydration_reminder,Remind me to drink water
+V001250,English,hydration_reminder,Remind me to drink water
+V001251,English,hydration_reminder,Remind me to drink water
+V001252,English,hydration_reminder,Remind me to drink water
+V001253,English,hydration_reminder,Remind me to drink water
+V001254,English,hydration_reminder,Remind me to drink water
+V001255,English,hydration_reminder,Remind me to drink water
+V001256,English,hydration_reminder,Remind me to drink water
+V001257,English,hydration_reminder,Remind me to drink water
+V001258,English,hydration_reminder,Remind me to drink water
+V001259,English,hydration_reminder,Remind me to drink water
+V001260,English,hydration_reminder,Remind me to drink water
+V001261,English,hydration_reminder,Remind me to drink water
+V001262,English,hydration_reminder,Remind me to drink water
+V001263,English,hydration_reminder,Remind me to drink water
+V001264,English,hydration_reminder,Remind me to drink water
+V001265,English,hydration_reminder,Remind me to drink water
+V001266,English,hydration_reminder,Remind me to drink water
+V001267,English,hydration_reminder,Remind me to drink water
+V001268,English,hydration_reminder,Remind me to drink water
+V001269,English,hydration_reminder,Remind me to drink water
+V001270,English,hydration_reminder,Remind me to drink water
+V001271,English,hydration_reminder,Remind me to drink water
+V001272,English,hydration_reminder,Remind me to drink water
+V001273,English,hydration_reminder,Remind me to drink water
+V001274,English,hydration_reminder,Remind me to drink water
+V001275,English,hydration_reminder,Remind me to drink water
+V001276,English,hydration_reminder,Remind me to drink water
+V001277,English,hydration_reminder,Remind me to drink water
+V001278,English,hydration_reminder,Remind me to drink water
+V001279,English,hydration_reminder,Remind me to drink water
+V001280,English,hydration_reminder,Remind me to drink water
+V001281,English,hydration_reminder,Remind me to drink water
+V001282,English,hydration_reminder,Remind me to drink water
+V001283,English,hydration_reminder,Remind me to drink water
+V001284,English,hydration_reminder,Remind me to drink water
+V001285,English,hydration_reminder,Remind me to drink water
+V001286,English,hydration_reminder,Remind me to drink water
+V001287,English,hydration_reminder,Remind me to drink water
+V001288,English,hydration_reminder,Remind me to drink water
+V001289,English,hydration_reminder,Remind me to drink water
+V001290,English,hydration_reminder,Remind me to drink water
+V001291,English,hydration_reminder,Remind me to drink water
+V001292,English,hydration_reminder,Remind me to drink water
+V001293,English,hydration_reminder,Remind me to drink water
+V001294,English,hydration_reminder,Remind me to drink water
+V001295,English,hydration_reminder,Remind me to drink water
+V001296,English,hydration_reminder,Remind me to drink water
+V001297,English,hydration_reminder,Remind me to drink water
+V001298,English,hydration_reminder,Remind me to drink water
+V001299,English,hydration_reminder,Remind me to drink water
+V001300,English,hydration_reminder,Remind me to drink water
+V001301,English,hydration_reminder,Remind me to drink water
+V001302,English,hydration_reminder,Remind me to drink water
+V001303,English,hydration_reminder,Remind me to drink water
+V001304,English,hydration_reminder,Remind me to drink water
+V001305,English,hydration_reminder,Remind me to drink water
+V001306,English,hydration_reminder,Remind me to drink water
+V001307,English,hydration_reminder,Remind me to drink water
+V001308,English,hydration_reminder,Remind me to drink water
+V001309,English,hydration_reminder,Remind me to drink water
+V001310,English,hydration_reminder,Remind me to drink water
+V001311,English,hydration_reminder,Remind me to drink water
+V001312,English,hydration_reminder,Remind me to drink water
+V001313,English,hydration_reminder,Remind me to drink water
+V001314,English,hydration_reminder,Remind me to drink water
+V001315,English,hydration_reminder,Remind me to drink water
+V001316,English,hydration_reminder,Remind me to drink water
+V001317,English,hydration_reminder,Remind me to drink water
+V001318,English,hydration_reminder,Remind me to drink water
+V001319,English,hydration_reminder,Remind me to drink water
+V001320,English,hydration_reminder,Remind me to drink water
+V001321,English,hydration_reminder,Remind me to drink water
+V001322,English,hydration_reminder,Remind me to drink water
+V001323,English,hydration_reminder,Remind me to drink water
+V001324,English,hydration_reminder,Remind me to drink water
+V001325,English,hydration_reminder,Remind me to drink water
+V001326,English,hydration_reminder,Remind me to drink water
+V001327,English,hydration_reminder,Remind me to drink water
+V001328,English,hydration_reminder,Remind me to drink water
+V001329,English,hydration_reminder,Remind me to drink water
+V001330,English,hydration_reminder,Remind me to drink water
+V001331,English,hydration_reminder,Remind me to drink water
+V001332,English,hydration_reminder,Remind me to drink water
+V001333,English,hydration_reminder,Remind me to drink water
+V001334,English,hydration_reminder,Remind me to drink water
+V001335,English,hydration_reminder,Remind me to drink water
+V001336,English,hydration_reminder,Remind me to drink water
+V001337,English,hydration_reminder,Remind me to drink water
+V001338,English,hydration_reminder,Remind me to drink water
+V001339,English,hydration_reminder,Remind me to drink water
+V001340,English,hydration_reminder,Remind me to drink water
+V001341,English,hydration_reminder,Remind me to drink water
+V001342,English,hydration_reminder,Remind me to drink water
+V001343,English,hydration_reminder,Remind me to drink water
+V001344,English,hydration_reminder,Remind me to drink water
+V001345,English,hydration_reminder,Remind me to drink water
+V001346,English,hydration_reminder,Remind me to drink water
+V001347,English,hydration_reminder,Remind me to drink water
+V001348,English,hydration_reminder,Remind me to drink water
+V001349,English,hydration_reminder,Remind me to drink water
+V001350,English,hydration_reminder,Remind me to drink water
+V001351,English,hydration_reminder,Remind me to drink water
+V001352,English,hydration_reminder,Remind me to drink water
+V001353,English,hydration_reminder,Remind me to drink water
+V001354,English,hydration_reminder,Remind me to drink water
+V001355,English,hydration_reminder,Remind me to drink water
+V001356,English,hydration_reminder,Remind me to drink water
+V001357,English,hydration_reminder,Remind me to drink water
+V001358,English,hydration_reminder,Remind me to drink water
+V001359,English,hydration_reminder,Remind me to drink water
+V001360,English,hydration_reminder,Remind me to drink water
+V001361,English,hydration_reminder,Remind me to drink water
+V001362,English,hydration_reminder,Remind me to drink water
+V001363,English,hydration_reminder,Remind me to drink water
+V001364,English,hydration_reminder,Remind me to drink water
+V001365,English,hydration_reminder,Remind me to drink water
+V001366,English,hydration_reminder,Remind me to drink water
+V001367,English,hydration_reminder,Remind me to drink water
+V001368,English,hydration_reminder,Remind me to drink water
+V001369,English,hydration_reminder,Remind me to drink water
+V001370,English,hydration_reminder,Remind me to drink water
+V001371,English,hydration_reminder,Remind me to drink water
+V001372,English,hydration_reminder,Remind me to drink water
+V001373,English,hydration_reminder,Remind me to drink water
+V001374,English,hydration_reminder,Remind me to drink water
+V001375,English,hydration_reminder,Remind me to drink water
+V001376,English,hydration_reminder,Remind me to drink water
+V001377,English,hydration_reminder,Remind me to drink water
+V001378,English,hydration_reminder,Remind me to drink water
+V001379,English,hydration_reminder,Remind me to drink water
+V001380,English,hydration_reminder,Remind me to drink water
+V001381,English,hydration_reminder,Remind me to drink water
+V001382,English,hydration_reminder,Remind me to drink water
+V001383,English,hydration_reminder,Remind me to drink water
+V001384,English,hydration_reminder,Remind me to drink water
+V001385,English,hydration_reminder,Remind me to drink water
+V001386,English,hydration_reminder,Remind me to drink water
+V001387,English,hydration_reminder,Remind me to drink water
+V001388,English,hydration_reminder,Remind me to drink water
+V001389,English,hydration_reminder,Remind me to drink water
+V001390,English,hydration_reminder,Remind me to drink water
+V001391,English,hydration_reminder,Remind me to drink water
+V001392,English,hydration_reminder,Remind me to drink water
+V001393,English,hydration_reminder,Remind me to drink water
+V001394,English,hydration_reminder,Remind me to drink water
+V001395,English,hydration_reminder,Remind me to drink water
+V001396,English,hydration_reminder,Remind me to drink water
+V001397,English,hydration_reminder,Remind me to drink water
+V001398,English,hydration_reminder,Remind me to drink water
+V001399,English,hydration_reminder,Remind me to drink water
+V001400,English,hydration_reminder,Remind me to drink water
+V001401,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001402,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001403,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001404,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001405,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001406,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001407,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001408,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001409,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001410,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001411,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001412,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001413,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001414,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001415,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001416,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001417,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001418,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001419,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001420,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001421,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001422,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001423,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001424,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001425,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001426,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001427,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001428,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001429,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001430,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001431,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001432,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001433,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001434,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001435,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001436,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001437,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001438,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001439,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001440,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001441,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001442,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001443,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001444,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001445,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001446,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001447,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001448,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001449,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001450,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001451,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001452,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001453,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001454,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001455,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001456,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001457,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001458,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001459,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001460,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001461,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001462,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001463,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001464,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001465,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001466,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001467,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001468,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001469,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001470,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001471,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001472,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001473,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001474,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001475,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001476,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001477,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001478,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001479,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001480,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001481,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001482,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001483,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001484,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001485,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001486,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001487,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001488,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001489,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001490,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001491,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001492,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001493,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001494,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001495,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001496,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001497,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001498,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001499,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001500,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001501,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001502,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001503,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001504,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001505,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001506,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001507,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001508,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001509,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001510,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001511,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001512,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001513,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001514,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001515,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001516,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001517,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001518,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001519,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001520,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001521,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001522,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001523,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001524,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001525,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001526,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001527,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001528,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001529,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001530,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001531,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001532,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001533,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001534,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001535,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001536,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001537,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001538,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001539,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001540,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001541,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001542,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001543,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001544,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001545,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001546,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001547,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001548,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001549,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001550,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001551,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001552,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001553,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001554,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001555,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001556,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001557,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001558,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001559,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001560,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001561,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001562,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001563,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001564,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001565,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001566,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001567,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001568,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001569,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001570,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001571,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001572,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001573,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001574,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001575,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001576,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001577,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001578,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001579,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001580,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001581,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001582,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001583,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001584,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001585,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001586,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001587,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001588,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001589,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001590,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001591,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001592,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001593,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001594,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001595,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001596,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001597,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001598,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001599,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001600,Hindi,hydration_reminder,पानी पीने की याद दिलाओ
+V001601,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001602,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001603,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001604,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001605,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001606,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001607,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001608,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001609,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001610,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001611,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001612,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001613,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001614,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001615,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001616,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001617,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001618,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001619,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001620,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001621,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001622,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001623,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001624,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001625,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001626,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001627,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001628,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001629,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001630,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001631,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001632,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001633,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001634,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001635,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001636,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001637,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001638,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001639,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001640,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001641,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001642,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001643,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001644,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001645,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001646,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001647,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001648,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001649,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001650,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001651,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001652,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001653,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001654,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001655,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001656,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001657,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001658,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001659,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001660,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001661,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001662,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001663,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001664,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001665,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001666,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001667,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001668,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001669,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001670,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001671,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001672,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001673,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001674,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001675,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001676,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001677,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001678,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001679,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001680,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001681,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001682,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001683,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001684,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001685,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001686,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001687,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001688,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001689,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001690,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001691,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001692,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001693,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001694,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001695,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001696,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001697,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001698,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001699,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001700,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001701,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001702,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001703,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001704,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001705,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001706,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001707,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001708,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001709,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001710,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001711,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001712,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001713,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001714,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001715,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001716,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001717,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001718,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001719,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001720,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001721,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001722,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001723,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001724,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001725,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001726,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001727,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001728,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001729,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001730,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001731,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001732,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001733,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001734,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001735,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001736,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001737,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001738,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001739,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001740,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001741,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001742,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001743,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001744,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001745,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001746,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001747,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001748,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001749,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001750,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001751,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001752,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001753,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001754,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001755,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001756,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001757,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001758,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001759,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001760,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001761,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001762,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001763,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001764,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001765,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001766,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001767,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001768,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001769,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001770,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001771,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001772,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001773,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001774,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001775,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001776,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001777,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001778,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001779,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001780,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001781,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001782,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001783,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001784,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001785,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001786,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001787,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001788,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001789,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001790,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001791,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001792,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001793,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001794,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001795,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001796,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001797,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001798,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001799,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001800,Assamese,hydration_reminder,পানী খাবলৈ মনত পেলাই দিয়ক
+V001801,English,today_tasks,What do I have to do today
+V001802,English,today_tasks,What do I have to do today
+V001803,English,today_tasks,What do I have to do today
+V001804,English,today_tasks,What do I have to do today
+V001805,English,today_tasks,What do I have to do today
+V001806,English,today_tasks,What do I have to do today
+V001807,English,today_tasks,What do I have to do today
+V001808,English,today_tasks,What do I have to do today
+V001809,English,today_tasks,What do I have to do today
+V001810,English,today_tasks,What do I have to do today
+V001811,English,today_tasks,What do I have to do today
+V001812,English,today_tasks,What do I have to do today
+V001813,English,today_tasks,What do I have to do today
+V001814,English,today_tasks,What do I have to do today
+V001815,English,today_tasks,What do I have to do today
+V001816,English,today_tasks,What do I have to do today
+V001817,English,today_tasks,What do I have to do today
+V001818,English,today_tasks,What do I have to do today
+V001819,English,today_tasks,What do I have to do today
+V001820,English,today_tasks,What do I have to do today
+V001821,English,today_tasks,What do I have to do today
+V001822,English,today_tasks,What do I have to do today
+V001823,English,today_tasks,What do I have to do today
+V001824,English,today_tasks,What do I have to do today
+V001825,English,today_tasks,What do I have to do today
+V001826,English,today_tasks,What do I have to do today
+V001827,English,today_tasks,What do I have to do today
+V001828,English,today_tasks,What do I have to do today
+V001829,English,today_tasks,What do I have to do today
+V001830,English,today_tasks,What do I have to do today
+V001831,English,today_tasks,What do I have to do today
+V001832,English,today_tasks,What do I have to do today
+V001833,English,today_tasks,What do I have to do today
+V001834,English,today_tasks,What do I have to do today
+V001835,English,today_tasks,What do I have to do today
+V001836,English,today_tasks,What do I have to do today
+V001837,English,today_tasks,What do I have to do today
+V001838,English,today_tasks,What do I have to do today
+V001839,English,today_tasks,What do I have to do today
+V001840,English,today_tasks,What do I have to do today
+V001841,English,today_tasks,What do I have to do today
+V001842,English,today_tasks,What do I have to do today
+V001843,English,today_tasks,What do I have to do today
+V001844,English,today_tasks,What do I have to do today
+V001845,English,today_tasks,What do I have to do today
+V001846,English,today_tasks,What do I have to do today
+V001847,English,today_tasks,What do I have to do today
+V001848,English,today_tasks,What do I have to do today
+V001849,English,today_tasks,What do I have to do today
+V001850,English,today_tasks,What do I have to do today
+V001851,English,today_tasks,What do I have to do today
+V001852,English,today_tasks,What do I have to do today
+V001853,English,today_tasks,What do I have to do today
+V001854,English,today_tasks,What do I have to do today
+V001855,English,today_tasks,What do I have to do today
+V001856,English,today_tasks,What do I have to do today
+V001857,English,today_tasks,What do I have to do today
+V001858,English,today_tasks,What do I have to do today
+V001859,English,today_tasks,What do I have to do today
+V001860,English,today_tasks,What do I have to do today
+V001861,English,today_tasks,What do I have to do today
+V001862,English,today_tasks,What do I have to do today
+V001863,English,today_tasks,What do I have to do today
+V001864,English,today_tasks,What do I have to do today
+V001865,English,today_tasks,What do I have to do today
+V001866,English,today_tasks,What do I have to do today
+V001867,English,today_tasks,What do I have to do today
+V001868,English,today_tasks,What do I have to do today
+V001869,English,today_tasks,What do I have to do today
+V001870,English,today_tasks,What do I have to do today
+V001871,English,today_tasks,What do I have to do today
+V001872,English,today_tasks,What do I have to do today
+V001873,English,today_tasks,What do I have to do today
+V001874,English,today_tasks,What do I have to do today
+V001875,English,today_tasks,What do I have to do today
+V001876,English,today_tasks,What do I have to do today
+V001877,English,today_tasks,What do I have to do today
+V001878,English,today_tasks,What do I have to do today
+V001879,English,today_tasks,What do I have to do today
+V001880,English,today_tasks,What do I have to do today
+V001881,English,today_tasks,What do I have to do today
+V001882,English,today_tasks,What do I have to do today
+V001883,English,today_tasks,What do I have to do today
+V001884,English,today_tasks,What do I have to do today
+V001885,English,today_tasks,What do I have to do today
+V001886,English,today_tasks,What do I have to do today
+V001887,English,today_tasks,What do I have to do today
+V001888,English,today_tasks,What do I have to do today
+V001889,English,today_tasks,What do I have to do today
+V001890,English,today_tasks,What do I have to do today
+V001891,English,today_tasks,What do I have to do today
+V001892,English,today_tasks,What do I have to do today
+V001893,English,today_tasks,What do I have to do today
+V001894,English,today_tasks,What do I have to do today
+V001895,English,today_tasks,What do I have to do today
+V001896,English,today_tasks,What do I have to do today
+V001897,English,today_tasks,What do I have to do today
+V001898,English,today_tasks,What do I have to do today
+V001899,English,today_tasks,What do I have to do today
+V001900,English,today_tasks,What do I have to do today
+V001901,English,today_tasks,What do I have to do today
+V001902,English,today_tasks,What do I have to do today
+V001903,English,today_tasks,What do I have to do today
+V001904,English,today_tasks,What do I have to do today
+V001905,English,today_tasks,What do I have to do today
+V001906,English,today_tasks,What do I have to do today
+V001907,English,today_tasks,What do I have to do today
+V001908,English,today_tasks,What do I have to do today
+V001909,English,today_tasks,What do I have to do today
+V001910,English,today_tasks,What do I have to do today
+V001911,English,today_tasks,What do I have to do today
+V001912,English,today_tasks,What do I have to do today
+V001913,English,today_tasks,What do I have to do today
+V001914,English,today_tasks,What do I have to do today
+V001915,English,today_tasks,What do I have to do today
+V001916,English,today_tasks,What do I have to do today
+V001917,English,today_tasks,What do I have to do today
+V001918,English,today_tasks,What do I have to do today
+V001919,English,today_tasks,What do I have to do today
+V001920,English,today_tasks,What do I have to do today
+V001921,English,today_tasks,What do I have to do today
+V001922,English,today_tasks,What do I have to do today
+V001923,English,today_tasks,What do I have to do today
+V001924,English,today_tasks,What do I have to do today
+V001925,English,today_tasks,What do I have to do today
+V001926,English,today_tasks,What do I have to do today
+V001927,English,today_tasks,What do I have to do today
+V001928,English,today_tasks,What do I have to do today
+V001929,English,today_tasks,What do I have to do today
+V001930,English,today_tasks,What do I have to do today
+V001931,English,today_tasks,What do I have to do today
+V001932,English,today_tasks,What do I have to do today
+V001933,English,today_tasks,What do I have to do today
+V001934,English,today_tasks,What do I have to do today
+V001935,English,today_tasks,What do I have to do today
+V001936,English,today_tasks,What do I have to do today
+V001937,English,today_tasks,What do I have to do today
+V001938,English,today_tasks,What do I have to do today
+V001939,English,today_tasks,What do I have to do today
+V001940,English,today_tasks,What do I have to do today
+V001941,English,today_tasks,What do I have to do today
+V001942,English,today_tasks,What do I have to do today
+V001943,English,today_tasks,What do I have to do today
+V001944,English,today_tasks,What do I have to do today
+V001945,English,today_tasks,What do I have to do today
+V001946,English,today_tasks,What do I have to do today
+V001947,English,today_tasks,What do I have to do today
+V001948,English,today_tasks,What do I have to do today
+V001949,English,today_tasks,What do I have to do today
+V001950,English,today_tasks,What do I have to do today
+V001951,English,today_tasks,What do I have to do today
+V001952,English,today_tasks,What do I have to do today
+V001953,English,today_tasks,What do I have to do today
+V001954,English,today_tasks,What do I have to do today
+V001955,English,today_tasks,What do I have to do today
+V001956,English,today_tasks,What do I have to do today
+V001957,English,today_tasks,What do I have to do today
+V001958,English,today_tasks,What do I have to do today
+V001959,English,today_tasks,What do I have to do today
+V001960,English,today_tasks,What do I have to do today
+V001961,English,today_tasks,What do I have to do today
+V001962,English,today_tasks,What do I have to do today
+V001963,English,today_tasks,What do I have to do today
+V001964,English,today_tasks,What do I have to do today
+V001965,English,today_tasks,What do I have to do today
+V001966,English,today_tasks,What do I have to do today
+V001967,English,today_tasks,What do I have to do today
+V001968,English,today_tasks,What do I have to do today
+V001969,English,today_tasks,What do I have to do today
+V001970,English,today_tasks,What do I have to do today
+V001971,English,today_tasks,What do I have to do today
+V001972,English,today_tasks,What do I have to do today
+V001973,English,today_tasks,What do I have to do today
+V001974,English,today_tasks,What do I have to do today
+V001975,English,today_tasks,What do I have to do today
+V001976,English,today_tasks,What do I have to do today
+V001977,English,today_tasks,What do I have to do today
+V001978,English,today_tasks,What do I have to do today
+V001979,English,today_tasks,What do I have to do today
+V001980,English,today_tasks,What do I have to do today
+V001981,English,today_tasks,What do I have to do today
+V001982,English,today_tasks,What do I have to do today
+V001983,English,today_tasks,What do I have to do today
+V001984,English,today_tasks,What do I have to do today
+V001985,English,today_tasks,What do I have to do today
+V001986,English,today_tasks,What do I have to do today
+V001987,English,today_tasks,What do I have to do today
+V001988,English,today_tasks,What do I have to do today
+V001989,English,today_tasks,What do I have to do today
+V001990,English,today_tasks,What do I have to do today
+V001991,English,today_tasks,What do I have to do today
+V001992,English,today_tasks,What do I have to do today
+V001993,English,today_tasks,What do I have to do today
+V001994,English,today_tasks,What do I have to do today
+V001995,English,today_tasks,What do I have to do today
+V001996,English,today_tasks,What do I have to do today
+V001997,English,today_tasks,What do I have to do today
+V001998,English,today_tasks,What do I have to do today
+V001999,English,today_tasks,What do I have to do today
+V002000,English,today_tasks,What do I have to do today
+V002001,Hindi,today_tasks,आज के काम क्या हैं
+V002002,Hindi,today_tasks,आज के काम क्या हैं
+V002003,Hindi,today_tasks,आज के काम क्या हैं
+V002004,Hindi,today_tasks,आज के काम क्या हैं
+V002005,Hindi,today_tasks,आज के काम क्या हैं
+V002006,Hindi,today_tasks,आज के काम क्या हैं
+V002007,Hindi,today_tasks,आज के काम क्या हैं
+V002008,Hindi,today_tasks,आज के काम क्या हैं
+V002009,Hindi,today_tasks,आज के काम क्या हैं
+V002010,Hindi,today_tasks,आज के काम क्या हैं
+V002011,Hindi,today_tasks,आज के काम क्या हैं
+V002012,Hindi,today_tasks,आज के काम क्या हैं
+V002013,Hindi,today_tasks,आज के काम क्या हैं
+V002014,Hindi,today_tasks,आज के काम क्या हैं
+V002015,Hindi,today_tasks,आज के काम क्या हैं
+V002016,Hindi,today_tasks,आज के काम क्या हैं
+V002017,Hindi,today_tasks,आज के काम क्या हैं
+V002018,Hindi,today_tasks,आज के काम क्या हैं
+V002019,Hindi,today_tasks,आज के काम क्या हैं
+V002020,Hindi,today_tasks,आज के काम क्या हैं
+V002021,Hindi,today_tasks,आज के काम क्या हैं
+V002022,Hindi,today_tasks,आज के काम क्या हैं
+V002023,Hindi,today_tasks,आज के काम क्या हैं
+V002024,Hindi,today_tasks,आज के काम क्या हैं
+V002025,Hindi,today_tasks,आज के काम क्या हैं
+V002026,Hindi,today_tasks,आज के काम क्या हैं
+V002027,Hindi,today_tasks,आज के काम क्या हैं
+V002028,Hindi,today_tasks,आज के काम क्या हैं
+V002029,Hindi,today_tasks,आज के काम क्या हैं
+V002030,Hindi,today_tasks,आज के काम क्या हैं
+V002031,Hindi,today_tasks,आज के काम क्या हैं
+V002032,Hindi,today_tasks,आज के काम क्या हैं
+V002033,Hindi,today_tasks,आज के काम क्या हैं
+V002034,Hindi,today_tasks,आज के काम क्या हैं
+V002035,Hindi,today_tasks,आज के काम क्या हैं
+V002036,Hindi,today_tasks,आज के काम क्या हैं
+V002037,Hindi,today_tasks,आज के काम क्या हैं
+V002038,Hindi,today_tasks,आज के काम क्या हैं
+V002039,Hindi,today_tasks,आज के काम क्या हैं
+V002040,Hindi,today_tasks,आज के काम क्या हैं
+V002041,Hindi,today_tasks,आज के काम क्या हैं
+V002042,Hindi,today_tasks,आज के काम क्या हैं
+V002043,Hindi,today_tasks,आज के काम क्या हैं
+V002044,Hindi,today_tasks,आज के काम क्या हैं
+V002045,Hindi,today_tasks,आज के काम क्या हैं
+V002046,Hindi,today_tasks,आज के काम क्या हैं
+V002047,Hindi,today_tasks,आज के काम क्या हैं
+V002048,Hindi,today_tasks,आज के काम क्या हैं
+V002049,Hindi,today_tasks,आज के काम क्या हैं
+V002050,Hindi,today_tasks,आज के काम क्या हैं
+V002051,Hindi,today_tasks,आज के काम क्या हैं
+V002052,Hindi,today_tasks,आज के काम क्या हैं
+V002053,Hindi,today_tasks,आज के काम क्या हैं
+V002054,Hindi,today_tasks,आज के काम क्या हैं
+V002055,Hindi,today_tasks,आज के काम क्या हैं
+V002056,Hindi,today_tasks,आज के काम क्या हैं
+V002057,Hindi,today_tasks,आज के काम क्या हैं
+V002058,Hindi,today_tasks,आज के काम क्या हैं
+V002059,Hindi,today_tasks,आज के काम क्या हैं
+V002060,Hindi,today_tasks,आज के काम क्या हैं
+V002061,Hindi,today_tasks,आज के काम क्या हैं
+V002062,Hindi,today_tasks,आज के काम क्या हैं
+V002063,Hindi,today_tasks,आज के काम क्या हैं
+V002064,Hindi,today_tasks,आज के काम क्या हैं
+V002065,Hindi,today_tasks,आज के काम क्या हैं
+V002066,Hindi,today_tasks,आज के काम क्या हैं
+V002067,Hindi,today_tasks,आज के काम क्या हैं
+V002068,Hindi,today_tasks,आज के काम क्या हैं
+V002069,Hindi,today_tasks,आज के काम क्या हैं
+V002070,Hindi,today_tasks,आज के काम क्या हैं
+V002071,Hindi,today_tasks,आज के काम क्या हैं
+V002072,Hindi,today_tasks,आज के काम क्या हैं
+V002073,Hindi,today_tasks,आज के काम क्या हैं
+V002074,Hindi,today_tasks,आज के काम क्या हैं
+V002075,Hindi,today_tasks,आज के काम क्या हैं
+V002076,Hindi,today_tasks,आज के काम क्या हैं
+V002077,Hindi,today_tasks,आज के काम क्या हैं
+V002078,Hindi,today_tasks,आज के काम क्या हैं
+V002079,Hindi,today_tasks,आज के काम क्या हैं
+V002080,Hindi,today_tasks,आज के काम क्या हैं
+V002081,Hindi,today_tasks,आज के काम क्या हैं
+V002082,Hindi,today_tasks,आज के काम क्या हैं
+V002083,Hindi,today_tasks,आज के काम क्या हैं
+V002084,Hindi,today_tasks,आज के काम क्या हैं
+V002085,Hindi,today_tasks,आज के काम क्या हैं
+V002086,Hindi,today_tasks,आज के काम क्या हैं
+V002087,Hindi,today_tasks,आज के काम क्या हैं
+V002088,Hindi,today_tasks,आज के काम क्या हैं
+V002089,Hindi,today_tasks,आज के काम क्या हैं
+V002090,Hindi,today_tasks,आज के काम क्या हैं
+V002091,Hindi,today_tasks,आज के काम क्या हैं
+V002092,Hindi,today_tasks,आज के काम क्या हैं
+V002093,Hindi,today_tasks,आज के काम क्या हैं
+V002094,Hindi,today_tasks,आज के काम क्या हैं
+V002095,Hindi,today_tasks,आज के काम क्या हैं
+V002096,Hindi,today_tasks,आज के काम क्या हैं
+V002097,Hindi,today_tasks,आज के काम क्या हैं
+V002098,Hindi,today_tasks,आज के काम क्या हैं
+V002099,Hindi,today_tasks,आज के काम क्या हैं
+V002100,Hindi,today_tasks,आज के काम क्या हैं
+V002101,Hindi,today_tasks,आज के काम क्या हैं
+V002102,Hindi,today_tasks,आज के काम क्या हैं
+V002103,Hindi,today_tasks,आज के काम क्या हैं
+V002104,Hindi,today_tasks,आज के काम क्या हैं
+V002105,Hindi,today_tasks,आज के काम क्या हैं
+V002106,Hindi,today_tasks,आज के काम क्या हैं
+V002107,Hindi,today_tasks,आज के काम क्या हैं
+V002108,Hindi,today_tasks,आज के काम क्या हैं
+V002109,Hindi,today_tasks,आज के काम क्या हैं
+V002110,Hindi,today_tasks,आज के काम क्या हैं
+V002111,Hindi,today_tasks,आज के काम क्या हैं
+V002112,Hindi,today_tasks,आज के काम क्या हैं
+V002113,Hindi,today_tasks,आज के काम क्या हैं
+V002114,Hindi,today_tasks,आज के काम क्या हैं
+V002115,Hindi,today_tasks,आज के काम क्या हैं
+V002116,Hindi,today_tasks,आज के काम क्या हैं
+V002117,Hindi,today_tasks,आज के काम क्या हैं
+V002118,Hindi,today_tasks,आज के काम क्या हैं
+V002119,Hindi,today_tasks,आज के काम क्या हैं
+V002120,Hindi,today_tasks,आज के काम क्या हैं
+V002121,Hindi,today_tasks,आज के काम क्या हैं
+V002122,Hindi,today_tasks,आज के काम क्या हैं
+V002123,Hindi,today_tasks,आज के काम क्या हैं
+V002124,Hindi,today_tasks,आज के काम क्या हैं
+V002125,Hindi,today_tasks,आज के काम क्या हैं
+V002126,Hindi,today_tasks,आज के काम क्या हैं
+V002127,Hindi,today_tasks,आज के काम क्या हैं
+V002128,Hindi,today_tasks,आज के काम क्या हैं
+V002129,Hindi,today_tasks,आज के काम क्या हैं
+V002130,Hindi,today_tasks,आज के काम क्या हैं
+V002131,Hindi,today_tasks,आज के काम क्या हैं
+V002132,Hindi,today_tasks,आज के काम क्या हैं
+V002133,Hindi,today_tasks,आज के काम क्या हैं
+V002134,Hindi,today_tasks,आज के काम क्या हैं
+V002135,Hindi,today_tasks,आज के काम क्या हैं
+V002136,Hindi,today_tasks,आज के काम क्या हैं
+V002137,Hindi,today_tasks,आज के काम क्या हैं
+V002138,Hindi,today_tasks,आज के काम क्या हैं
+V002139,Hindi,today_tasks,आज के काम क्या हैं
+V002140,Hindi,today_tasks,आज के काम क्या हैं
+V002141,Hindi,today_tasks,आज के काम क्या हैं
+V002142,Hindi,today_tasks,आज के काम क्या हैं
+V002143,Hindi,today_tasks,आज के काम क्या हैं
+V002144,Hindi,today_tasks,आज के काम क्या हैं
+V002145,Hindi,today_tasks,आज के काम क्या हैं
+V002146,Hindi,today_tasks,आज के काम क्या हैं
+V002147,Hindi,today_tasks,आज के काम क्या हैं
+V002148,Hindi,today_tasks,आज के काम क्या हैं
+V002149,Hindi,today_tasks,आज के काम क्या हैं
+V002150,Hindi,today_tasks,आज के काम क्या हैं
+V002151,Hindi,today_tasks,आज के काम क्या हैं
+V002152,Hindi,today_tasks,आज के काम क्या हैं
+V002153,Hindi,today_tasks,आज के काम क्या हैं
+V002154,Hindi,today_tasks,आज के काम क्या हैं
+V002155,Hindi,today_tasks,आज के काम क्या हैं
+V002156,Hindi,today_tasks,आज के काम क्या हैं
+V002157,Hindi,today_tasks,आज के काम क्या हैं
+V002158,Hindi,today_tasks,आज के काम क्या हैं
+V002159,Hindi,today_tasks,आज के काम क्या हैं
+V002160,Hindi,today_tasks,आज के काम क्या हैं
+V002161,Hindi,today_tasks,आज के काम क्या हैं
+V002162,Hindi,today_tasks,आज के काम क्या हैं
+V002163,Hindi,today_tasks,आज के काम क्या हैं
+V002164,Hindi,today_tasks,आज के काम क्या हैं
+V002165,Hindi,today_tasks,आज के काम क्या हैं
+V002166,Hindi,today_tasks,आज के काम क्या हैं
+V002167,Hindi,today_tasks,आज के काम क्या हैं
+V002168,Hindi,today_tasks,आज के काम क्या हैं
+V002169,Hindi,today_tasks,आज के काम क्या हैं
+V002170,Hindi,today_tasks,आज के काम क्या हैं
+V002171,Hindi,today_tasks,आज के काम क्या हैं
+V002172,Hindi,today_tasks,आज के काम क्या हैं
+V002173,Hindi,today_tasks,आज के काम क्या हैं
+V002174,Hindi,today_tasks,आज के काम क्या हैं
+V002175,Hindi,today_tasks,आज के काम क्या हैं
+V002176,Hindi,today_tasks,आज के काम क्या हैं
+V002177,Hindi,today_tasks,आज के काम क्या हैं
+V002178,Hindi,today_tasks,आज के काम क्या हैं
+V002179,Hindi,today_tasks,आज के काम क्या हैं
+V002180,Hindi,today_tasks,आज के काम क्या हैं
+V002181,Hindi,today_tasks,आज के काम क्या हैं
+V002182,Hindi,today_tasks,आज के काम क्या हैं
+V002183,Hindi,today_tasks,आज के काम क्या हैं
+V002184,Hindi,today_tasks,आज के काम क्या हैं
+V002185,Hindi,today_tasks,आज के काम क्या हैं
+V002186,Hindi,today_tasks,आज के काम क्या हैं
+V002187,Hindi,today_tasks,आज के काम क्या हैं
+V002188,Hindi,today_tasks,आज के काम क्या हैं
+V002189,Hindi,today_tasks,आज के काम क्या हैं
+V002190,Hindi,today_tasks,आज के काम क्या हैं
+V002191,Hindi,today_tasks,आज के काम क्या हैं
+V002192,Hindi,today_tasks,आज के काम क्या हैं
+V002193,Hindi,today_tasks,आज के काम क्या हैं
+V002194,Hindi,today_tasks,आज के काम क्या हैं
+V002195,Hindi,today_tasks,आज के काम क्या हैं
+V002196,Hindi,today_tasks,आज के काम क्या हैं
+V002197,Hindi,today_tasks,आज के काम क्या हैं
+V002198,Hindi,today_tasks,आज के काम क्या हैं
+V002199,Hindi,today_tasks,आज के काम क्या हैं
+V002200,Hindi,today_tasks,आज के काम क्या हैं
+V002201,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002202,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002203,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002204,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002205,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002206,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002207,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002208,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002209,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002210,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002211,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002212,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002213,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002214,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002215,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002216,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002217,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002218,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002219,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002220,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002221,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002222,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002223,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002224,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002225,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002226,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002227,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002228,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002229,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002230,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002231,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002232,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002233,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002234,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002235,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002236,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002237,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002238,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002239,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002240,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002241,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002242,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002243,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002244,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002245,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002246,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002247,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002248,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002249,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002250,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002251,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002252,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002253,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002254,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002255,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002256,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002257,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002258,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002259,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002260,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002261,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002262,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002263,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002264,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002265,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002266,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002267,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002268,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002269,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002270,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002271,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002272,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002273,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002274,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002275,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002276,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002277,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002278,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002279,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002280,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002281,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002282,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002283,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002284,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002285,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002286,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002287,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002288,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002289,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002290,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002291,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002292,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002293,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002294,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002295,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002296,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002297,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002298,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002299,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002300,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002301,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002302,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002303,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002304,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002305,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002306,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002307,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002308,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002309,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002310,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002311,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002312,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002313,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002314,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002315,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002316,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002317,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002318,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002319,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002320,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002321,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002322,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002323,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002324,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002325,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002326,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002327,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002328,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002329,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002330,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002331,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002332,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002333,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002334,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002335,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002336,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002337,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002338,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002339,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002340,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002341,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002342,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002343,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002344,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002345,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002346,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002347,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002348,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002349,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002350,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002351,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002352,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002353,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002354,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002355,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002356,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002357,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002358,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002359,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002360,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002361,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002362,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002363,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002364,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002365,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002366,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002367,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002368,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002369,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002370,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002371,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002372,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002373,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002374,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002375,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002376,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002377,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002378,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002379,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002380,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002381,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002382,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002383,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002384,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002385,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002386,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002387,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002388,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002389,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002390,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002391,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002392,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002393,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002394,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002395,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002396,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002397,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002398,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002399,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002400,Assamese,today_tasks,আজি মোৰ কামবোৰ কি
+V002401,English,repeat,Repeat that
+V002402,English,repeat,Repeat that
+V002403,English,repeat,Repeat that
+V002404,English,repeat,Repeat that
+V002405,English,repeat,Repeat that
+V002406,English,repeat,Repeat that
+V002407,English,repeat,Repeat that
+V002408,English,repeat,Repeat that
+V002409,English,repeat,Repeat that
+V002410,English,repeat,Repeat that
+V002411,English,repeat,Repeat that
+V002412,English,repeat,Repeat that
+V002413,English,repeat,Repeat that
+V002414,English,repeat,Repeat that
+V002415,English,repeat,Repeat that
+V002416,English,repeat,Repeat that
+V002417,English,repeat,Repeat that
+V002418,English,repeat,Repeat that
+V002419,English,repeat,Repeat that
+V002420,English,repeat,Repeat that
+V002421,English,repeat,Repeat that
+V002422,English,repeat,Repeat that
+V002423,English,repeat,Repeat that
+V002424,English,repeat,Repeat that
+V002425,English,repeat,Repeat that
+V002426,English,repeat,Repeat that
+V002427,English,repeat,Repeat that
+V002428,English,repeat,Repeat that
+V002429,English,repeat,Repeat that
+V002430,English,repeat,Repeat that
+V002431,English,repeat,Repeat that
+V002432,English,repeat,Repeat that
+V002433,English,repeat,Repeat that
+V002434,English,repeat,Repeat that
+V002435,English,repeat,Repeat that
+V002436,English,repeat,Repeat that
+V002437,English,repeat,Repeat that
+V002438,English,repeat,Repeat that
+V002439,English,repeat,Repeat that
+V002440,English,repeat,Repeat that
+V002441,English,repeat,Repeat that
+V002442,English,repeat,Repeat that
+V002443,English,repeat,Repeat that
+V002444,English,repeat,Repeat that
+V002445,English,repeat,Repeat that
+V002446,English,repeat,Repeat that
+V002447,English,repeat,Repeat that
+V002448,English,repeat,Repeat that
+V002449,English,repeat,Repeat that
+V002450,English,repeat,Repeat that
+V002451,English,repeat,Repeat that
+V002452,English,repeat,Repeat that
+V002453,English,repeat,Repeat that
+V002454,English,repeat,Repeat that
+V002455,English,repeat,Repeat that
+V002456,English,repeat,Repeat that
+V002457,English,repeat,Repeat that
+V002458,English,repeat,Repeat that
+V002459,English,repeat,Repeat that
+V002460,English,repeat,Repeat that
+V002461,English,repeat,Repeat that
+V002462,English,repeat,Repeat that
+V002463,English,repeat,Repeat that
+V002464,English,repeat,Repeat that
+V002465,English,repeat,Repeat that
+V002466,English,repeat,Repeat that
+V002467,English,repeat,Repeat that
+V002468,English,repeat,Repeat that
+V002469,English,repeat,Repeat that
+V002470,English,repeat,Repeat that
+V002471,English,repeat,Repeat that
+V002472,English,repeat,Repeat that
+V002473,English,repeat,Repeat that
+V002474,English,repeat,Repeat that
+V002475,English,repeat,Repeat that
+V002476,English,repeat,Repeat that
+V002477,English,repeat,Repeat that
+V002478,English,repeat,Repeat that
+V002479,English,repeat,Repeat that
+V002480,English,repeat,Repeat that
+V002481,English,repeat,Repeat that
+V002482,English,repeat,Repeat that
+V002483,English,repeat,Repeat that
+V002484,English,repeat,Repeat that
+V002485,English,repeat,Repeat that
+V002486,English,repeat,Repeat that
+V002487,English,repeat,Repeat that
+V002488,English,repeat,Repeat that
+V002489,English,repeat,Repeat that
+V002490,English,repeat,Repeat that
+V002491,English,repeat,Repeat that
+V002492,English,repeat,Repeat that
+V002493,English,repeat,Repeat that
+V002494,English,repeat,Repeat that
+V002495,English,repeat,Repeat that
+V002496,English,repeat,Repeat that
+V002497,English,repeat,Repeat that
+V002498,English,repeat,Repeat that
+V002499,English,repeat,Repeat that
+V002500,English,repeat,Repeat that
+V002501,English,repeat,Repeat that
+V002502,English,repeat,Repeat that
+V002503,English,repeat,Repeat that
+V002504,English,repeat,Repeat that
+V002505,English,repeat,Repeat that
+V002506,English,repeat,Repeat that
+V002507,English,repeat,Repeat that
+V002508,English,repeat,Repeat that
+V002509,English,repeat,Repeat that
+V002510,English,repeat,Repeat that
+V002511,English,repeat,Repeat that
+V002512,English,repeat,Repeat that
+V002513,English,repeat,Repeat that
+V002514,English,repeat,Repeat that
+V002515,English,repeat,Repeat that
+V002516,English,repeat,Repeat that
+V002517,English,repeat,Repeat that
+V002518,English,repeat,Repeat that
+V002519,English,repeat,Repeat that
+V002520,English,repeat,Repeat that
+V002521,English,repeat,Repeat that
+V002522,English,repeat,Repeat that
+V002523,English,repeat,Repeat that
+V002524,English,repeat,Repeat that
+V002525,English,repeat,Repeat that
+V002526,English,repeat,Repeat that
+V002527,English,repeat,Repeat that
+V002528,English,repeat,Repeat that
+V002529,English,repeat,Repeat that
+V002530,English,repeat,Repeat that
+V002531,English,repeat,Repeat that
+V002532,English,repeat,Repeat that
+V002533,English,repeat,Repeat that
+V002534,English,repeat,Repeat that
+V002535,English,repeat,Repeat that
+V002536,English,repeat,Repeat that
+V002537,English,repeat,Repeat that
+V002538,English,repeat,Repeat that
+V002539,English,repeat,Repeat that
+V002540,English,repeat,Repeat that
+V002541,English,repeat,Repeat that
+V002542,English,repeat,Repeat that
+V002543,English,repeat,Repeat that
+V002544,English,repeat,Repeat that
+V002545,English,repeat,Repeat that
+V002546,English,repeat,Repeat that
+V002547,English,repeat,Repeat that
+V002548,English,repeat,Repeat that
+V002549,English,repeat,Repeat that
+V002550,English,repeat,Repeat that
+V002551,English,repeat,Repeat that
+V002552,English,repeat,Repeat that
+V002553,English,repeat,Repeat that
+V002554,English,repeat,Repeat that
+V002555,English,repeat,Repeat that
+V002556,English,repeat,Repeat that
+V002557,English,repeat,Repeat that
+V002558,English,repeat,Repeat that
+V002559,English,repeat,Repeat that
+V002560,English,repeat,Repeat that
+V002561,English,repeat,Repeat that
+V002562,English,repeat,Repeat that
+V002563,English,repeat,Repeat that
+V002564,English,repeat,Repeat that
+V002565,English,repeat,Repeat that
+V002566,English,repeat,Repeat that
+V002567,English,repeat,Repeat that
+V002568,English,repeat,Repeat that
+V002569,English,repeat,Repeat that
+V002570,English,repeat,Repeat that
+V002571,English,repeat,Repeat that
+V002572,English,repeat,Repeat that
+V002573,English,repeat,Repeat that
+V002574,English,repeat,Repeat that
+V002575,English,repeat,Repeat that
+V002576,English,repeat,Repeat that
+V002577,English,repeat,Repeat that
+V002578,English,repeat,Repeat that
+V002579,English,repeat,Repeat that
+V002580,English,repeat,Repeat that
+V002581,English,repeat,Repeat that
+V002582,English,repeat,Repeat that
+V002583,English,repeat,Repeat that
+V002584,English,repeat,Repeat that
+V002585,English,repeat,Repeat that
+V002586,English,repeat,Repeat that
+V002587,English,repeat,Repeat that
+V002588,English,repeat,Repeat that
+V002589,English,repeat,Repeat that
+V002590,English,repeat,Repeat that
+V002591,English,repeat,Repeat that
+V002592,English,repeat,Repeat that
+V002593,English,repeat,Repeat that
+V002594,English,repeat,Repeat that
+V002595,English,repeat,Repeat that
+V002596,English,repeat,Repeat that
+V002597,English,repeat,Repeat that
+V002598,English,repeat,Repeat that
+V002599,English,repeat,Repeat that
+V002600,English,repeat,Repeat that
+V002601,Hindi,repeat,फिर से बोलो
+V002602,Hindi,repeat,फिर से बोलो
+V002603,Hindi,repeat,फिर से बोलो
+V002604,Hindi,repeat,फिर से बोलो
+V002605,Hindi,repeat,फिर से बोलो
+V002606,Hindi,repeat,फिर से बोलो
+V002607,Hindi,repeat,फिर से बोलो
+V002608,Hindi,repeat,फिर से बोलो
+V002609,Hindi,repeat,फिर से बोलो
+V002610,Hindi,repeat,फिर से बोलो
+V002611,Hindi,repeat,फिर से बोलो
+V002612,Hindi,repeat,फिर से बोलो
+V002613,Hindi,repeat,फिर से बोलो
+V002614,Hindi,repeat,फिर से बोलो
+V002615,Hindi,repeat,फिर से बोलो
+V002616,Hindi,repeat,फिर से बोलो
+V002617,Hindi,repeat,फिर से बोलो
+V002618,Hindi,repeat,फिर से बोलो
+V002619,Hindi,repeat,फिर से बोलो
+V002620,Hindi,repeat,फिर से बोलो
+V002621,Hindi,repeat,फिर से बोलो
+V002622,Hindi,repeat,फिर से बोलो
+V002623,Hindi,repeat,फिर से बोलो
+V002624,Hindi,repeat,फिर से बोलो
+V002625,Hindi,repeat,फिर से बोलो
+V002626,Hindi,repeat,फिर से बोलो
+V002627,Hindi,repeat,फिर से बोलो
+V002628,Hindi,repeat,फिर से बोलो
+V002629,Hindi,repeat,फिर से बोलो
+V002630,Hindi,repeat,फिर से बोलो
+V002631,Hindi,repeat,फिर से बोलो
+V002632,Hindi,repeat,फिर से बोलो
+V002633,Hindi,repeat,फिर से बोलो
+V002634,Hindi,repeat,फिर से बोलो
+V002635,Hindi,repeat,फिर से बोलो
+V002636,Hindi,repeat,फिर से बोलो
+V002637,Hindi,repeat,फिर से बोलो
+V002638,Hindi,repeat,फिर से बोलो
+V002639,Hindi,repeat,फिर से बोलो
+V002640,Hindi,repeat,फिर से बोलो
+V002641,Hindi,repeat,फिर से बोलो
+V002642,Hindi,repeat,फिर से बोलो
+V002643,Hindi,repeat,फिर से बोलो
+V002644,Hindi,repeat,फिर से बोलो
+V002645,Hindi,repeat,फिर से बोलो
+V002646,Hindi,repeat,फिर से बोलो
+V002647,Hindi,repeat,फिर से बोलो
+V002648,Hindi,repeat,फिर से बोलो
+V002649,Hindi,repeat,फिर से बोलो
+V002650,Hindi,repeat,फिर से बोलो
+V002651,Hindi,repeat,फिर से बोलो
+V002652,Hindi,repeat,फिर से बोलो
+V002653,Hindi,repeat,फिर से बोलो
+V002654,Hindi,repeat,फिर से बोलो
+V002655,Hindi,repeat,फिर से बोलो
+V002656,Hindi,repeat,फिर से बोलो
+V002657,Hindi,repeat,फिर से बोलो
+V002658,Hindi,repeat,फिर से बोलो
+V002659,Hindi,repeat,फिर से बोलो
+V002660,Hindi,repeat,फिर से बोलो
+V002661,Hindi,repeat,फिर से बोलो
+V002662,Hindi,repeat,फिर से बोलो
+V002663,Hindi,repeat,फिर से बोलो
+V002664,Hindi,repeat,फिर से बोलो
+V002665,Hindi,repeat,फिर से बोलो
+V002666,Hindi,repeat,फिर से बोलो
+V002667,Hindi,repeat,फिर से बोलो
+V002668,Hindi,repeat,फिर से बोलो
+V002669,Hindi,repeat,फिर से बोलो
+V002670,Hindi,repeat,फिर से बोलो
+V002671,Hindi,repeat,फिर से बोलो
+V002672,Hindi,repeat,फिर से बोलो
+V002673,Hindi,repeat,फिर से बोलो
+V002674,Hindi,repeat,फिर से बोलो
+V002675,Hindi,repeat,फिर से बोलो
+V002676,Hindi,repeat,फिर से बोलो
+V002677,Hindi,repeat,फिर से बोलो
+V002678,Hindi,repeat,फिर से बोलो
+V002679,Hindi,repeat,फिर से बोलो
+V002680,Hindi,repeat,फिर से बोलो
+V002681,Hindi,repeat,फिर से बोलो
+V002682,Hindi,repeat,फिर से बोलो
+V002683,Hindi,repeat,फिर से बोलो
+V002684,Hindi,repeat,फिर से बोलो
+V002685,Hindi,repeat,फिर से बोलो
+V002686,Hindi,repeat,फिर से बोलो
+V002687,Hindi,repeat,फिर से बोलो
+V002688,Hindi,repeat,फिर से बोलो
+V002689,Hindi,repeat,फिर से बोलो
+V002690,Hindi,repeat,फिर से बोलो
+V002691,Hindi,repeat,फिर से बोलो
+V002692,Hindi,repeat,फिर से बोलो
+V002693,Hindi,repeat,फिर से बोलो
+V002694,Hindi,repeat,फिर से बोलो
+V002695,Hindi,repeat,फिर से बोलो
+V002696,Hindi,repeat,फिर से बोलो
+V002697,Hindi,repeat,फिर से बोलो
+V002698,Hindi,repeat,फिर से बोलो
+V002699,Hindi,repeat,फिर से बोलो
+V002700,Hindi,repeat,फिर से बोलो
+V002701,Hindi,repeat,फिर से बोलो
+V002702,Hindi,repeat,फिर से बोलो
+V002703,Hindi,repeat,फिर से बोलो
+V002704,Hindi,repeat,फिर से बोलो
+V002705,Hindi,repeat,फिर से बोलो
+V002706,Hindi,repeat,फिर से बोलो
+V002707,Hindi,repeat,फिर से बोलो
+V002708,Hindi,repeat,फिर से बोलो
+V002709,Hindi,repeat,फिर से बोलो
+V002710,Hindi,repeat,फिर से बोलो
+V002711,Hindi,repeat,फिर से बोलो
+V002712,Hindi,repeat,फिर से बोलो
+V002713,Hindi,repeat,फिर से बोलो
+V002714,Hindi,repeat,फिर से बोलो
+V002715,Hindi,repeat,फिर से बोलो
+V002716,Hindi,repeat,फिर से बोलो
+V002717,Hindi,repeat,फिर से बोलो
+V002718,Hindi,repeat,फिर से बोलो
+V002719,Hindi,repeat,फिर से बोलो
+V002720,Hindi,repeat,फिर से बोलो
+V002721,Hindi,repeat,फिर से बोलो
+V002722,Hindi,repeat,फिर से बोलो
+V002723,Hindi,repeat,फिर से बोलो
+V002724,Hindi,repeat,फिर से बोलो
+V002725,Hindi,repeat,फिर से बोलो
+V002726,Hindi,repeat,फिर से बोलो
+V002727,Hindi,repeat,फिर से बोलो
+V002728,Hindi,repeat,फिर से बोलो
+V002729,Hindi,repeat,फिर से बोलो
+V002730,Hindi,repeat,फिर से बोलो
+V002731,Hindi,repeat,फिर से बोलो
+V002732,Hindi,repeat,फिर से बोलो
+V002733,Hindi,repeat,फिर से बोलो
+V002734,Hindi,repeat,फिर से बोलो
+V002735,Hindi,repeat,फिर से बोलो
+V002736,Hindi,repeat,फिर से बोलो
+V002737,Hindi,repeat,फिर से बोलो
+V002738,Hindi,repeat,फिर से बोलो
+V002739,Hindi,repeat,फिर से बोलो
+V002740,Hindi,repeat,फिर से बोलो
+V002741,Hindi,repeat,फिर से बोलो
+V002742,Hindi,repeat,फिर से बोलो
+V002743,Hindi,repeat,फिर से बोलो
+V002744,Hindi,repeat,फिर से बोलो
+V002745,Hindi,repeat,फिर से बोलो
+V002746,Hindi,repeat,फिर से बोलो
+V002747,Hindi,repeat,फिर से बोलो
+V002748,Hindi,repeat,फिर से बोलो
+V002749,Hindi,repeat,फिर से बोलो
+V002750,Hindi,repeat,फिर से बोलो
+V002751,Hindi,repeat,फिर से बोलो
+V002752,Hindi,repeat,फिर से बोलो
+V002753,Hindi,repeat,फिर से बोलो
+V002754,Hindi,repeat,फिर से बोलो
+V002755,Hindi,repeat,फिर से बोलो
+V002756,Hindi,repeat,फिर से बोलो
+V002757,Hindi,repeat,फिर से बोलो
+V002758,Hindi,repeat,फिर से बोलो
+V002759,Hindi,repeat,फिर से बोलो
+V002760,Hindi,repeat,फिर से बोलो
+V002761,Hindi,repeat,फिर से बोलो
+V002762,Hindi,repeat,फिर से बोलो
+V002763,Hindi,repeat,फिर से बोलो
+V002764,Hindi,repeat,फिर से बोलो
+V002765,Hindi,repeat,फिर से बोलो
+V002766,Hindi,repeat,फिर से बोलो
+V002767,Hindi,repeat,फिर से बोलो
+V002768,Hindi,repeat,फिर से बोलो
+V002769,Hindi,repeat,फिर से बोलो
+V002770,Hindi,repeat,फिर से बोलो
+V002771,Hindi,repeat,फिर से बोलो
+V002772,Hindi,repeat,फिर से बोलो
+V002773,Hindi,repeat,फिर से बोलो
+V002774,Hindi,repeat,फिर से बोलो
+V002775,Hindi,repeat,फिर से बोलो
+V002776,Hindi,repeat,फिर से बोलो
+V002777,Hindi,repeat,फिर से बोलो
+V002778,Hindi,repeat,फिर से बोलो
+V002779,Hindi,repeat,फिर से बोलो
+V002780,Hindi,repeat,फिर से बोलो
+V002781,Hindi,repeat,फिर से बोलो
+V002782,Hindi,repeat,फिर से बोलो
+V002783,Hindi,repeat,फिर से बोलो
+V002784,Hindi,repeat,फिर से बोलो
+V002785,Hindi,repeat,फिर से बोलो
+V002786,Hindi,repeat,फिर से बोलो
+V002787,Hindi,repeat,फिर से बोलो
+V002788,Hindi,repeat,फिर से बोलो
+V002789,Hindi,repeat,फिर से बोलो
+V002790,Hindi,repeat,फिर से बोलो
+V002791,Hindi,repeat,फिर से बोलो
+V002792,Hindi,repeat,फिर से बोलो
+V002793,Hindi,repeat,फिर से बोलो
+V002794,Hindi,repeat,फिर से बोलो
+V002795,Hindi,repeat,फिर से बोलो
+V002796,Hindi,repeat,फिर से बोलो
+V002797,Hindi,repeat,फिर से बोलो
+V002798,Hindi,repeat,फिर से बोलो
+V002799,Hindi,repeat,फिर से बोलो
+V002800,Hindi,repeat,फिर से बोलो
+V002801,Assamese,repeat,আকৌ কওক
+V002802,Assamese,repeat,আকৌ কওক
+V002803,Assamese,repeat,আকৌ কওক
+V002804,Assamese,repeat,আকৌ কওক
+V002805,Assamese,repeat,আকৌ কওক
+V002806,Assamese,repeat,আকৌ কওক
+V002807,Assamese,repeat,আকৌ কওক
+V002808,Assamese,repeat,আকৌ কওক
+V002809,Assamese,repeat,আকৌ কওক
+V002810,Assamese,repeat,আকৌ কওক
+V002811,Assamese,repeat,আকৌ কওক
+V002812,Assamese,repeat,আকৌ কওক
+V002813,Assamese,repeat,আকৌ কওক
+V002814,Assamese,repeat,আকৌ কওক
+V002815,Assamese,repeat,আকৌ কওক
+V002816,Assamese,repeat,আকৌ কওক
+V002817,Assamese,repeat,আকৌ কওক
+V002818,Assamese,repeat,আকৌ কওক
+V002819,Assamese,repeat,আকৌ কওক
+V002820,Assamese,repeat,আকৌ কওক
+V002821,Assamese,repeat,আকৌ কওক
+V002822,Assamese,repeat,আকৌ কওক
+V002823,Assamese,repeat,আকৌ কওক
+V002824,Assamese,repeat,আকৌ কওক
+V002825,Assamese,repeat,আকৌ কওক
+V002826,Assamese,repeat,আকৌ কওক
+V002827,Assamese,repeat,আকৌ কওক
+V002828,Assamese,repeat,আকৌ কওক
+V002829,Assamese,repeat,আকৌ কওক
+V002830,Assamese,repeat,আকৌ কওক
+V002831,Assamese,repeat,আকৌ কওক
+V002832,Assamese,repeat,আকৌ কওক
+V002833,Assamese,repeat,আকৌ কওক
+V002834,Assamese,repeat,আকৌ কওক
+V002835,Assamese,repeat,আকৌ কওক
+V002836,Assamese,repeat,আকৌ কওক
+V002837,Assamese,repeat,আকৌ কওক
+V002838,Assamese,repeat,আকৌ কওক
+V002839,Assamese,repeat,আকৌ কওক
+V002840,Assamese,repeat,আকৌ কওক
+V002841,Assamese,repeat,আকৌ কওক
+V002842,Assamese,repeat,আকৌ কওক
+V002843,Assamese,repeat,আকৌ কওক
+V002844,Assamese,repeat,আকৌ কওক
+V002845,Assamese,repeat,আকৌ কওক
+V002846,Assamese,repeat,আকৌ কওক
+V002847,Assamese,repeat,আকৌ কওক
+V002848,Assamese,repeat,আকৌ কওক
+V002849,Assamese,repeat,আকৌ কওক
+V002850,Assamese,repeat,আকৌ কওক
+V002851,Assamese,repeat,আকৌ কওক
+V002852,Assamese,repeat,আকৌ কওক
+V002853,Assamese,repeat,আকৌ কওক
+V002854,Assamese,repeat,আকৌ কওক
+V002855,Assamese,repeat,আকৌ কওক
+V002856,Assamese,repeat,আকৌ কওক
+V002857,Assamese,repeat,আকৌ কওক
+V002858,Assamese,repeat,আকৌ কওক
+V002859,Assamese,repeat,আকৌ কওক
+V002860,Assamese,repeat,আকৌ কওক
+V002861,Assamese,repeat,আকৌ কওক
+V002862,Assamese,repeat,আকৌ কওক
+V002863,Assamese,repeat,আকৌ কওক
+V002864,Assamese,repeat,আকৌ কওক
+V002865,Assamese,repeat,আকৌ কওক
+V002866,Assamese,repeat,আকৌ কওক
+V002867,Assamese,repeat,আকৌ কওক
+V002868,Assamese,repeat,আকৌ কওক
+V002869,Assamese,repeat,আকৌ কওক
+V002870,Assamese,repeat,আকৌ কওক
+V002871,Assamese,repeat,আকৌ কওক
+V002872,Assamese,repeat,আকৌ কওক
+V002873,Assamese,repeat,আকৌ কওক
+V002874,Assamese,repeat,আকৌ কওক
+V002875,Assamese,repeat,আকৌ কওক
+V002876,Assamese,repeat,আকৌ কওক
+V002877,Assamese,repeat,আকৌ কওক
+V002878,Assamese,repeat,আকৌ কওক
+V002879,Assamese,repeat,আকৌ কওক
+V002880,Assamese,repeat,আকৌ কওক
+V002881,Assamese,repeat,আকৌ কওক
+V002882,Assamese,repeat,আকৌ কওক
+V002883,Assamese,repeat,আকৌ কওক
+V002884,Assamese,repeat,আকৌ কওক
+V002885,Assamese,repeat,আকৌ কওক
+V002886,Assamese,repeat,আকৌ কওক
+V002887,Assamese,repeat,আকৌ কওক
+V002888,Assamese,repeat,আকৌ কওক
+V002889,Assamese,repeat,আকৌ কওক
+V002890,Assamese,repeat,আকৌ কওক
+V002891,Assamese,repeat,আকৌ কওক
+V002892,Assamese,repeat,আকৌ কওক
+V002893,Assamese,repeat,আকৌ কওক
+V002894,Assamese,repeat,আকৌ কওক
+V002895,Assamese,repeat,আকৌ কওক
+V002896,Assamese,repeat,আকৌ কওক
+V002897,Assamese,repeat,আকৌ কওক
+V002898,Assamese,repeat,আকৌ কওক
+V002899,Assamese,repeat,আকৌ কওক
+V002900,Assamese,repeat,আকৌ কওক
+V002901,Assamese,repeat,আকৌ কওক
+V002902,Assamese,repeat,আকৌ কওক
+V002903,Assamese,repeat,আকৌ কওক
+V002904,Assamese,repeat,আকৌ কওক
+V002905,Assamese,repeat,আকৌ কওক
+V002906,Assamese,repeat,আকৌ কওক
+V002907,Assamese,repeat,আকৌ কওক
+V002908,Assamese,repeat,আকৌ কওক
+V002909,Assamese,repeat,আকৌ কওক
+V002910,Assamese,repeat,আকৌ কওক
+V002911,Assamese,repeat,আকৌ কওক
+V002912,Assamese,repeat,আকৌ কওক
+V002913,Assamese,repeat,আকৌ কওক
+V002914,Assamese,repeat,আকৌ কওক
+V002915,Assamese,repeat,আকৌ কওক
+V002916,Assamese,repeat,আকৌ কওক
+V002917,Assamese,repeat,আকৌ কওক
+V002918,Assamese,repeat,আকৌ কওক
+V002919,Assamese,repeat,আকৌ কওক
+V002920,Assamese,repeat,আকৌ কওক
+V002921,Assamese,repeat,আকৌ কওক
+V002922,Assamese,repeat,আকৌ কওক
+V002923,Assamese,repeat,আকৌ কওক
+V002924,Assamese,repeat,আকৌ কওক
+V002925,Assamese,repeat,আকৌ কওক
+V002926,Assamese,repeat,আকৌ কওক
+V002927,Assamese,repeat,আকৌ কওক
+V002928,Assamese,repeat,আকৌ কওক
+V002929,Assamese,repeat,আকৌ কওক
+V002930,Assamese,repeat,আকৌ কওক
+V002931,Assamese,repeat,আকৌ কওক
+V002932,Assamese,repeat,আকৌ কওক
+V002933,Assamese,repeat,আকৌ কওক
+V002934,Assamese,repeat,আকৌ কওক
+V002935,Assamese,repeat,আকৌ কওক
+V002936,Assamese,repeat,আকৌ কওক
+V002937,Assamese,repeat,আকৌ কওক
+V002938,Assamese,repeat,আকৌ কওক
+V002939,Assamese,repeat,আকৌ কওক
+V002940,Assamese,repeat,আকৌ কওক
+V002941,Assamese,repeat,আকৌ কওক
+V002942,Assamese,repeat,আকৌ কওক
+V002943,Assamese,repeat,আকৌ কওক
+V002944,Assamese,repeat,আকৌ কওক
+V002945,Assamese,repeat,আকৌ কওক
+V002946,Assamese,repeat,আকৌ কওক
+V002947,Assamese,repeat,আকৌ কওক
+V002948,Assamese,repeat,আকৌ কওক
+V002949,Assamese,repeat,আকৌ কওক
+V002950,Assamese,repeat,আকৌ কওক
+V002951,Assamese,repeat,আকৌ কওক
+V002952,Assamese,repeat,আকৌ কওক
+V002953,Assamese,repeat,আকৌ কওক
+V002954,Assamese,repeat,আকৌ কওক
+V002955,Assamese,repeat,আকৌ কওক
+V002956,Assamese,repeat,আকৌ কওক
+V002957,Assamese,repeat,আকৌ কওক
+V002958,Assamese,repeat,আকৌ কওক
+V002959,Assamese,repeat,আকৌ কওক
+V002960,Assamese,repeat,আকৌ কওক
+V002961,Assamese,repeat,আকৌ কওক
+V002962,Assamese,repeat,আকৌ কওক
+V002963,Assamese,repeat,আকৌ কওক
+V002964,Assamese,repeat,আকৌ কওক
+V002965,Assamese,repeat,আকৌ কওক
+V002966,Assamese,repeat,আকৌ কওক
+V002967,Assamese,repeat,আকৌ কওক
+V002968,Assamese,repeat,আকৌ কওক
+V002969,Assamese,repeat,আকৌ কওক
+V002970,Assamese,repeat,আকৌ কওক
+V002971,Assamese,repeat,আকৌ কওক
+V002972,Assamese,repeat,আকৌ কওক
+V002973,Assamese,repeat,আকৌ কওক
+V002974,Assamese,repeat,আকৌ কওক
+V002975,Assamese,repeat,আকৌ কওক
+V002976,Assamese,repeat,আকৌ কওক
+V002977,Assamese,repeat,আকৌ কওক
+V002978,Assamese,repeat,আকৌ কওক
+V002979,Assamese,repeat,আকৌ কওক
+V002980,Assamese,repeat,আকৌ কওক
+V002981,Assamese,repeat,আকৌ কওক
+V002982,Assamese,repeat,আকৌ কওক
+V002983,Assamese,repeat,আকৌ কওক
+V002984,Assamese,repeat,আকৌ কওক
+V002985,Assamese,repeat,আকৌ কওক
+V002986,Assamese,repeat,আকৌ কওক
+V002987,Assamese,repeat,আকৌ কওক
+V002988,Assamese,repeat,আকৌ কওক
+V002989,Assamese,repeat,আকৌ কওক
+V002990,Assamese,repeat,আকৌ কওক
+V002991,Assamese,repeat,আকৌ কওক
+V002992,Assamese,repeat,আকৌ কওক
+V002993,Assamese,repeat,আকৌ কওক
+V002994,Assamese,repeat,আকৌ কওক
+V002995,Assamese,repeat,আকৌ কওক
+V002996,Assamese,repeat,আকৌ কওক
+V002997,Assamese,repeat,আকৌ কওক
+V002998,Assamese,repeat,আকৌ কওক
+V002999,Assamese,repeat,আকৌ কওক
+V003000,Assamese,repeat,আকৌ কওক
+V003001,English,stop,Stop the game
+V003002,English,stop,Stop the game
+V003003,English,stop,Stop the game
+V003004,English,stop,Stop the game
+V003005,English,stop,Stop the game
+V003006,English,stop,Stop the game
+V003007,English,stop,Stop the game
+V003008,English,stop,Stop the game
+V003009,English,stop,Stop the game
+V003010,English,stop,Stop the game
+V003011,English,stop,Stop the game
+V003012,English,stop,Stop the game
+V003013,English,stop,Stop the game
+V003014,English,stop,Stop the game
+V003015,English,stop,Stop the game
+V003016,English,stop,Stop the game
+V003017,English,stop,Stop the game
+V003018,English,stop,Stop the game
+V003019,English,stop,Stop the game
+V003020,English,stop,Stop the game
+V003021,English,stop,Stop the game
+V003022,English,stop,Stop the game
+V003023,English,stop,Stop the game
+V003024,English,stop,Stop the game
+V003025,English,stop,Stop the game
+V003026,English,stop,Stop the game
+V003027,English,stop,Stop the game
+V003028,English,stop,Stop the game
+V003029,English,stop,Stop the game
+V003030,English,stop,Stop the game
+V003031,English,stop,Stop the game
+V003032,English,stop,Stop the game
+V003033,English,stop,Stop the game
+V003034,English,stop,Stop the game
+V003035,English,stop,Stop the game
+V003036,English,stop,Stop the game
+V003037,English,stop,Stop the game
+V003038,English,stop,Stop the game
+V003039,English,stop,Stop the game
+V003040,English,stop,Stop the game
+V003041,English,stop,Stop the game
+V003042,English,stop,Stop the game
+V003043,English,stop,Stop the game
+V003044,English,stop,Stop the game
+V003045,English,stop,Stop the game
+V003046,English,stop,Stop the game
+V003047,English,stop,Stop the game
+V003048,English,stop,Stop the game
+V003049,English,stop,Stop the game
+V003050,English,stop,Stop the game
+V003051,English,stop,Stop the game
+V003052,English,stop,Stop the game
+V003053,English,stop,Stop the game
+V003054,English,stop,Stop the game
+V003055,English,stop,Stop the game
+V003056,English,stop,Stop the game
+V003057,English,stop,Stop the game
+V003058,English,stop,Stop the game
+V003059,English,stop,Stop the game
+V003060,English,stop,Stop the game
+V003061,English,stop,Stop the game
+V003062,English,stop,Stop the game
+V003063,English,stop,Stop the game
+V003064,English,stop,Stop the game
+V003065,English,stop,Stop the game
+V003066,English,stop,Stop the game
+V003067,English,stop,Stop the game
+V003068,English,stop,Stop the game
+V003069,English,stop,Stop the game
+V003070,English,stop,Stop the game
+V003071,English,stop,Stop the game
+V003072,English,stop,Stop the game
+V003073,English,stop,Stop the game
+V003074,English,stop,Stop the game
+V003075,English,stop,Stop the game
+V003076,English,stop,Stop the game
+V003077,English,stop,Stop the game
+V003078,English,stop,Stop the game
+V003079,English,stop,Stop the game
+V003080,English,stop,Stop the game
+V003081,English,stop,Stop the game
+V003082,English,stop,Stop the game
+V003083,English,stop,Stop the game
+V003084,English,stop,Stop the game
+V003085,English,stop,Stop the game
+V003086,English,stop,Stop the game
+V003087,English,stop,Stop the game
+V003088,English,stop,Stop the game
+V003089,English,stop,Stop the game
+V003090,English,stop,Stop the game
+V003091,English,stop,Stop the game
+V003092,English,stop,Stop the game
+V003093,English,stop,Stop the game
+V003094,English,stop,Stop the game
+V003095,English,stop,Stop the game
+V003096,English,stop,Stop the game
+V003097,English,stop,Stop the game
+V003098,English,stop,Stop the game
+V003099,English,stop,Stop the game
+V003100,English,stop,Stop the game
+V003101,English,stop,Stop the game
+V003102,English,stop,Stop the game
+V003103,English,stop,Stop the game
+V003104,English,stop,Stop the game
+V003105,English,stop,Stop the game
+V003106,English,stop,Stop the game
+V003107,English,stop,Stop the game
+V003108,English,stop,Stop the game
+V003109,English,stop,Stop the game
+V003110,English,stop,Stop the game
+V003111,English,stop,Stop the game
+V003112,English,stop,Stop the game
+V003113,English,stop,Stop the game
+V003114,English,stop,Stop the game
+V003115,English,stop,Stop the game
+V003116,English,stop,Stop the game
+V003117,English,stop,Stop the game
+V003118,English,stop,Stop the game
+V003119,English,stop,Stop the game
+V003120,English,stop,Stop the game
+V003121,English,stop,Stop the game
+V003122,English,stop,Stop the game
+V003123,English,stop,Stop the game
+V003124,English,stop,Stop the game
+V003125,English,stop,Stop the game
+V003126,English,stop,Stop the game
+V003127,English,stop,Stop the game
+V003128,English,stop,Stop the game
+V003129,English,stop,Stop the game
+V003130,English,stop,Stop the game
+V003131,English,stop,Stop the game
+V003132,English,stop,Stop the game
+V003133,English,stop,Stop the game
+V003134,English,stop,Stop the game
+V003135,English,stop,Stop the game
+V003136,English,stop,Stop the game
+V003137,English,stop,Stop the game
+V003138,English,stop,Stop the game
+V003139,English,stop,Stop the game
+V003140,English,stop,Stop the game
+V003141,English,stop,Stop the game
+V003142,English,stop,Stop the game
+V003143,English,stop,Stop the game
+V003144,English,stop,Stop the game
+V003145,English,stop,Stop the game
+V003146,English,stop,Stop the game
+V003147,English,stop,Stop the game
+V003148,English,stop,Stop the game
+V003149,English,stop,Stop the game
+V003150,English,stop,Stop the game
+V003151,English,stop,Stop the game
+V003152,English,stop,Stop the game
+V003153,English,stop,Stop the game
+V003154,English,stop,Stop the game
+V003155,English,stop,Stop the game
+V003156,English,stop,Stop the game
+V003157,English,stop,Stop the game
+V003158,English,stop,Stop the game
+V003159,English,stop,Stop the game
+V003160,English,stop,Stop the game
+V003161,English,stop,Stop the game
+V003162,English,stop,Stop the game
+V003163,English,stop,Stop the game
+V003164,English,stop,Stop the game
+V003165,English,stop,Stop the game
+V003166,English,stop,Stop the game
+V003167,English,stop,Stop the game
+V003168,English,stop,Stop the game
+V003169,English,stop,Stop the game
+V003170,English,stop,Stop the game
+V003171,English,stop,Stop the game
+V003172,English,stop,Stop the game
+V003173,English,stop,Stop the game
+V003174,English,stop,Stop the game
+V003175,English,stop,Stop the game
+V003176,English,stop,Stop the game
+V003177,English,stop,Stop the game
+V003178,English,stop,Stop the game
+V003179,English,stop,Stop the game
+V003180,English,stop,Stop the game
+V003181,English,stop,Stop the game
+V003182,English,stop,Stop the game
+V003183,English,stop,Stop the game
+V003184,English,stop,Stop the game
+V003185,English,stop,Stop the game
+V003186,English,stop,Stop the game
+V003187,English,stop,Stop the game
+V003188,English,stop,Stop the game
+V003189,English,stop,Stop the game
+V003190,English,stop,Stop the game
+V003191,English,stop,Stop the game
+V003192,English,stop,Stop the game
+V003193,English,stop,Stop the game
+V003194,English,stop,Stop the game
+V003195,English,stop,Stop the game
+V003196,English,stop,Stop the game
+V003197,English,stop,Stop the game
+V003198,English,stop,Stop the game
+V003199,English,stop,Stop the game
+V003200,English,stop,Stop the game
+V003201,Hindi,stop,गेम बंद करो
+V003202,Hindi,stop,गेम बंद करो
+V003203,Hindi,stop,गेम बंद करो
+V003204,Hindi,stop,गेम बंद करो
+V003205,Hindi,stop,गेम बंद करो
+V003206,Hindi,stop,गेम बंद करो
+V003207,Hindi,stop,गेम बंद करो
+V003208,Hindi,stop,गेम बंद करो
+V003209,Hindi,stop,गेम बंद करो
+V003210,Hindi,stop,गेम बंद करो
+V003211,Hindi,stop,गेम बंद करो
+V003212,Hindi,stop,गेम बंद करो
+V003213,Hindi,stop,गेम बंद करो
+V003214,Hindi,stop,गेम बंद करो
+V003215,Hindi,stop,गेम बंद करो
+V003216,Hindi,stop,गेम बंद करो
+V003217,Hindi,stop,गेम बंद करो
+V003218,Hindi,stop,गेम बंद करो
+V003219,Hindi,stop,गेम बंद करो
+V003220,Hindi,stop,गेम बंद करो
+V003221,Hindi,stop,गेम बंद करो
+V003222,Hindi,stop,गेम बंद करो
+V003223,Hindi,stop,गेम बंद करो
+V003224,Hindi,stop,गेम बंद करो
+V003225,Hindi,stop,गेम बंद करो
+V003226,Hindi,stop,गेम बंद करो
+V003227,Hindi,stop,गेम बंद करो
+V003228,Hindi,stop,गेम बंद करो
+V003229,Hindi,stop,गेम बंद करो
+V003230,Hindi,stop,गेम बंद करो
+V003231,Hindi,stop,गेम बंद करो
+V003232,Hindi,stop,गेम बंद करो
+V003233,Hindi,stop,गेम बंद करो
+V003234,Hindi,stop,गेम बंद करो
+V003235,Hindi,stop,गेम बंद करो
+V003236,Hindi,stop,गेम बंद करो
+V003237,Hindi,stop,गेम बंद करो
+V003238,Hindi,stop,गेम बंद करो
+V003239,Hindi,stop,गेम बंद करो
+V003240,Hindi,stop,गेम बंद करो
+V003241,Hindi,stop,गेम बंद करो
+V003242,Hindi,stop,गेम बंद करो
+V003243,Hindi,stop,गेम बंद करो
+V003244,Hindi,stop,गेम बंद करो
+V003245,Hindi,stop,गेम बंद करो
+V003246,Hindi,stop,गेम बंद करो
+V003247,Hindi,stop,गेम बंद करो
+V003248,Hindi,stop,गेम बंद करो
+V003249,Hindi,stop,गेम बंद करो
+V003250,Hindi,stop,गेम बंद करो
+V003251,Hindi,stop,गेम बंद करो
+V003252,Hindi,stop,गेम बंद करो
+V003253,Hindi,stop,गेम बंद करो
+V003254,Hindi,stop,गेम बंद करो
+V003255,Hindi,stop,गेम बंद करो
+V003256,Hindi,stop,गेम बंद करो
+V003257,Hindi,stop,गेम बंद करो
+V003258,Hindi,stop,गेम बंद करो
+V003259,Hindi,stop,गेम बंद करो
+V003260,Hindi,stop,गेम बंद करो
+V003261,Hindi,stop,गेम बंद करो
+V003262,Hindi,stop,गेम बंद करो
+V003263,Hindi,stop,गेम बंद करो
+V003264,Hindi,stop,गेम बंद करो
+V003265,Hindi,stop,गेम बंद करो
+V003266,Hindi,stop,गेम बंद करो
+V003267,Hindi,stop,गेम बंद करो
+V003268,Hindi,stop,गेम बंद करो
+V003269,Hindi,stop,गेम बंद करो
+V003270,Hindi,stop,गेम बंद करो
+V003271,Hindi,stop,गेम बंद करो
+V003272,Hindi,stop,गेम बंद करो
+V003273,Hindi,stop,गेम बंद करो
+V003274,Hindi,stop,गेम बंद करो
+V003275,Hindi,stop,गेम बंद करो
+V003276,Hindi,stop,गेम बंद करो
+V003277,Hindi,stop,गेम बंद करो
+V003278,Hindi,stop,गेम बंद करो
+V003279,Hindi,stop,गेम बंद करो
+V003280,Hindi,stop,गेम बंद करो
+V003281,Hindi,stop,गेम बंद करो
+V003282,Hindi,stop,गेम बंद करो
+V003283,Hindi,stop,गेम बंद करो
+V003284,Hindi,stop,गेम बंद करो
+V003285,Hindi,stop,गेम बंद करो
+V003286,Hindi,stop,गेम बंद करो
+V003287,Hindi,stop,गेम बंद करो
+V003288,Hindi,stop,गेम बंद करो
+V003289,Hindi,stop,गेम बंद करो
+V003290,Hindi,stop,गेम बंद करो
+V003291,Hindi,stop,गेम बंद करो
+V003292,Hindi,stop,गेम बंद करो
+V003293,Hindi,stop,गेम बंद करो
+V003294,Hindi,stop,गेम बंद करो
+V003295,Hindi,stop,गेम बंद करो
+V003296,Hindi,stop,गेम बंद करो
+V003297,Hindi,stop,गेम बंद करो
+V003298,Hindi,stop,गेम बंद करो
+V003299,Hindi,stop,गेम बंद करो
+V003300,Hindi,stop,गेम बंद करो
+V003301,Hindi,stop,गेम बंद करो
+V003302,Hindi,stop,गेम बंद करो
+V003303,Hindi,stop,गेम बंद करो
+V003304,Hindi,stop,गेम बंद करो
+V003305,Hindi,stop,गेम बंद करो
+V003306,Hindi,stop,गेम बंद करो
+V003307,Hindi,stop,गेम बंद करो
+V003308,Hindi,stop,गेम बंद करो
+V003309,Hindi,stop,गेम बंद करो
+V003310,Hindi,stop,गेम बंद करो
+V003311,Hindi,stop,गेम बंद करो
+V003312,Hindi,stop,गेम बंद करो
+V003313,Hindi,stop,गेम बंद करो
+V003314,Hindi,stop,गेम बंद करो
+V003315,Hindi,stop,गेम बंद करो
+V003316,Hindi,stop,गेम बंद करो
+V003317,Hindi,stop,गेम बंद करो
+V003318,Hindi,stop,गेम बंद करो
+V003319,Hindi,stop,गेम बंद करो
+V003320,Hindi,stop,गेम बंद करो
+V003321,Hindi,stop,गेम बंद करो
+V003322,Hindi,stop,गेम बंद करो
+V003323,Hindi,stop,गेम बंद करो
+V003324,Hindi,stop,गेम बंद करो
+V003325,Hindi,stop,गेम बंद करो
+V003326,Hindi,stop,गेम बंद करो
+V003327,Hindi,stop,गेम बंद करो
+V003328,Hindi,stop,गेम बंद करो
+V003329,Hindi,stop,गेम बंद करो
+V003330,Hindi,stop,गेम बंद करो
+V003331,Hindi,stop,गेम बंद करो
+V003332,Hindi,stop,गेम बंद करो
+V003333,Hindi,stop,गेम बंद करो
+V003334,Hindi,stop,गेम बंद करो
+V003335,Hindi,stop,गेम बंद करो
+V003336,Hindi,stop,गेम बंद करो
+V003337,Hindi,stop,गेम बंद करो
+V003338,Hindi,stop,गेम बंद करो
+V003339,Hindi,stop,गेम बंद करो
+V003340,Hindi,stop,गेम बंद करो
+V003341,Hindi,stop,गेम बंद करो
+V003342,Hindi,stop,गेम बंद करो
+V003343,Hindi,stop,गेम बंद करो
+V003344,Hindi,stop,गेम बंद करो
+V003345,Hindi,stop,गेम बंद करो
+V003346,Hindi,stop,गेम बंद करो
+V003347,Hindi,stop,गेम बंद करो
+V003348,Hindi,stop,गेम बंद करो
+V003349,Hindi,stop,गेम बंद करो
+V003350,Hindi,stop,गेम बंद करो
+V003351,Hindi,stop,गेम बंद करो
+V003352,Hindi,stop,गेम बंद करो
+V003353,Hindi,stop,गेम बंद करो
+V003354,Hindi,stop,गेम बंद करो
+V003355,Hindi,stop,गेम बंद करो
+V003356,Hindi,stop,गेम बंद करो
+V003357,Hindi,stop,गेम बंद करो
+V003358,Hindi,stop,गेम बंद करो
+V003359,Hindi,stop,गेम बंद करो
+V003360,Hindi,stop,गेम बंद करो
+V003361,Hindi,stop,गेम बंद करो
+V003362,Hindi,stop,गेम बंद करो
+V003363,Hindi,stop,गेम बंद करो
+V003364,Hindi,stop,गेम बंद करो
+V003365,Hindi,stop,गेम बंद करो
+V003366,Hindi,stop,गेम बंद करो
+V003367,Hindi,stop,गेम बंद करो
+V003368,Hindi,stop,गेम बंद करो
+V003369,Hindi,stop,गेम बंद करो
+V003370,Hindi,stop,गेम बंद करो
+V003371,Hindi,stop,गेम बंद करो
+V003372,Hindi,stop,गेम बंद करो
+V003373,Hindi,stop,गेम बंद करो
+V003374,Hindi,stop,गेम बंद करो
+V003375,Hindi,stop,गेम बंद करो
+V003376,Hindi,stop,गेम बंद करो
+V003377,Hindi,stop,गेम बंद करो
+V003378,Hindi,stop,गेम बंद करो
+V003379,Hindi,stop,गेम बंद करो
+V003380,Hindi,stop,गेम बंद करो
+V003381,Hindi,stop,गेम बंद करो
+V003382,Hindi,stop,गेम बंद करो
+V003383,Hindi,stop,गेम बंद करो
+V003384,Hindi,stop,गेम बंद करो
+V003385,Hindi,stop,गेम बंद करो
+V003386,Hindi,stop,गेम बंद करो
+V003387,Hindi,stop,गेम बंद करो
+V003388,Hindi,stop,गेम बंद करो
+V003389,Hindi,stop,गेम बंद करो
+V003390,Hindi,stop,गेम बंद करो
+V003391,Hindi,stop,गेम बंद करो
+V003392,Hindi,stop,गेम बंद करो
+V003393,Hindi,stop,गेम बंद करो
+V003394,Hindi,stop,गेम बंद करो
+V003395,Hindi,stop,गेम बंद करो
+V003396,Hindi,stop,गेम बंद करो
+V003397,Hindi,stop,गेम बंद करो
+V003398,Hindi,stop,गेम बंद करो
+V003399,Hindi,stop,गेम बंद करो
+V003400,Hindi,stop,गेम बंद करो
+V003401,Assamese,stop,গেম বন্ধ কৰক
+V003402,Assamese,stop,গেম বন্ধ কৰক
+V003403,Assamese,stop,গেম বন্ধ কৰক
+V003404,Assamese,stop,গেম বন্ধ কৰক
+V003405,Assamese,stop,গেম বন্ধ কৰক
+V003406,Assamese,stop,গেম বন্ধ কৰক
+V003407,Assamese,stop,গেম বন্ধ কৰক
+V003408,Assamese,stop,গেম বন্ধ কৰক
+V003409,Assamese,stop,গেম বন্ধ কৰক
+V003410,Assamese,stop,গেম বন্ধ কৰক
+V003411,Assamese,stop,গেম বন্ধ কৰক
+V003412,Assamese,stop,গেম বন্ধ কৰক
+V003413,Assamese,stop,গেম বন্ধ কৰক
+V003414,Assamese,stop,গেম বন্ধ কৰক
+V003415,Assamese,stop,গেম বন্ধ কৰক
+V003416,Assamese,stop,গেম বন্ধ কৰক
+V003417,Assamese,stop,গেম বন্ধ কৰক
+V003418,Assamese,stop,গেম বন্ধ কৰক
+V003419,Assamese,stop,গেম বন্ধ কৰক
+V003420,Assamese,stop,গেম বন্ধ কৰক
+V003421,Assamese,stop,গেম বন্ধ কৰক
+V003422,Assamese,stop,গেম বন্ধ কৰক
+V003423,Assamese,stop,গেম বন্ধ কৰক
+V003424,Assamese,stop,গেম বন্ধ কৰক
+V003425,Assamese,stop,গেম বন্ধ কৰক
+V003426,Assamese,stop,গেম বন্ধ কৰক
+V003427,Assamese,stop,গেম বন্ধ কৰক
+V003428,Assamese,stop,গেম বন্ধ কৰক
+V003429,Assamese,stop,গেম বন্ধ কৰক
+V003430,Assamese,stop,গেম বন্ধ কৰক
+V003431,Assamese,stop,গেম বন্ধ কৰক
+V003432,Assamese,stop,গেম বন্ধ কৰক
+V003433,Assamese,stop,গেম বন্ধ কৰক
+V003434,Assamese,stop,গেম বন্ধ কৰক
+V003435,Assamese,stop,গেম বন্ধ কৰক
+V003436,Assamese,stop,গেম বন্ধ কৰক
+V003437,Assamese,stop,গেম বন্ধ কৰক
+V003438,Assamese,stop,গেম বন্ধ কৰক
+V003439,Assamese,stop,গেম বন্ধ কৰক
+V003440,Assamese,stop,গেম বন্ধ কৰক
+V003441,Assamese,stop,গেম বন্ধ কৰক
+V003442,Assamese,stop,গেম বন্ধ কৰক
+V003443,Assamese,stop,গেম বন্ধ কৰক
+V003444,Assamese,stop,গেম বন্ধ কৰক
+V003445,Assamese,stop,গেম বন্ধ কৰক
+V003446,Assamese,stop,গেম বন্ধ কৰক
+V003447,Assamese,stop,গেম বন্ধ কৰক
+V003448,Assamese,stop,গেম বন্ধ কৰক
+V003449,Assamese,stop,গেম বন্ধ কৰক
+V003450,Assamese,stop,গেম বন্ধ কৰক
+V003451,Assamese,stop,গেম বন্ধ কৰক
+V003452,Assamese,stop,গেম বন্ধ কৰক
+V003453,Assamese,stop,গেম বন্ধ কৰক
+V003454,Assamese,stop,গেম বন্ধ কৰক
+V003455,Assamese,stop,গেম বন্ধ কৰক
+V003456,Assamese,stop,গেম বন্ধ কৰক
+V003457,Assamese,stop,গেম বন্ধ কৰক
+V003458,Assamese,stop,গেম বন্ধ কৰক
+V003459,Assamese,stop,গেম বন্ধ কৰক
+V003460,Assamese,stop,গেম বন্ধ কৰক
+V003461,Assamese,stop,গেম বন্ধ কৰক
+V003462,Assamese,stop,গেম বন্ধ কৰক
+V003463,Assamese,stop,গেম বন্ধ কৰক
+V003464,Assamese,stop,গেম বন্ধ কৰক
+V003465,Assamese,stop,গেম বন্ধ কৰক
+V003466,Assamese,stop,গেম বন্ধ কৰক
+V003467,Assamese,stop,গেম বন্ধ কৰক
+V003468,Assamese,stop,গেম বন্ধ কৰক
+V003469,Assamese,stop,গেম বন্ধ কৰক
+V003470,Assamese,stop,গেম বন্ধ কৰক
+V003471,Assamese,stop,গেম বন্ধ কৰক
+V003472,Assamese,stop,গেম বন্ধ কৰক
+V003473,Assamese,stop,গেম বন্ধ কৰক
+V003474,Assamese,stop,গেম বন্ধ কৰক
+V003475,Assamese,stop,গেম বন্ধ কৰক
+V003476,Assamese,stop,গেম বন্ধ কৰক
+V003477,Assamese,stop,গেম বন্ধ কৰক
+V003478,Assamese,stop,গেম বন্ধ কৰক
+V003479,Assamese,stop,গেম বন্ধ কৰক
+V003480,Assamese,stop,গেম বন্ধ কৰক
+V003481,Assamese,stop,গেম বন্ধ কৰক
+V003482,Assamese,stop,গেম বন্ধ কৰক
+V003483,Assamese,stop,গেম বন্ধ কৰক
+V003484,Assamese,stop,গেম বন্ধ কৰক
+V003485,Assamese,stop,গেম বন্ধ কৰক
+V003486,Assamese,stop,গেম বন্ধ কৰক
+V003487,Assamese,stop,গেম বন্ধ কৰক
+V003488,Assamese,stop,গেম বন্ধ কৰক
+V003489,Assamese,stop,গেম বন্ধ কৰক
+V003490,Assamese,stop,গেম বন্ধ কৰক
+V003491,Assamese,stop,গেম বন্ধ কৰক
+V003492,Assamese,stop,গেম বন্ধ কৰক
+V003493,Assamese,stop,গেম বন্ধ কৰক
+V003494,Assamese,stop,গেম বন্ধ কৰক
+V003495,Assamese,stop,গেম বন্ধ কৰক
+V003496,Assamese,stop,গেম বন্ধ কৰক
+V003497,Assamese,stop,গেম বন্ধ কৰক
+V003498,Assamese,stop,গেম বন্ধ কৰক
+V003499,Assamese,stop,গেম বন্ধ কৰক
+V003500,Assamese,stop,গেম বন্ধ কৰক
+V003501,Assamese,stop,গেম বন্ধ কৰক
+V003502,Assamese,stop,গেম বন্ধ কৰক
+V003503,Assamese,stop,গেম বন্ধ কৰক
+V003504,Assamese,stop,গেম বন্ধ কৰক
+V003505,Assamese,stop,গেম বন্ধ কৰক
+V003506,Assamese,stop,গেম বন্ধ কৰক
+V003507,Assamese,stop,গেম বন্ধ কৰক
+V003508,Assamese,stop,গেম বন্ধ কৰক
+V003509,Assamese,stop,গেম বন্ধ কৰক
+V003510,Assamese,stop,গেম বন্ধ কৰক
+V003511,Assamese,stop,গেম বন্ধ কৰক
+V003512,Assamese,stop,গেম বন্ধ কৰক
+V003513,Assamese,stop,গেম বন্ধ কৰক
+V003514,Assamese,stop,গেম বন্ধ কৰক
+V003515,Assamese,stop,গেম বন্ধ কৰক
+V003516,Assamese,stop,গেম বন্ধ কৰক
+V003517,Assamese,stop,গেম বন্ধ কৰক
+V003518,Assamese,stop,গেম বন্ধ কৰক
+V003519,Assamese,stop,গেম বন্ধ কৰক
+V003520,Assamese,stop,গেম বন্ধ কৰক
+V003521,Assamese,stop,গেম বন্ধ কৰক
+V003522,Assamese,stop,গেম বন্ধ কৰক
+V003523,Assamese,stop,গেম বন্ধ কৰক
+V003524,Assamese,stop,গেম বন্ধ কৰক
+V003525,Assamese,stop,গেম বন্ধ কৰক
+V003526,Assamese,stop,গেম বন্ধ কৰক
+V003527,Assamese,stop,গেম বন্ধ কৰক
+V003528,Assamese,stop,গেম বন্ধ কৰক
+V003529,Assamese,stop,গেম বন্ধ কৰক
+V003530,Assamese,stop,গেম বন্ধ কৰক
+V003531,Assamese,stop,গেম বন্ধ কৰক
+V003532,Assamese,stop,গেম বন্ধ কৰক
+V003533,Assamese,stop,গেম বন্ধ কৰক
+V003534,Assamese,stop,গেম বন্ধ কৰক
+V003535,Assamese,stop,গেম বন্ধ কৰক
+V003536,Assamese,stop,গেম বন্ধ কৰক
+V003537,Assamese,stop,গেম বন্ধ কৰক
+V003538,Assamese,stop,গেম বন্ধ কৰক
+V003539,Assamese,stop,গেম বন্ধ কৰক
+V003540,Assamese,stop,গেম বন্ধ কৰক
+V003541,Assamese,stop,গেম বন্ধ কৰক
+V003542,Assamese,stop,গেম বন্ধ কৰক
+V003543,Assamese,stop,গেম বন্ধ কৰক
+V003544,Assamese,stop,গেম বন্ধ কৰক
+V003545,Assamese,stop,গেম বন্ধ কৰক
+V003546,Assamese,stop,গেম বন্ধ কৰক
+V003547,Assamese,stop,গেম বন্ধ কৰক
+V003548,Assamese,stop,গেম বন্ধ কৰক
+V003549,Assamese,stop,গেম বন্ধ কৰক
+V003550,Assamese,stop,গেম বন্ধ কৰক
+V003551,Assamese,stop,গেম বন্ধ কৰক
+V003552,Assamese,stop,গেম বন্ধ কৰক
+V003553,Assamese,stop,গেম বন্ধ কৰক
+V003554,Assamese,stop,গেম বন্ধ কৰক
+V003555,Assamese,stop,গেম বন্ধ কৰক
+V003556,Assamese,stop,গেম বন্ধ কৰক
+V003557,Assamese,stop,গেম বন্ধ কৰক
+V003558,Assamese,stop,গেম বন্ধ কৰক
+V003559,Assamese,stop,গেম বন্ধ কৰক
+V003560,Assamese,stop,গেম বন্ধ কৰক
+V003561,Assamese,stop,গেম বন্ধ কৰক
+V003562,Assamese,stop,গেম বন্ধ কৰক
+V003563,Assamese,stop,গেম বন্ধ কৰক
+V003564,Assamese,stop,গেম বন্ধ কৰক
+V003565,Assamese,stop,গেম বন্ধ কৰক
+V003566,Assamese,stop,গেম বন্ধ কৰক
+V003567,Assamese,stop,গেম বন্ধ কৰক
+V003568,Assamese,stop,গেম বন্ধ কৰক
+V003569,Assamese,stop,গেম বন্ধ কৰক
+V003570,Assamese,stop,গেম বন্ধ কৰক
+V003571,Assamese,stop,গেম বন্ধ কৰক
+V003572,Assamese,stop,গেম বন্ধ কৰক
+V003573,Assamese,stop,গেম বন্ধ কৰক
+V003574,Assamese,stop,গেম বন্ধ কৰক
+V003575,Assamese,stop,গেম বন্ধ কৰক
+V003576,Assamese,stop,গেম বন্ধ কৰক
+V003577,Assamese,stop,গেম বন্ধ কৰক
+V003578,Assamese,stop,গেম বন্ধ কৰক
+V003579,Assamese,stop,গেম বন্ধ কৰক
+V003580,Assamese,stop,গেম বন্ধ কৰক
+V003581,Assamese,stop,গেম বন্ধ কৰক
+V003582,Assamese,stop,গেম বন্ধ কৰক
+V003583,Assamese,stop,গেম বন্ধ কৰক
+V003584,Assamese,stop,গেম বন্ধ কৰক
+V003585,Assamese,stop,গেম বন্ধ কৰক
+V003586,Assamese,stop,গেম বন্ধ কৰক
+V003587,Assamese,stop,গেম বন্ধ কৰক
+V003588,Assamese,stop,গেম বন্ধ কৰক
+V003589,Assamese,stop,গেম বন্ধ কৰক
+V003590,Assamese,stop,গেম বন্ধ কৰক
+V003591,Assamese,stop,গেম বন্ধ কৰক
+V003592,Assamese,stop,গেম বন্ধ কৰক
+V003593,Assamese,stop,গেম বন্ধ কৰক
+V003594,Assamese,stop,গেম বন্ধ কৰক
+V003595,Assamese,stop,গেম বন্ধ কৰক
+V003596,Assamese,stop,গেম বন্ধ কৰক
+V003597,Assamese,stop,গেম বন্ধ কৰক
+V003598,Assamese,stop,গেম বন্ধ কৰক
+V003599,Assamese,stop,গেম বন্ধ কৰক
+V003600,Assamese,stop,গেম বন্ধ কৰক

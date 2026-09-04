@@ -1,0 +1,13 @@
+file,field,purpose
+03_gameplay_telemetry_FINAL_50000.csv,accuracy,Model input
+03_gameplay_telemetry_FINAL_50000.csv,reaction_time_sec,Model input
+03_gameplay_telemetry_FINAL_50000.csv,error_count,Model input
+03_gameplay_telemetry_FINAL_50000.csv,hint_count,Model input
+03_gameplay_telemetry_FINAL_50000.csv,difficulty,Model input
+03_gameplay_telemetry_FINAL_50000.csv,fatigue_signal,Safety/model feature
+03_gameplay_telemetry_FINAL_50000.csv,recommended_next_action,Synthetic training target
+04_daily_cognitive_metrics_FINAL_60000.csv,engagement_score,Caregiver trend
+05_reminder_events_FINAL_20000.csv,completed,Reminder analytics
+06_voice_intent_FINAL_3600.csv,intent,Voice model target
+07_personal_memory_capsule_FINAL_5000.csv,consent,Privacy gate
+08_game_recommendation_FINAL_10000.csv,recommended_game,Recommendation target

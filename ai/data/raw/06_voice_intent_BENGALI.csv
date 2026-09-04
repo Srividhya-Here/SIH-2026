@@ -1,0 +1,601 @@
+﻿utterance_id,language,intent,text
+BEN0001,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0002,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0003,Bengali,start_game,গেম শুরু করো
+BEN0004,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0005,Bengali,start_game,খেলা শুরু করুন
+BEN0006,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0007,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0008,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0009,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0010,Bengali,start_game,খেলাটি শুরু করো
+BEN0011,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0012,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0013,Bengali,start_game,গেম শুরু করো
+BEN0014,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0015,Bengali,start_game,খেলা শুরু করুন
+BEN0016,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0017,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0018,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0019,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0020,Bengali,start_game,খেলাটি শুরু করো
+BEN0021,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0022,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0023,Bengali,start_game,গেম শুরু করো
+BEN0024,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0025,Bengali,start_game,খেলা শুরু করুন
+BEN0026,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0027,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0028,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0029,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0030,Bengali,start_game,খেলাটি শুরু করো
+BEN0031,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0032,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0033,Bengali,start_game,গেম শুরু করো
+BEN0034,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0035,Bengali,start_game,খেলা শুরু করুন
+BEN0036,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0037,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0038,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0039,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0040,Bengali,start_game,খেলাটি শুরু করো
+BEN0041,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0042,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0043,Bengali,start_game,গেম শুরু করো
+BEN0044,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0045,Bengali,start_game,খেলা শুরু করুন
+BEN0046,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0047,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0048,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0049,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0050,Bengali,start_game,খেলাটি শুরু করো
+BEN0051,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0052,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0053,Bengali,start_game,গেম শুরু করো
+BEN0054,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0055,Bengali,start_game,খেলা শুরু করুন
+BEN0056,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0057,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0058,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0059,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0060,Bengali,start_game,খেলাটি শুরু করো
+BEN0061,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0062,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0063,Bengali,start_game,গেম শুরু করো
+BEN0064,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0065,Bengali,start_game,খেলা শুরু করুন
+BEN0066,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0067,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0068,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0069,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0070,Bengali,start_game,খেলাটি শুরু করো
+BEN0071,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0072,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0073,Bengali,start_game,গেম শুরু করো
+BEN0074,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0075,Bengali,start_game,খেলা শুরু করুন
+BEN0076,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0077,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0078,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0079,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0080,Bengali,start_game,খেলাটি শুরু করো
+BEN0081,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0082,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0083,Bengali,start_game,গেম শুরু করো
+BEN0084,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0085,Bengali,start_game,খেলা শুরু করুন
+BEN0086,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0087,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0088,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0089,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0090,Bengali,start_game,খেলাটি শুরু করো
+BEN0091,Bengali,start_game,মেমোরি গেম শুরু করো
+BEN0092,Bengali,start_game,মেমোরি গেম চালু করো
+BEN0093,Bengali,start_game,গেম শুরু করো
+BEN0094,Bengali,start_game,মেমোরি গেমটা শুরু করো
+BEN0095,Bengali,start_game,খেলা শুরু করুন
+BEN0096,Bengali,start_game,মেমোরি খেলা চালু করুন
+BEN0097,Bengali,start_game,আমার জন্য মেমোরি গেম শুরু করো
+BEN0098,Bengali,start_game,গেমটি শুরু করতে চাই
+BEN0099,Bengali,start_game,মেমোরি গেম খেলতে চাই
+BEN0100,Bengali,start_game,খেলাটি শুরু করো
+BEN0101,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0102,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0103,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0104,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0105,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0106,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0107,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0108,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0109,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0110,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0111,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0112,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0113,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0114,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0115,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0116,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0117,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0118,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0119,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0120,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0121,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0122,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0123,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0124,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0125,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0126,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0127,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0128,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0129,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0130,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0131,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0132,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0133,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0134,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0135,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0136,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0137,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0138,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0139,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0140,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0141,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0142,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0143,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0144,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0145,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0146,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0147,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0148,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0149,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0150,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0151,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0152,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0153,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0154,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0155,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0156,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0157,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0158,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0159,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0160,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0161,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0162,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0163,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0164,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0165,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0166,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0167,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0168,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0169,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0170,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0171,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0172,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0173,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0174,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0175,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0176,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0177,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0178,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0179,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0180,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0181,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0182,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0183,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0184,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0185,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0186,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0187,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0188,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0189,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0190,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0191,Bengali,medicine_reminder,আমার ওষুধের কথা মনে করিয়ে দাও
+BEN0192,Bengali,medicine_reminder,ওষুধ খাওয়ার কথা মনে করিয়ে দাও
+BEN0193,Bengali,medicine_reminder,আমাকে ওষুধের কথা মনে করিয়ে দাও
+BEN0194,Bengali,medicine_reminder,ওষুধ খাওয়ার জন্য মনে করিয়ে দিও
+BEN0195,Bengali,medicine_reminder,আমার ওষুধের সময় মনে করিয়ে দাও
+BEN0196,Bengali,medicine_reminder,ওষুধ নেওয়ার কথা মনে করিয়ে দাও
+BEN0197,Bengali,medicine_reminder,আমাকে ওষুধ খেতে মনে করিয়ে দাও
+BEN0198,Bengali,medicine_reminder,ওষুধের জন্য একটি রিমাইন্ডার দাও
+BEN0199,Bengali,medicine_reminder,আমার ওষুধের রিমাইন্ডার সেট করো
+BEN0200,Bengali,medicine_reminder,ওষুধ খাওয়ার রিমাইন্ডার চাই
+BEN0201,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0202,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0203,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0204,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0205,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0206,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0207,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0208,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0209,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0210,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0211,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0212,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0213,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0214,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0215,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0216,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0217,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0218,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0219,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0220,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0221,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0222,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0223,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0224,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0225,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0226,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0227,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0228,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0229,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0230,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0231,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0232,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0233,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0234,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0235,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0236,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0237,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0238,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0239,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0240,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0241,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0242,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0243,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0244,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0245,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0246,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0247,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0248,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0249,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0250,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0251,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0252,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0253,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0254,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0255,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0256,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0257,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0258,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0259,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0260,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0261,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0262,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0263,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0264,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0265,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0266,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0267,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0268,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0269,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0270,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0271,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0272,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0273,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0274,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0275,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0276,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0277,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0278,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0279,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0280,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0281,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0282,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0283,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0284,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0285,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0286,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0287,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0288,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0289,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0290,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0291,Bengali,hydration_reminder,আমাকে জল খাওয়ার কথা মনে করিয়ে দাও
+BEN0292,Bengali,hydration_reminder,পানি খাওয়ার কথা মনে করিয়ে দাও
+BEN0293,Bengali,hydration_reminder,আমাকে জল পান করতে মনে করিয়ে দাও
+BEN0294,Bengali,hydration_reminder,পানি খাওয়ার জন্য রিমাইন্ডার দাও
+BEN0295,Bengali,hydration_reminder,জল খাওয়ার রিমাইন্ডার সেট করো
+BEN0296,Bengali,hydration_reminder,আমাকে পানি পান করতে মনে করিয়ে দিও
+BEN0297,Bengali,hydration_reminder,জল পান করার কথা মনে করিয়ে দাও
+BEN0298,Bengali,hydration_reminder,পানি খাওয়ার সময় মনে করিয়ে দাও
+BEN0299,Bengali,hydration_reminder,আমার জন্য জল খাওয়ার রিমাইন্ডার দাও
+BEN0300,Bengali,hydration_reminder,পানি পান করার রিমাইন্ডার চাই
+BEN0301,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0302,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0303,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0304,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0305,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0306,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0307,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0308,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0309,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0310,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0311,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0312,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0313,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0314,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0315,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0316,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0317,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0318,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0319,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0320,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0321,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0322,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0323,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0324,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0325,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0326,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0327,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0328,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0329,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0330,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0331,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0332,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0333,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0334,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0335,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0336,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0337,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0338,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0339,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0340,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0341,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0342,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0343,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0344,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0345,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0346,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0347,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0348,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0349,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0350,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0351,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0352,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0353,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0354,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0355,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0356,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0357,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0358,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0359,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0360,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0361,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0362,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0363,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0364,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0365,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0366,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0367,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0368,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0369,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0370,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0371,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0372,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0373,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0374,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0375,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0376,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0377,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0378,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0379,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0380,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0381,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0382,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0383,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0384,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0385,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0386,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0387,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0388,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0389,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0390,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0391,Bengali,today_tasks,আজকের কাজগুলো দেখাও
+BEN0392,Bengali,today_tasks,আজ আমার কী কাজ আছে
+BEN0393,Bengali,today_tasks,আজকের কাজের তালিকা দেখাও
+BEN0394,Bengali,today_tasks,আজকের কাজগুলো বলো
+BEN0395,Bengali,today_tasks,আজ আমাকে কী করতে হবে
+BEN0396,Bengali,today_tasks,আজকের টাস্কগুলো দেখাও
+BEN0397,Bengali,today_tasks,আজকের কাজ সম্পর্কে বলো
+BEN0398,Bengali,today_tasks,আমার আজকের কাজ কী
+BEN0399,Bengali,today_tasks,আজকের কাজের তালিকা চাই
+BEN0400,Bengali,today_tasks,আজ কী কী করতে হবে বলো
+BEN0401,Bengali,repeat,আবার বলো
+BEN0402,Bengali,repeat,আরেকবার বলো
+BEN0403,Bengali,repeat,কথাটা আবার বলো
+BEN0404,Bengali,repeat,আবার বলুন
+BEN0405,Bengali,repeat,আরেকবার বলুন
+BEN0406,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0407,Bengali,repeat,আবার শুনতে চাই
+BEN0408,Bengali,repeat,আবার বলো দয়া করে
+BEN0409,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0410,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0411,Bengali,repeat,আবার বলো
+BEN0412,Bengali,repeat,আরেকবার বলো
+BEN0413,Bengali,repeat,কথাটা আবার বলো
+BEN0414,Bengali,repeat,আবার বলুন
+BEN0415,Bengali,repeat,আরেকবার বলুন
+BEN0416,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0417,Bengali,repeat,আবার শুনতে চাই
+BEN0418,Bengali,repeat,আবার বলো দয়া করে
+BEN0419,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0420,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0421,Bengali,repeat,আবার বলো
+BEN0422,Bengali,repeat,আরেকবার বলো
+BEN0423,Bengali,repeat,কথাটা আবার বলো
+BEN0424,Bengali,repeat,আবার বলুন
+BEN0425,Bengali,repeat,আরেকবার বলুন
+BEN0426,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0427,Bengali,repeat,আবার শুনতে চাই
+BEN0428,Bengali,repeat,আবার বলো দয়া করে
+BEN0429,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0430,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0431,Bengali,repeat,আবার বলো
+BEN0432,Bengali,repeat,আরেকবার বলো
+BEN0433,Bengali,repeat,কথাটা আবার বলো
+BEN0434,Bengali,repeat,আবার বলুন
+BEN0435,Bengali,repeat,আরেকবার বলুন
+BEN0436,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0437,Bengali,repeat,আবার শুনতে চাই
+BEN0438,Bengali,repeat,আবার বলো দয়া করে
+BEN0439,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0440,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0441,Bengali,repeat,আবার বলো
+BEN0442,Bengali,repeat,আরেকবার বলো
+BEN0443,Bengali,repeat,কথাটা আবার বলো
+BEN0444,Bengali,repeat,আবার বলুন
+BEN0445,Bengali,repeat,আরেকবার বলুন
+BEN0446,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0447,Bengali,repeat,আবার শুনতে চাই
+BEN0448,Bengali,repeat,আবার বলো দয়া করে
+BEN0449,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0450,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0451,Bengali,repeat,আবার বলো
+BEN0452,Bengali,repeat,আরেকবার বলো
+BEN0453,Bengali,repeat,কথাটা আবার বলো
+BEN0454,Bengali,repeat,আবার বলুন
+BEN0455,Bengali,repeat,আরেকবার বলুন
+BEN0456,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0457,Bengali,repeat,আবার শুনতে চাই
+BEN0458,Bengali,repeat,আবার বলো দয়া করে
+BEN0459,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0460,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0461,Bengali,repeat,আবার বলো
+BEN0462,Bengali,repeat,আরেকবার বলো
+BEN0463,Bengali,repeat,কথাটা আবার বলো
+BEN0464,Bengali,repeat,আবার বলুন
+BEN0465,Bengali,repeat,আরেকবার বলুন
+BEN0466,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0467,Bengali,repeat,আবার শুনতে চাই
+BEN0468,Bengali,repeat,আবার বলো দয়া করে
+BEN0469,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0470,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0471,Bengali,repeat,আবার বলো
+BEN0472,Bengali,repeat,আরেকবার বলো
+BEN0473,Bengali,repeat,কথাটা আবার বলো
+BEN0474,Bengali,repeat,আবার বলুন
+BEN0475,Bengali,repeat,আরেকবার বলুন
+BEN0476,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0477,Bengali,repeat,আবার শুনতে চাই
+BEN0478,Bengali,repeat,আবার বলো দয়া করে
+BEN0479,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0480,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0481,Bengali,repeat,আবার বলো
+BEN0482,Bengali,repeat,আরেকবার বলো
+BEN0483,Bengali,repeat,কথাটা আবার বলো
+BEN0484,Bengali,repeat,আবার বলুন
+BEN0485,Bengali,repeat,আরেকবার বলুন
+BEN0486,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0487,Bengali,repeat,আবার শুনতে চাই
+BEN0488,Bengali,repeat,আবার বলো দয়া করে
+BEN0489,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0490,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0491,Bengali,repeat,আবার বলো
+BEN0492,Bengali,repeat,আরেকবার বলো
+BEN0493,Bengali,repeat,কথাটা আবার বলো
+BEN0494,Bengali,repeat,আবার বলুন
+BEN0495,Bengali,repeat,আরেকবার বলুন
+BEN0496,Bengali,repeat,যেটা বলেছিলে আবার বলো
+BEN0497,Bengali,repeat,আবার শুনতে চাই
+BEN0498,Bengali,repeat,আবার বলো দয়া করে
+BEN0499,Bengali,repeat,শেষ কথাটা আবার বলো
+BEN0500,Bengali,repeat,আরেকবার বুঝিয়ে বলো
+BEN0501,Bengali,stop,থামো
+BEN0502,Bengali,stop,বন্ধ করো
+BEN0503,Bengali,stop,এটা বন্ধ করো
+BEN0504,Bengali,stop,গেম বন্ধ করো
+BEN0505,Bengali,stop,খেলা থামাও
+BEN0506,Bengali,stop,এখন থামো
+BEN0507,Bengali,stop,বন্ধ করুন
+BEN0508,Bengali,stop,থামিয়ে দাও
+BEN0509,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0510,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0511,Bengali,stop,থামো
+BEN0512,Bengali,stop,বন্ধ করো
+BEN0513,Bengali,stop,এটা বন্ধ করো
+BEN0514,Bengali,stop,গেম বন্ধ করো
+BEN0515,Bengali,stop,খেলা থামাও
+BEN0516,Bengali,stop,এখন থামো
+BEN0517,Bengali,stop,বন্ধ করুন
+BEN0518,Bengali,stop,থামিয়ে দাও
+BEN0519,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0520,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0521,Bengali,stop,থামো
+BEN0522,Bengali,stop,বন্ধ করো
+BEN0523,Bengali,stop,এটা বন্ধ করো
+BEN0524,Bengali,stop,গেম বন্ধ করো
+BEN0525,Bengali,stop,খেলা থামাও
+BEN0526,Bengali,stop,এখন থামো
+BEN0527,Bengali,stop,বন্ধ করুন
+BEN0528,Bengali,stop,থামিয়ে দাও
+BEN0529,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0530,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0531,Bengali,stop,থামো
+BEN0532,Bengali,stop,বন্ধ করো
+BEN0533,Bengali,stop,এটা বন্ধ করো
+BEN0534,Bengali,stop,গেম বন্ধ করো
+BEN0535,Bengali,stop,খেলা থামাও
+BEN0536,Bengali,stop,এখন থামো
+BEN0537,Bengali,stop,বন্ধ করুন
+BEN0538,Bengali,stop,থামিয়ে দাও
+BEN0539,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0540,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0541,Bengali,stop,থামো
+BEN0542,Bengali,stop,বন্ধ করো
+BEN0543,Bengali,stop,এটা বন্ধ করো
+BEN0544,Bengali,stop,গেম বন্ধ করো
+BEN0545,Bengali,stop,খেলা থামাও
+BEN0546,Bengali,stop,এখন থামো
+BEN0547,Bengali,stop,বন্ধ করুন
+BEN0548,Bengali,stop,থামিয়ে দাও
+BEN0549,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0550,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0551,Bengali,stop,থামো
+BEN0552,Bengali,stop,বন্ধ করো
+BEN0553,Bengali,stop,এটা বন্ধ করো
+BEN0554,Bengali,stop,গেম বন্ধ করো
+BEN0555,Bengali,stop,খেলা থামাও
+BEN0556,Bengali,stop,এখন থামো
+BEN0557,Bengali,stop,বন্ধ করুন
+BEN0558,Bengali,stop,থামিয়ে দাও
+BEN0559,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0560,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0561,Bengali,stop,থামো
+BEN0562,Bengali,stop,বন্ধ করো
+BEN0563,Bengali,stop,এটা বন্ধ করো
+BEN0564,Bengali,stop,গেম বন্ধ করো
+BEN0565,Bengali,stop,খেলা থামাও
+BEN0566,Bengali,stop,এখন থামো
+BEN0567,Bengali,stop,বন্ধ করুন
+BEN0568,Bengali,stop,থামিয়ে দাও
+BEN0569,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0570,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0571,Bengali,stop,থামো
+BEN0572,Bengali,stop,বন্ধ করো
+BEN0573,Bengali,stop,এটা বন্ধ করো
+BEN0574,Bengali,stop,গেম বন্ধ করো
+BEN0575,Bengali,stop,খেলা থামাও
+BEN0576,Bengali,stop,এখন থামো
+BEN0577,Bengali,stop,বন্ধ করুন
+BEN0578,Bengali,stop,থামিয়ে দাও
+BEN0579,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0580,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0581,Bengali,stop,থামো
+BEN0582,Bengali,stop,বন্ধ করো
+BEN0583,Bengali,stop,এটা বন্ধ করো
+BEN0584,Bengali,stop,গেম বন্ধ করো
+BEN0585,Bengali,stop,খেলা থামাও
+BEN0586,Bengali,stop,এখন থামো
+BEN0587,Bengali,stop,বন্ধ করুন
+BEN0588,Bengali,stop,থামিয়ে দাও
+BEN0589,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0590,Bengali,stop,এখন বন্ধ করতে চাই
+BEN0591,Bengali,stop,থামো
+BEN0592,Bengali,stop,বন্ধ করো
+BEN0593,Bengali,stop,এটা বন্ধ করো
+BEN0594,Bengali,stop,গেম বন্ধ করো
+BEN0595,Bengali,stop,খেলা থামাও
+BEN0596,Bengali,stop,এখন থামো
+BEN0597,Bengali,stop,বন্ধ করুন
+BEN0598,Bengali,stop,থামিয়ে দাও
+BEN0599,Bengali,stop,গেমটি বন্ধ করে দাও
+BEN0600,Bengali,stop,এখন বন্ধ করতে চাই

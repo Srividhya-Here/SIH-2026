@@ -1,0 +1,1001 @@
+patient_id,state,preferred_language,age,gender,location_type,digital_familiarity,self_reported_memory_difficulty,baseline_engagement_score
+P00001,Sikkim,Nepali,64,Male,Rural,Medium,None,63.4
+P00002,Mizoram,Mizo,73,Male,Rural,Low,Moderate,78.3
+P00003,Nagaland,Nagamese,80,Female,Rural,Medium,None,46.9
+P00004,Meghalaya,Khasi,81,Female,Rural,Medium,None,65.6
+P00005,Tripura,Bengali,78,Male,Rural,Low,Moderate,67.5
+P00006,Arunachal Pradesh,Hindi,68,Female,Rural,Medium,Mild,49.9
+P00007,Mizoram,Mizo,66,Female,Rural,Medium,Mild,53.3
+P00008,Meghalaya,Khasi,72,Female,Semi-Urban,Medium,Moderate,80.8
+P00009,Nagaland,Nagamese,61,Male,Rural,High,Moderate,74.9
+P00010,Sikkim,Nepali,78,Male,Rural,Low,Mild,50.6
+P00011,Sikkim,Nepali,55,Female,Rural,Low,Mild,76.6
+P00012,Manipur,Meitei,58,Female,Rural,Low,Moderate,69.9
+P00013,Arunachal Pradesh,Hindi,67,Male,Rural,Medium,None,67.4
+P00014,Manipur,Meitei,62,Female,Rural,Medium,Mild,75.8
+P00015,Sikkim,Nepali,67,Female,Semi-Urban,Medium,Mild,72.8
+P00016,Mizoram,Mizo,61,Female,Rural,Medium,None,48.1
+P00017,Manipur,Meitei,74,Male,Rural,Low,Mild,53.7
+P00018,Meghalaya,Khasi,71,Male,Rural,High,Moderate,57.7
+P00019,Assam,Assamese,75,Female,Rural,Low,None,66.4
+P00020,Nagaland,Nagamese,58,Female,Rural,Low,Moderate,57.9
+P00021,Tripura,Bengali,55,Female,Rural,Low,Mild,73.5
+P00022,Mizoram,Mizo,79,Female,Rural,Medium,Mild,47.1
+P00023,Mizoram,Mizo,78,Male,Rural,Medium,Mild,68.7
+P00024,Sikkim,Nepali,57,Male,Rural,Medium,None,70.3
+P00025,Nagaland,Nagamese,78,Male,Rural,Medium,Mild,79.3
+P00026,Meghalaya,Khasi,65,Male,Rural,Medium,None,70.8
+P00027,Meghalaya,Khasi,67,Female,Semi-Urban,Medium,Mild,53.4
+P00028,Sikkim,Nepali,73,Male,Rural,Medium,Moderate,67.2
+P00029,Meghalaya,Khasi,69,Male,Rural,Low,Mild,78.9
+P00030,Meghalaya,Khasi,73,Male,Semi-Urban,Medium,None,51.5
+P00031,Nagaland,Nagamese,75,Female,Semi-Urban,High,None,57.2
+P00032,Arunachal Pradesh,Hindi,83,Male,Rural,Low,Mild,54.5
+P00033,Mizoram,Mizo,65,Male,Semi-Urban,Low,Mild,65.4
+P00034,Nagaland,Nagamese,60,Female,Rural,High,None,80.7
+P00035,Manipur,Meitei,55,Male,Rural,High,None,65.0
+P00036,Meghalaya,Khasi,62,Female,Rural,Low,Moderate,83.2
+P00037,Mizoram,Mizo,71,Male,Rural,Medium,Mild,84.2
+P00038,Meghalaya,Khasi,73,Female,Rural,High,None,51.8
+P00039,Assam,Assamese,77,Male,Rural,Low,Mild,59.3
+P00040,Sikkim,Nepali,66,Female,Semi-Urban,Medium,Mild,73.1
+P00041,Tripura,Bengali,55,Female,Rural,Medium,None,45.2
+P00042,Meghalaya,Khasi,72,Male,Rural,Medium,Moderate,80.6
+P00043,Sikkim,Nepali,69,Female,Rural,Low,None,84.3
+P00044,Nagaland,Nagamese,65,Male,Rural,Low,Moderate,59.4
+P00045,Meghalaya,Khasi,76,Female,Semi-Urban,Medium,Moderate,52.8
+P00046,Nagaland,Nagamese,64,Female,Rural,Medium,Moderate,65.7
+P00047,Nagaland,Nagamese,68,Female,Semi-Urban,Low,None,48.2
+P00048,Sikkim,Nepali,65,Male,Rural,Low,None,55.0
+P00049,Nagaland,Nagamese,70,Female,Rural,Medium,Mild,46.9
+P00050,Arunachal Pradesh,Hindi,73,Female,Semi-Urban,Low,None,46.8
+P00051,Assam,Assamese,74,Female,Rural,Medium,None,83.0
+P00052,Meghalaya,Khasi,73,Female,Rural,Medium,Mild,79.3
+P00053,Mizoram,Mizo,76,Male,Semi-Urban,High,Mild,77.0
+P00054,Meghalaya,Khasi,81,Female,Rural,Medium,Mild,82.7
+P00055,Manipur,Meitei,73,Female,Rural,Low,None,46.6
+P00056,Arunachal Pradesh,Hindi,77,Male,Rural,Low,Moderate,45.9
+P00057,Arunachal Pradesh,Hindi,68,Male,Rural,High,None,61.7
+P00058,Mizoram,Mizo,55,Female,Rural,Medium,Moderate,84.6
+P00059,Tripura,Bengali,66,Male,Semi-Urban,Medium,None,72.2
+P00060,Sikkim,Nepali,64,Male,Rural,High,Mild,78.1
+P00061,Nagaland,Nagamese,64,Female,Semi-Urban,High,None,83.3
+P00062,Sikkim,Nepali,66,Male,Rural,Medium,Mild,56.7
+P00063,Assam,Assamese,57,Male,Semi-Urban,Low,Moderate,84.0
+P00064,Nagaland,Nagamese,71,Female,Rural,High,None,49.7
+P00065,Meghalaya,Khasi,76,Male,Semi-Urban,Medium,None,60.9
+P00066,Manipur,Meitei,72,Male,Rural,Low,Moderate,60.0
+P00067,Assam,Assamese,66,Male,Rural,Medium,Mild,64.3
+P00068,Meghalaya,Khasi,72,Male,Rural,High,None,64.7
+P00069,Mizoram,Mizo,80,Male,Semi-Urban,High,Mild,72.2
+P00070,Meghalaya,Khasi,55,Male,Rural,Low,Moderate,53.9
+P00071,Nagaland,Nagamese,55,Female,Semi-Urban,High,None,72.8
+P00072,Assam,Assamese,73,Female,Rural,Medium,Mild,70.1
+P00073,Nagaland,Nagamese,80,Male,Semi-Urban,Low,None,49.3
+P00074,Mizoram,Mizo,63,Female,Rural,Medium,None,68.3
+P00075,Meghalaya,Khasi,58,Female,Rural,Low,Mild,69.1
+P00076,Tripura,Bengali,62,Female,Semi-Urban,High,Moderate,74.0
+P00077,Sikkim,Nepali,70,Female,Rural,Medium,Mild,84.4
+P00078,Manipur,Meitei,77,Male,Rural,High,Moderate,78.5
+P00079,Arunachal Pradesh,Hindi,71,Male,Semi-Urban,Medium,Mild,75.3
+P00080,Manipur,Meitei,84,Female,Rural,Low,Moderate,69.2
+P00081,Nagaland,Nagamese,71,Female,Rural,Low,Mild,64.0
+P00082,Manipur,Meitei,72,Female,Semi-Urban,Medium,Mild,80.1
+P00083,Assam,Assamese,64,Female,Semi-Urban,Medium,Moderate,81.1
+P00084,Tripura,Bengali,89,Female,Rural,Medium,None,62.5
+P00085,Sikkim,Nepali,71,Female,Semi-Urban,Low,Mild,72.9
+P00086,Mizoram,Mizo,82,Female,Semi-Urban,Medium,None,63.4
+P00087,Arunachal Pradesh,Hindi,56,Female,Rural,Low,Mild,63.4
+P00088,Tripura,Bengali,78,Female,Rural,Medium,None,58.8
+P00089,Manipur,Meitei,69,Male,Rural,Low,Moderate,58.8
+P00090,Arunachal Pradesh,Hindi,77,Female,Rural,Low,Mild,53.3
+P00091,Arunachal Pradesh,Hindi,66,Female,Rural,Medium,Mild,65.5
+P00092,Manipur,Meitei,62,Male,Rural,Low,Moderate,74.9
+P00093,Mizoram,Mizo,69,Male,Rural,Medium,Mild,73.8
+P00094,Arunachal Pradesh,Hindi,71,Female,Rural,Medium,Moderate,65.5
+P00095,Sikkim,Nepali,59,Female,Semi-Urban,Low,Mild,78.6
+P00096,Nagaland,Nagamese,55,Female,Rural,High,Mild,72.2
+P00097,Manipur,Meitei,66,Male,Semi-Urban,Medium,Mild,67.6
+P00098,Arunachal Pradesh,Hindi,86,Female,Rural,Medium,Mild,59.2
+P00099,Mizoram,Mizo,72,Female,Rural,Medium,Mild,79.0
+P00100,Nagaland,Nagamese,67,Female,Rural,High,None,66.0
+P00101,Tripura,Bengali,70,Male,Rural,High,Mild,73.9
+P00102,Nagaland,Nagamese,76,Male,Rural,Medium,None,75.8
+P00103,Nagaland,Nagamese,74,Female,Rural,Medium,None,65.2
+P00104,Sikkim,Nepali,62,Female,Rural,Low,None,50.4
+P00105,Sikkim,Nepali,57,Male,Rural,Low,None,49.7
+P00106,Sikkim,Nepali,70,Female,Rural,Low,Moderate,78.2
+P00107,Meghalaya,Khasi,74,Male,Rural,Medium,Moderate,73.9
+P00108,Meghalaya,Khasi,67,Male,Rural,Medium,None,51.5
+P00109,Mizoram,Mizo,64,Male,Semi-Urban,Low,Mild,72.3
+P00110,Tripura,Bengali,63,Female,Rural,Medium,None,74.9
+P00111,Sikkim,Nepali,55,Female,Rural,Low,None,66.7
+P00112,Nagaland,Nagamese,76,Male,Rural,Low,None,76.8
+P00113,Mizoram,Mizo,82,Male,Semi-Urban,Medium,Mild,76.1
+P00114,Assam,Assamese,68,Female,Rural,Medium,Moderate,58.7
+P00115,Nagaland,Nagamese,55,Female,Rural,Medium,Mild,64.5
+P00116,Meghalaya,Khasi,74,Male,Semi-Urban,Medium,Mild,66.7
+P00117,Manipur,Meitei,78,Male,Rural,Low,Mild,56.5
+P00118,Manipur,Meitei,71,Female,Rural,Medium,Mild,45.7
+P00119,Meghalaya,Khasi,61,Male,Semi-Urban,Low,Mild,75.8
+P00120,Sikkim,Nepali,70,Male,Rural,Medium,Moderate,82.0
+P00121,Sikkim,Nepali,66,Female,Rural,High,None,57.5
+P00122,Manipur,Meitei,65,Male,Rural,Low,None,77.1
+P00123,Mizoram,Mizo,61,Female,Semi-Urban,High,Mild,64.2
+P00124,Manipur,Meitei,70,Female,Rural,Medium,None,52.1
+P00125,Sikkim,Nepali,77,Female,Rural,Low,Mild,84.0
+P00126,Assam,Assamese,63,Female,Rural,Low,Moderate,65.1
+P00127,Assam,Assamese,62,Female,Semi-Urban,Low,Mild,70.0
+P00128,Mizoram,Mizo,56,Female,Rural,Low,Mild,63.1
+P00129,Arunachal Pradesh,Hindi,56,Female,Semi-Urban,Low,None,48.0
+P00130,Manipur,Meitei,90,Female,Rural,Medium,Mild,46.0
+P00131,Meghalaya,Khasi,78,Female,Rural,Medium,Mild,58.6
+P00132,Mizoram,Mizo,55,Female,Rural,Low,None,54.7
+P00133,Nagaland,Nagamese,78,Male,Semi-Urban,Low,Mild,58.0
+P00134,Arunachal Pradesh,Hindi,72,Female,Rural,Low,None,52.3
+P00135,Meghalaya,Khasi,79,Male,Rural,Low,Moderate,59.5
+P00136,Sikkim,Nepali,76,Female,Rural,Medium,Mild,62.4
+P00137,Meghalaya,Khasi,66,Male,Semi-Urban,Medium,None,64.4
+P00138,Assam,Assamese,71,Female,Rural,Medium,None,50.6
+P00139,Manipur,Meitei,60,Male,Rural,Medium,Moderate,66.2
+P00140,Arunachal Pradesh,Hindi,67,Male,Rural,Medium,Mild,78.2
+P00141,Sikkim,Nepali,61,Male,Rural,Medium,Mild,67.9
+P00142,Assam,Assamese,61,Female,Rural,Medium,None,51.7
+P00143,Manipur,Meitei,67,Male,Semi-Urban,Medium,Moderate,60.9
+P00144,Tripura,Bengali,78,Male,Semi-Urban,Low,None,55.5
+P00145,Manipur,Meitei,70,Male,Rural,Medium,Mild,58.8
+P00146,Tripura,Bengali,70,Male,Rural,Medium,Mild,54.9
+P00147,Manipur,Meitei,66,Male,Semi-Urban,Medium,Mild,65.9
+P00148,Meghalaya,Khasi,63,Female,Semi-Urban,Medium,Moderate,71.4
+P00149,Nagaland,Nagamese,69,Male,Rural,Medium,None,71.8
+P00150,Tripura,Bengali,69,Male,Semi-Urban,Low,Mild,81.6
+P00151,Nagaland,Nagamese,71,Female,Rural,Medium,Moderate,74.8
+P00152,Meghalaya,Khasi,64,Male,Rural,High,None,68.9
+P00153,Manipur,Meitei,62,Male,Rural,Medium,Mild,67.9
+P00154,Tripura,Bengali,90,Female,Semi-Urban,Low,Mild,80.4
+P00155,Arunachal Pradesh,Hindi,67,Female,Semi-Urban,Low,None,60.4
+P00156,Tripura,Bengali,76,Male,Semi-Urban,Medium,Mild,61.1
+P00157,Mizoram,Mizo,89,Female,Rural,Low,None,65.9
+P00158,Assam,Assamese,63,Female,Rural,Medium,None,56.9
+P00159,Nagaland,Nagamese,56,Male,Rural,Low,None,50.0
+P00160,Manipur,Meitei,74,Male,Semi-Urban,Low,Mild,80.2
+P00161,Nagaland,Nagamese,75,Male,Semi-Urban,Low,Mild,78.5
+P00162,Nagaland,Nagamese,70,Male,Rural,Low,None,53.8
+P00163,Assam,Assamese,73,Female,Rural,Medium,Mild,55.4
+P00164,Manipur,Meitei,78,Male,Rural,Low,Moderate,54.0
+P00165,Tripura,Bengali,55,Female,Rural,Low,Moderate,46.4
+P00166,Sikkim,Nepali,61,Male,Rural,Low,Mild,59.9
+P00167,Tripura,Bengali,67,Female,Semi-Urban,Low,Moderate,84.7
+P00168,Arunachal Pradesh,Hindi,69,Female,Rural,Medium,Moderate,58.9
+P00169,Arunachal Pradesh,Hindi,77,Male,Rural,High,None,51.3
+P00170,Tripura,Bengali,70,Male,Semi-Urban,Medium,Mild,69.7
+P00171,Nagaland,Nagamese,70,Male,Rural,High,None,77.8
+P00172,Mizoram,Mizo,67,Male,Rural,High,Moderate,65.3
+P00173,Sikkim,Nepali,74,Female,Rural,Low,Moderate,50.1
+P00174,Manipur,Meitei,55,Male,Rural,High,None,70.3
+P00175,Nagaland,Nagamese,75,Female,Semi-Urban,High,None,75.8
+P00176,Assam,Assamese,74,Male,Rural,Medium,None,79.9
+P00177,Tripura,Bengali,64,Male,Rural,Medium,None,77.9
+P00178,Sikkim,Nepali,84,Female,Semi-Urban,Medium,Mild,55.9
+P00179,Mizoram,Mizo,69,Male,Rural,High,Mild,54.2
+P00180,Manipur,Meitei,78,Female,Semi-Urban,Low,Mild,82.7
+P00181,Tripura,Bengali,66,Female,Rural,Medium,Mild,53.0
+P00182,Assam,Assamese,81,Male,Rural,High,Mild,83.7
+P00183,Nagaland,Nagamese,67,Female,Rural,Medium,None,81.5
+P00184,Arunachal Pradesh,Hindi,59,Male,Semi-Urban,Medium,None,50.0
+P00185,Meghalaya,Khasi,71,Female,Rural,Medium,None,68.6
+P00186,Tripura,Bengali,56,Female,Rural,Low,None,60.7
+P00187,Nagaland,Nagamese,78,Male,Semi-Urban,Medium,Mild,50.8
+P00188,Meghalaya,Khasi,74,Male,Rural,Medium,Mild,73.1
+P00189,Arunachal Pradesh,Hindi,69,Male,Rural,High,None,57.9
+P00190,Nagaland,Nagamese,62,Male,Rural,High,None,51.7
+P00191,Assam,Assamese,70,Male,Rural,Low,Moderate,82.9
+P00192,Meghalaya,Khasi,76,Male,Rural,High,None,80.8
+P00193,Meghalaya,Khasi,79,Female,Rural,Low,Mild,74.0
+P00194,Meghalaya,Khasi,72,Female,Rural,High,None,84.0
+P00195,Meghalaya,Khasi,73,Female,Rural,Low,None,71.1
+P00196,Mizoram,Mizo,72,Male,Semi-Urban,Medium,None,72.2
+P00197,Mizoram,Mizo,58,Male,Rural,High,Mild,78.8
+P00198,Mizoram,Mizo,66,Female,Rural,High,None,79.7
+P00199,Tripura,Bengali,65,Female,Rural,Medium,Moderate,71.2
+P00200,Manipur,Meitei,69,Male,Semi-Urban,Low,Mild,70.3
+P00201,Sikkim,Nepali,74,Female,Rural,Medium,None,65.5
+P00202,Mizoram,Mizo,63,Male,Rural,Low,Moderate,62.8
+P00203,Tripura,Bengali,83,Female,Rural,Low,None,79.3
+P00204,Mizoram,Mizo,76,Female,Semi-Urban,Low,Moderate,63.2
+P00205,Manipur,Meitei,67,Female,Rural,Medium,None,63.0
+P00206,Tripura,Bengali,76,Male,Rural,Low,None,46.5
+P00207,Mizoram,Mizo,73,Male,Rural,Medium,Moderate,67.3
+P00208,Manipur,Meitei,55,Female,Rural,Low,Mild,82.5
+P00209,Mizoram,Mizo,59,Female,Rural,Low,Mild,72.5
+P00210,Meghalaya,Khasi,74,Male,Semi-Urban,Low,Moderate,70.6
+P00211,Assam,Assamese,56,Female,Rural,Medium,None,50.3
+P00212,Meghalaya,Khasi,73,Male,Rural,Medium,Moderate,48.8
+P00213,Tripura,Bengali,65,Male,Rural,Medium,Moderate,60.0
+P00214,Nagaland,Nagamese,64,Female,Rural,High,Mild,46.2
+P00215,Tripura,Bengali,73,Male,Rural,Medium,None,51.4
+P00216,Tripura,Bengali,70,Female,Semi-Urban,Medium,Moderate,76.3
+P00217,Mizoram,Mizo,64,Male,Semi-Urban,High,Mild,81.1
+P00218,Mizoram,Mizo,66,Male,Rural,High,None,66.8
+P00219,Assam,Assamese,77,Male,Rural,Medium,Mild,68.9
+P00220,Tripura,Bengali,57,Female,Rural,Low,Mild,71.7
+P00221,Arunachal Pradesh,Hindi,69,Female,Semi-Urban,High,Moderate,77.6
+P00222,Assam,Assamese,81,Female,Rural,Medium,Mild,69.3
+P00223,Tripura,Bengali,81,Male,Rural,High,Mild,80.9
+P00224,Mizoram,Mizo,71,Male,Rural,High,None,82.4
+P00225,Nagaland,Nagamese,65,Male,Rural,Medium,Moderate,66.3
+P00226,Tripura,Bengali,65,Female,Rural,Medium,None,61.5
+P00227,Assam,Assamese,60,Male,Semi-Urban,Low,None,76.7
+P00228,Mizoram,Mizo,69,Female,Semi-Urban,Medium,Moderate,67.0
+P00229,Tripura,Bengali,60,Female,Rural,Medium,Mild,76.7
+P00230,Sikkim,Nepali,69,Male,Rural,High,Moderate,59.1
+P00231,Arunachal Pradesh,Hindi,62,Male,Semi-Urban,Medium,Moderate,75.7
+P00232,Arunachal Pradesh,Hindi,60,Female,Rural,Low,Mild,79.5
+P00233,Sikkim,Nepali,58,Female,Rural,Low,Mild,55.3
+P00234,Mizoram,Mizo,70,Male,Rural,High,None,72.8
+P00235,Manipur,Meitei,55,Male,Rural,Low,Moderate,69.1
+P00236,Nagaland,Nagamese,55,Male,Rural,Low,None,80.8
+P00237,Manipur,Meitei,55,Female,Rural,Medium,Moderate,71.8
+P00238,Meghalaya,Khasi,58,Female,Rural,High,Mild,66.3
+P00239,Mizoram,Mizo,58,Female,Rural,Medium,Moderate,62.9
+P00240,Meghalaya,Khasi,67,Female,Rural,High,None,72.6
+P00241,Assam,Assamese,66,Female,Semi-Urban,Low,None,84.2
+P00242,Manipur,Meitei,59,Male,Rural,Medium,None,84.7
+P00243,Tripura,Bengali,62,Male,Rural,Low,Moderate,79.6
+P00244,Mizoram,Mizo,75,Male,Semi-Urban,Medium,None,57.1
+P00245,Arunachal Pradesh,Hindi,59,Female,Rural,Medium,Moderate,56.2
+P00246,Arunachal Pradesh,Hindi,56,Male,Rural,High,Mild,84.7
+P00247,Mizoram,Mizo,69,Female,Rural,Medium,Mild,66.3
+P00248,Nagaland,Nagamese,55,Male,Semi-Urban,Low,None,61.1
+P00249,Arunachal Pradesh,Hindi,65,Male,Rural,High,Mild,64.2
+P00250,Assam,Assamese,64,Male,Rural,Medium,Mild,52.0
+P00251,Manipur,Meitei,62,Female,Rural,Low,None,76.1
+P00252,Tripura,Bengali,71,Female,Rural,Medium,Mild,49.2
+P00253,Nagaland,Nagamese,55,Female,Rural,Low,None,64.4
+P00254,Arunachal Pradesh,Hindi,79,Female,Rural,High,None,50.7
+P00255,Assam,Assamese,63,Female,Rural,Medium,Mild,54.2
+P00256,Mizoram,Mizo,75,Male,Rural,Medium,Mild,62.0
+P00257,Sikkim,Nepali,65,Male,Rural,Medium,Mild,52.1
+P00258,Mizoram,Mizo,79,Male,Rural,Medium,Mild,45.8
+P00259,Sikkim,Nepali,82,Female,Rural,Low,Moderate,70.2
+P00260,Mizoram,Mizo,75,Male,Semi-Urban,Medium,None,66.9
+P00261,Sikkim,Nepali,55,Female,Rural,High,None,71.1
+P00262,Manipur,Meitei,68,Female,Rural,Medium,Moderate,80.7
+P00263,Assam,Assamese,71,Male,Semi-Urban,Low,None,82.2
+P00264,Tripura,Bengali,63,Male,Rural,Medium,Mild,80.8
+P00265,Tripura,Bengali,71,Female,Semi-Urban,Low,Moderate,62.7
+P00266,Tripura,Bengali,66,Female,Rural,Medium,None,47.9
+P00267,Tripura,Bengali,69,Female,Rural,High,Moderate,82.7
+P00268,Manipur,Meitei,64,Female,Rural,Low,Mild,75.6
+P00269,Tripura,Bengali,62,Female,Semi-Urban,Medium,None,84.0
+P00270,Sikkim,Nepali,67,Female,Rural,Medium,Mild,70.8
+P00271,Arunachal Pradesh,Hindi,76,Female,Rural,Medium,None,64.4
+P00272,Tripura,Bengali,68,Male,Semi-Urban,Medium,None,58.5
+P00273,Tripura,Bengali,62,Female,Rural,Medium,None,56.0
+P00274,Meghalaya,Khasi,70,Female,Rural,High,Mild,56.4
+P00275,Tripura,Bengali,74,Female,Rural,Medium,None,84.1
+P00276,Nagaland,Nagamese,66,Male,Semi-Urban,Medium,None,66.8
+P00277,Manipur,Meitei,71,Male,Rural,Medium,None,83.6
+P00278,Sikkim,Nepali,55,Female,Semi-Urban,Medium,Mild,68.6
+P00279,Tripura,Bengali,62,Female,Rural,Medium,Moderate,62.4
+P00280,Tripura,Bengali,70,Female,Rural,Low,Mild,84.7
+P00281,Tripura,Bengali,70,Male,Rural,Medium,Moderate,69.6
+P00282,Arunachal Pradesh,Hindi,67,Female,Semi-Urban,Medium,None,75.4
+P00283,Nagaland,Nagamese,75,Male,Semi-Urban,High,Mild,65.1
+P00284,Arunachal Pradesh,Hindi,75,Female,Rural,Medium,Moderate,68.7
+P00285,Mizoram,Mizo,65,Female,Rural,High,Mild,73.9
+P00286,Mizoram,Mizo,65,Male,Rural,Medium,Mild,72.1
+P00287,Arunachal Pradesh,Hindi,66,Female,Rural,Low,Mild,74.8
+P00288,Arunachal Pradesh,Hindi,69,Male,Semi-Urban,Medium,Mild,50.9
+P00289,Sikkim,Nepali,61,Female,Rural,High,Mild,74.3
+P00290,Nagaland,Nagamese,75,Male,Rural,Medium,Moderate,49.7
+P00291,Nagaland,Nagamese,71,Male,Rural,Medium,Mild,68.5
+P00292,Nagaland,Nagamese,57,Female,Rural,High,None,62.2
+P00293,Manipur,Meitei,63,Female,Rural,High,Mild,70.2
+P00294,Nagaland,Nagamese,55,Male,Rural,Medium,Mild,75.6
+P00295,Nagaland,Nagamese,65,Female,Semi-Urban,Medium,None,56.3
+P00296,Arunachal Pradesh,Hindi,66,Female,Rural,Low,Moderate,55.0
+P00297,Tripura,Bengali,60,Male,Rural,Low,Moderate,46.9
+P00298,Arunachal Pradesh,Hindi,55,Male,Rural,Medium,Mild,58.9
+P00299,Sikkim,Nepali,75,Female,Rural,High,None,78.1
+P00300,Tripura,Bengali,61,Female,Semi-Urban,High,None,71.2
+P00301,Arunachal Pradesh,Hindi,64,Female,Semi-Urban,High,None,45.9
+P00302,Mizoram,Mizo,60,Female,Rural,High,Mild,65.9
+P00303,Mizoram,Mizo,65,Female,Semi-Urban,Medium,Mild,54.0
+P00304,Arunachal Pradesh,Hindi,57,Female,Rural,High,Moderate,71.8
+P00305,Arunachal Pradesh,Hindi,68,Male,Rural,Medium,None,59.2
+P00306,Manipur,Meitei,77,Female,Semi-Urban,Low,None,51.6
+P00307,Sikkim,Nepali,75,Female,Rural,Medium,None,55.2
+P00308,Mizoram,Mizo,75,Female,Semi-Urban,Medium,None,47.6
+P00309,Nagaland,Nagamese,58,Female,Semi-Urban,Medium,Mild,60.9
+P00310,Manipur,Meitei,61,Male,Semi-Urban,Low,Mild,56.5
+P00311,Meghalaya,Khasi,62,Female,Rural,Low,Moderate,65.8
+P00312,Meghalaya,Khasi,76,Male,Semi-Urban,Low,Moderate,81.2
+P00313,Arunachal Pradesh,Hindi,69,Male,Rural,Medium,Mild,77.8
+P00314,Mizoram,Mizo,58,Female,Rural,Low,Moderate,77.1
+P00315,Nagaland,Nagamese,60,Male,Rural,High,Moderate,71.2
+P00316,Tripura,Bengali,68,Female,Rural,Medium,Mild,80.6
+P00317,Nagaland,Nagamese,71,Female,Rural,High,None,75.4
+P00318,Assam,Assamese,68,Female,Semi-Urban,Medium,None,64.8
+P00319,Manipur,Meitei,69,Female,Rural,Low,Mild,61.8
+P00320,Arunachal Pradesh,Hindi,77,Female,Rural,Medium,Mild,69.8
+P00321,Nagaland,Nagamese,75,Male,Rural,Low,Mild,49.3
+P00322,Manipur,Meitei,73,Male,Rural,Low,Moderate,54.1
+P00323,Tripura,Bengali,75,Female,Rural,Low,Mild,61.3
+P00324,Meghalaya,Khasi,65,Male,Semi-Urban,Medium,Moderate,71.6
+P00325,Arunachal Pradesh,Hindi,75,Female,Rural,Medium,None,54.1
+P00326,Mizoram,Mizo,71,Female,Rural,High,None,61.9
+P00327,Assam,Assamese,65,Male,Rural,Medium,Moderate,78.0
+P00328,Manipur,Meitei,68,Male,Rural,High,Mild,57.2
+P00329,Sikkim,Nepali,86,Female,Rural,Low,None,55.5
+P00330,Assam,Assamese,73,Female,Rural,Low,Mild,56.9
+P00331,Manipur,Meitei,74,Female,Semi-Urban,High,None,58.6
+P00332,Tripura,Bengali,81,Female,Rural,Low,Moderate,46.4
+P00333,Manipur,Meitei,75,Male,Rural,Low,None,64.5
+P00334,Mizoram,Mizo,63,Female,Semi-Urban,Medium,Moderate,80.2
+P00335,Assam,Assamese,60,Female,Rural,Low,Moderate,62.8
+P00336,Assam,Assamese,68,Male,Rural,Medium,None,60.4
+P00337,Mizoram,Mizo,67,Male,Rural,Medium,Moderate,45.1
+P00338,Mizoram,Mizo,55,Female,Rural,Low,None,83.9
+P00339,Mizoram,Mizo,87,Female,Rural,Medium,Mild,66.5
+P00340,Assam,Assamese,64,Female,Rural,Low,None,58.6
+P00341,Mizoram,Mizo,57,Female,Rural,Low,Moderate,56.4
+P00342,Assam,Assamese,66,Female,Rural,Medium,Moderate,64.7
+P00343,Manipur,Meitei,68,Male,Rural,Medium,Mild,80.3
+P00344,Mizoram,Mizo,64,Male,Rural,Low,Moderate,83.2
+P00345,Arunachal Pradesh,Hindi,74,Female,Rural,High,None,79.9
+P00346,Arunachal Pradesh,Hindi,72,Female,Rural,Medium,None,49.8
+P00347,Meghalaya,Khasi,76,Female,Rural,Medium,Mild,70.8
+P00348,Arunachal Pradesh,Hindi,69,Female,Rural,Low,Mild,81.5
+P00349,Assam,Assamese,66,Male,Semi-Urban,Medium,Moderate,84.7
+P00350,Arunachal Pradesh,Hindi,66,Female,Rural,Low,Mild,68.1
+P00351,Arunachal Pradesh,Hindi,67,Male,Rural,Medium,Moderate,61.2
+P00352,Mizoram,Mizo,57,Female,Rural,Medium,Mild,76.9
+P00353,Manipur,Meitei,86,Male,Rural,High,None,59.8
+P00354,Nagaland,Nagamese,57,Male,Rural,Medium,None,62.2
+P00355,Meghalaya,Khasi,67,Female,Rural,Low,None,76.7
+P00356,Manipur,Meitei,72,Female,Rural,Medium,None,53.7
+P00357,Meghalaya,Khasi,61,Female,Semi-Urban,Low,Moderate,66.3
+P00358,Mizoram,Mizo,70,Female,Rural,Low,None,51.4
+P00359,Arunachal Pradesh,Hindi,62,Female,Rural,High,None,60.0
+P00360,Manipur,Meitei,65,Male,Rural,High,Moderate,56.5
+P00361,Sikkim,Nepali,68,Female,Rural,Low,Moderate,59.2
+P00362,Arunachal Pradesh,Hindi,72,Female,Rural,Low,None,55.8
+P00363,Meghalaya,Khasi,70,Female,Rural,High,None,77.7
+P00364,Meghalaya,Khasi,79,Female,Semi-Urban,High,Mild,67.8
+P00365,Arunachal Pradesh,Hindi,82,Female,Semi-Urban,Medium,Moderate,50.3
+P00366,Manipur,Meitei,66,Male,Semi-Urban,Medium,Moderate,50.2
+P00367,Manipur,Meitei,63,Male,Rural,Low,Moderate,83.0
+P00368,Arunachal Pradesh,Hindi,69,Male,Rural,High,Mild,60.0
+P00369,Nagaland,Nagamese,90,Female,Rural,High,None,74.0
+P00370,Mizoram,Mizo,76,Male,Rural,High,Mild,67.9
+P00371,Mizoram,Mizo,70,Female,Rural,Medium,None,54.6
+P00372,Sikkim,Nepali,68,Male,Rural,Medium,Mild,82.1
+P00373,Tripura,Bengali,86,Male,Semi-Urban,Low,Mild,66.1
+P00374,Nagaland,Nagamese,72,Female,Semi-Urban,Medium,Moderate,56.8
+P00375,Sikkim,Nepali,68,Male,Rural,Low,Moderate,77.9
+P00376,Assam,Assamese,66,Male,Semi-Urban,Medium,None,64.5
+P00377,Nagaland,Nagamese,76,Female,Rural,Medium,Mild,68.1
+P00378,Tripura,Bengali,59,Female,Semi-Urban,Medium,None,48.1
+P00379,Sikkim,Nepali,65,Female,Rural,Medium,Mild,53.4
+P00380,Arunachal Pradesh,Hindi,74,Female,Semi-Urban,High,Mild,81.2
+P00381,Mizoram,Mizo,78,Female,Rural,Low,None,61.6
+P00382,Assam,Assamese,71,Female,Semi-Urban,Medium,Mild,68.4
+P00383,Tripura,Bengali,85,Female,Rural,Low,None,56.6
+P00384,Nagaland,Nagamese,75,Female,Rural,Medium,None,64.9
+P00385,Nagaland,Nagamese,61,Female,Rural,Low,Moderate,73.6
+P00386,Nagaland,Nagamese,76,Male,Rural,High,None,54.9
+P00387,Assam,Assamese,67,Male,Semi-Urban,Medium,Moderate,82.7
+P00388,Manipur,Meitei,70,Male,Rural,High,None,72.5
+P00389,Arunachal Pradesh,Hindi,74,Male,Rural,Low,None,80.0
+P00390,Mizoram,Mizo,69,Male,Semi-Urban,High,Mild,56.9
+P00391,Mizoram,Mizo,86,Male,Rural,Medium,None,79.6
+P00392,Manipur,Meitei,65,Female,Rural,Medium,None,47.1
+P00393,Assam,Assamese,70,Female,Rural,Medium,Moderate,74.2
+P00394,Nagaland,Nagamese,58,Female,Rural,Medium,None,50.5
+P00395,Sikkim,Nepali,71,Male,Rural,Medium,Mild,68.2
+P00396,Mizoram,Mizo,64,Female,Rural,Low,None,65.6
+P00397,Meghalaya,Khasi,71,Female,Semi-Urban,High,Mild,83.0
+P00398,Manipur,Meitei,63,Female,Rural,Medium,Mild,45.4
+P00399,Manipur,Meitei,80,Female,Rural,Low,None,79.3
+P00400,Nagaland,Nagamese,64,Female,Semi-Urban,High,None,55.6
+P00401,Tripura,Bengali,59,Male,Rural,Medium,Mild,67.7
+P00402,Mizoram,Mizo,58,Male,Semi-Urban,High,None,80.9
+P00403,Assam,Assamese,56,Female,Rural,High,Mild,82.5
+P00404,Arunachal Pradesh,Hindi,75,Female,Semi-Urban,Medium,None,83.3
+P00405,Assam,Assamese,70,Male,Rural,Medium,Mild,53.2
+P00406,Arunachal Pradesh,Hindi,56,Female,Rural,Medium,Moderate,68.1
+P00407,Manipur,Meitei,69,Male,Rural,Medium,Moderate,82.9
+P00408,Nagaland,Nagamese,72,Female,Rural,High,Mild,47.5
+P00409,Assam,Assamese,68,Female,Rural,Medium,None,75.4
+P00410,Tripura,Bengali,75,Female,Rural,Low,None,77.3
+P00411,Arunachal Pradesh,Hindi,58,Female,Rural,High,Mild,80.9
+P00412,Meghalaya,Khasi,70,Male,Semi-Urban,Medium,Moderate,54.7
+P00413,Nagaland,Nagamese,71,Female,Rural,High,Mild,53.8
+P00414,Mizoram,Mizo,62,Female,Rural,Low,Mild,84.2
+P00415,Meghalaya,Khasi,73,Female,Rural,Medium,Moderate,83.7
+P00416,Tripura,Bengali,75,Female,Rural,Medium,None,70.6
+P00417,Sikkim,Nepali,73,Male,Semi-Urban,Medium,None,67.1
+P00418,Sikkim,Nepali,72,Male,Rural,Low,Moderate,74.2
+P00419,Manipur,Meitei,62,Female,Semi-Urban,Low,Moderate,51.2
+P00420,Sikkim,Nepali,62,Male,Semi-Urban,Low,Mild,59.9
+P00421,Meghalaya,Khasi,68,Female,Rural,High,None,68.0
+P00422,Arunachal Pradesh,Hindi,63,Male,Rural,Low,Moderate,49.1
+P00423,Arunachal Pradesh,Hindi,72,Female,Semi-Urban,Low,Mild,54.0
+P00424,Meghalaya,Khasi,74,Male,Rural,Medium,Mild,75.4
+P00425,Manipur,Meitei,67,Male,Semi-Urban,Medium,Mild,77.9
+P00426,Meghalaya,Khasi,60,Female,Rural,Medium,None,58.3
+P00427,Sikkim,Nepali,69,Female,Rural,High,Mild,48.8
+P00428,Manipur,Meitei,66,Male,Rural,Medium,Mild,71.2
+P00429,Manipur,Meitei,55,Female,Rural,High,None,66.9
+P00430,Assam,Assamese,78,Female,Rural,Medium,None,83.9
+P00431,Sikkim,Nepali,76,Female,Rural,Low,Mild,70.6
+P00432,Assam,Assamese,67,Male,Rural,Low,None,73.5
+P00433,Manipur,Meitei,64,Female,Semi-Urban,Medium,None,75.5
+P00434,Nagaland,Nagamese,65,Male,Rural,Low,Mild,73.4
+P00435,Manipur,Meitei,70,Female,Rural,Medium,None,83.0
+P00436,Sikkim,Nepali,55,Male,Semi-Urban,Low,Mild,65.4
+P00437,Meghalaya,Khasi,68,Female,Rural,Low,Moderate,49.9
+P00438,Arunachal Pradesh,Hindi,72,Male,Semi-Urban,Low,Moderate,52.8
+P00439,Mizoram,Mizo,74,Female,Rural,Medium,Mild,62.4
+P00440,Tripura,Bengali,60,Female,Rural,Low,Moderate,74.4
+P00441,Arunachal Pradesh,Hindi,71,Male,Semi-Urban,Low,Mild,65.0
+P00442,Nagaland,Nagamese,66,Female,Semi-Urban,Low,Mild,73.7
+P00443,Nagaland,Nagamese,72,Male,Rural,Medium,None,77.7
+P00444,Assam,Assamese,66,Male,Rural,Medium,Mild,78.3
+P00445,Manipur,Meitei,58,Female,Rural,Low,None,52.7
+P00446,Meghalaya,Khasi,74,Male,Rural,Medium,Mild,47.7
+P00447,Manipur,Meitei,63,Female,Rural,Low,None,60.3
+P00448,Assam,Assamese,67,Male,Rural,Medium,None,61.7
+P00449,Nagaland,Nagamese,72,Male,Rural,Medium,Moderate,49.1
+P00450,Arunachal Pradesh,Hindi,67,Female,Rural,Medium,Mild,61.9
+P00451,Manipur,Meitei,62,Male,Rural,Medium,Mild,67.0
+P00452,Nagaland,Nagamese,69,Male,Rural,Low,None,83.1
+P00453,Manipur,Meitei,83,Female,Rural,Medium,Mild,73.2
+P00454,Nagaland,Nagamese,63,Female,Rural,Medium,Mild,57.5
+P00455,Meghalaya,Khasi,86,Female,Semi-Urban,Low,Mild,70.0
+P00456,Nagaland,Nagamese,61,Male,Rural,Low,Mild,55.1
+P00457,Meghalaya,Khasi,75,Male,Rural,Medium,Mild,74.7
+P00458,Arunachal Pradesh,Hindi,80,Female,Semi-Urban,High,Mild,55.3
+P00459,Mizoram,Mizo,55,Male,Rural,Medium,Mild,73.0
+P00460,Mizoram,Mizo,73,Female,Rural,High,Mild,45.5
+P00461,Sikkim,Nepali,61,Female,Rural,Medium,None,58.3
+P00462,Arunachal Pradesh,Hindi,55,Male,Semi-Urban,High,Mild,53.0
+P00463,Arunachal Pradesh,Hindi,55,Male,Rural,Medium,Mild,53.2
+P00464,Manipur,Meitei,69,Female,Rural,Medium,Moderate,71.7
+P00465,Tripura,Bengali,65,Male,Rural,High,Mild,66.4
+P00466,Manipur,Meitei,79,Male,Rural,High,None,62.8
+P00467,Assam,Assamese,72,Female,Rural,Low,None,56.2
+P00468,Manipur,Meitei,58,Female,Rural,Low,None,51.4
+P00469,Mizoram,Mizo,75,Male,Rural,High,None,82.0
+P00470,Manipur,Meitei,76,Female,Rural,Medium,None,78.1
+P00471,Assam,Assamese,65,Male,Semi-Urban,Medium,None,55.9
+P00472,Tripura,Bengali,73,Male,Rural,Medium,Mild,65.1
+P00473,Nagaland,Nagamese,80,Male,Rural,Medium,Mild,45.5
+P00474,Assam,Assamese,69,Female,Rural,Low,Mild,54.2
+P00475,Sikkim,Nepali,81,Male,Rural,Medium,None,66.7
+P00476,Nagaland,Nagamese,65,Female,Rural,High,None,59.2
+P00477,Meghalaya,Khasi,61,Female,Rural,Low,None,55.7
+P00478,Nagaland,Nagamese,70,Female,Semi-Urban,Medium,Mild,61.6
+P00479,Nagaland,Nagamese,72,Female,Semi-Urban,Low,None,66.9
+P00480,Assam,Assamese,75,Male,Rural,Low,Mild,49.7
+P00481,Mizoram,Mizo,71,Female,Rural,Medium,Mild,75.9
+P00482,Sikkim,Nepali,68,Female,Rural,Medium,None,64.0
+P00483,Sikkim,Nepali,66,Male,Semi-Urban,Medium,Mild,75.1
+P00484,Mizoram,Mizo,71,Male,Semi-Urban,Medium,None,76.7
+P00485,Nagaland,Nagamese,79,Female,Rural,Low,Mild,70.9
+P00486,Arunachal Pradesh,Hindi,69,Male,Rural,Low,Moderate,60.6
+P00487,Assam,Assamese,74,Female,Semi-Urban,Medium,Mild,84.6
+P00488,Meghalaya,Khasi,72,Male,Rural,Low,None,59.0
+P00489,Tripura,Bengali,81,Female,Rural,Low,None,82.2
+P00490,Nagaland,Nagamese,75,Female,Rural,Medium,None,77.2
+P00491,Mizoram,Mizo,55,Female,Rural,Medium,Mild,75.3
+P00492,Manipur,Meitei,83,Male,Rural,Medium,None,52.8
+P00493,Meghalaya,Khasi,60,Female,Rural,Medium,Mild,79.1
+P00494,Mizoram,Mizo,66,Male,Rural,Medium,Mild,55.8
+P00495,Tripura,Bengali,58,Male,Semi-Urban,High,Mild,74.8
+P00496,Tripura,Bengali,71,Female,Rural,Medium,Moderate,71.4
+P00497,Tripura,Bengali,81,Female,Rural,Medium,None,66.1
+P00498,Tripura,Bengali,55,Female,Rural,Low,Mild,55.6
+P00499,Sikkim,Nepali,73,Female,Semi-Urban,Medium,Mild,74.9
+P00500,Assam,Assamese,73,Female,Rural,Low,None,80.2
+P00501,Manipur,Meitei,72,Male,Semi-Urban,Medium,None,65.6
+P00502,Sikkim,Nepali,77,Male,Semi-Urban,High,Moderate,55.0
+P00503,Nagaland,Nagamese,88,Female,Rural,High,Moderate,79.0
+P00504,Nagaland,Nagamese,59,Male,Rural,Medium,None,45.6
+P00505,Nagaland,Nagamese,70,Female,Rural,Medium,None,82.5
+P00506,Mizoram,Mizo,72,Male,Rural,Medium,Moderate,75.3
+P00507,Manipur,Meitei,62,Male,Rural,High,None,59.9
+P00508,Meghalaya,Khasi,72,Female,Rural,High,Moderate,71.0
+P00509,Assam,Assamese,74,Female,Semi-Urban,High,None,79.5
+P00510,Tripura,Bengali,68,Male,Rural,Medium,Mild,72.9
+P00511,Assam,Assamese,69,Male,Semi-Urban,Medium,None,46.7
+P00512,Arunachal Pradesh,Hindi,63,Male,Semi-Urban,Low,None,76.2
+P00513,Sikkim,Nepali,67,Female,Rural,High,Mild,83.1
+P00514,Mizoram,Mizo,58,Female,Rural,Low,Moderate,68.3
+P00515,Tripura,Bengali,70,Male,Rural,Low,Moderate,69.7
+P00516,Sikkim,Nepali,62,Male,Rural,Low,Moderate,80.4
+P00517,Tripura,Bengali,78,Male,Rural,Low,None,72.6
+P00518,Sikkim,Nepali,64,Male,Rural,High,None,58.4
+P00519,Sikkim,Nepali,55,Male,Semi-Urban,Low,Mild,76.6
+P00520,Sikkim,Nepali,58,Female,Rural,Medium,None,49.0
+P00521,Meghalaya,Khasi,78,Male,Rural,Low,None,51.2
+P00522,Manipur,Meitei,55,Female,Rural,Low,None,55.3
+P00523,Assam,Assamese,58,Male,Rural,High,Mild,48.1
+P00524,Tripura,Bengali,60,Female,Rural,Medium,None,67.5
+P00525,Tripura,Bengali,68,Male,Rural,Low,None,52.0
+P00526,Sikkim,Nepali,59,Female,Rural,Low,Moderate,47.3
+P00527,Tripura,Bengali,59,Female,Rural,High,Mild,53.0
+P00528,Sikkim,Nepali,64,Female,Semi-Urban,High,Moderate,59.9
+P00529,Manipur,Meitei,55,Male,Rural,Medium,Mild,49.7
+P00530,Tripura,Bengali,84,Female,Rural,Medium,Mild,50.0
+P00531,Mizoram,Mizo,82,Female,Semi-Urban,Medium,Moderate,82.3
+P00532,Mizoram,Mizo,69,Male,Rural,Medium,None,56.1
+P00533,Meghalaya,Khasi,55,Male,Rural,Medium,Mild,59.8
+P00534,Nagaland,Nagamese,66,Female,Semi-Urban,Medium,None,67.3
+P00535,Sikkim,Nepali,55,Male,Rural,Low,Mild,65.9
+P00536,Sikkim,Nepali,75,Female,Rural,High,Moderate,70.1
+P00537,Mizoram,Mizo,62,Male,Rural,Low,None,82.9
+P00538,Sikkim,Nepali,61,Female,Rural,Low,Moderate,63.7
+P00539,Assam,Assamese,74,Male,Semi-Urban,Medium,Mild,82.4
+P00540,Arunachal Pradesh,Hindi,76,Female,Semi-Urban,Low,None,53.2
+P00541,Sikkim,Nepali,59,Male,Rural,Medium,None,70.1
+P00542,Nagaland,Nagamese,74,Male,Rural,High,None,46.0
+P00543,Arunachal Pradesh,Hindi,63,Female,Semi-Urban,High,None,81.9
+P00544,Meghalaya,Khasi,60,Female,Semi-Urban,Medium,Mild,50.0
+P00545,Assam,Assamese,71,Male,Semi-Urban,High,None,57.7
+P00546,Mizoram,Mizo,57,Male,Rural,Medium,None,58.8
+P00547,Assam,Assamese,59,Female,Rural,Medium,Mild,52.7
+P00548,Meghalaya,Khasi,60,Male,Semi-Urban,High,Mild,56.1
+P00549,Manipur,Meitei,64,Male,Rural,Low,Mild,76.8
+P00550,Meghalaya,Khasi,55,Female,Rural,Medium,None,58.7
+P00551,Tripura,Bengali,71,Male,Rural,Low,None,54.6
+P00552,Tripura,Bengali,69,Male,Rural,High,Mild,65.1
+P00553,Arunachal Pradesh,Hindi,71,Female,Rural,Low,None,82.7
+P00554,Assam,Assamese,74,Female,Rural,Medium,Mild,61.1
+P00555,Sikkim,Nepali,79,Female,Rural,Low,Mild,74.2
+P00556,Manipur,Meitei,63,Female,Rural,High,None,74.4
+P00557,Assam,Assamese,71,Male,Rural,Medium,Mild,68.3
+P00558,Arunachal Pradesh,Hindi,63,Female,Semi-Urban,Low,Mild,71.3
+P00559,Arunachal Pradesh,Hindi,84,Female,Rural,High,None,55.2
+P00560,Tripura,Bengali,70,Female,Rural,Medium,None,84.2
+P00561,Mizoram,Mizo,71,Male,Rural,Medium,Moderate,53.9
+P00562,Sikkim,Nepali,67,Female,Rural,Low,Moderate,77.7
+P00563,Arunachal Pradesh,Hindi,63,Female,Rural,Low,Mild,53.7
+P00564,Mizoram,Mizo,75,Male,Rural,Medium,None,77.9
+P00565,Assam,Assamese,65,Female,Rural,Low,Moderate,59.3
+P00566,Mizoram,Mizo,72,Male,Rural,Medium,Moderate,77.9
+P00567,Manipur,Meitei,63,Female,Rural,Medium,None,61.8
+P00568,Arunachal Pradesh,Hindi,76,Female,Rural,Medium,None,71.3
+P00569,Arunachal Pradesh,Hindi,73,Male,Rural,Low,Mild,75.9
+P00570,Sikkim,Nepali,67,Male,Rural,Medium,Mild,61.1
+P00571,Tripura,Bengali,68,Female,Semi-Urban,High,Mild,75.0
+P00572,Nagaland,Nagamese,66,Male,Rural,Low,None,52.3
+P00573,Manipur,Meitei,65,Female,Rural,Low,None,83.7
+P00574,Sikkim,Nepali,64,Male,Rural,High,Moderate,81.7
+P00575,Arunachal Pradesh,Hindi,59,Female,Rural,Low,Moderate,60.9
+P00576,Arunachal Pradesh,Hindi,61,Male,Rural,High,Mild,78.8
+P00577,Nagaland,Nagamese,71,Female,Rural,Low,Mild,56.0
+P00578,Arunachal Pradesh,Hindi,66,Male,Rural,Low,None,45.3
+P00579,Assam,Assamese,60,Female,Rural,High,Moderate,62.6
+P00580,Assam,Assamese,78,Female,Semi-Urban,Low,Moderate,46.0
+P00581,Meghalaya,Khasi,67,Female,Rural,Low,None,80.5
+P00582,Mizoram,Mizo,58,Female,Rural,Medium,None,51.8
+P00583,Tripura,Bengali,80,Male,Rural,Low,Moderate,47.1
+P00584,Manipur,Meitei,66,Male,Rural,Low,None,78.4
+P00585,Mizoram,Mizo,60,Female,Rural,Low,Moderate,53.5
+P00586,Tripura,Bengali,61,Male,Rural,Low,Mild,45.5
+P00587,Meghalaya,Khasi,60,Male,Rural,Medium,None,47.5
+P00588,Manipur,Meitei,62,Male,Rural,High,None,67.0
+P00589,Tripura,Bengali,67,Female,Rural,Low,None,48.5
+P00590,Arunachal Pradesh,Hindi,62,Female,Rural,Low,Moderate,48.3
+P00591,Tripura,Bengali,78,Male,Semi-Urban,Medium,Mild,72.8
+P00592,Meghalaya,Khasi,58,Female,Rural,High,Mild,51.2
+P00593,Meghalaya,Khasi,62,Female,Rural,Low,Moderate,68.4
+P00594,Manipur,Meitei,79,Male,Rural,Medium,None,80.4
+P00595,Meghalaya,Khasi,63,Female,Rural,High,Moderate,50.6
+P00596,Tripura,Bengali,66,Male,Rural,Low,Mild,59.4
+P00597,Arunachal Pradesh,Hindi,68,Female,Rural,Low,None,75.5
+P00598,Mizoram,Mizo,65,Male,Rural,Medium,Mild,61.4
+P00599,Arunachal Pradesh,Hindi,81,Female,Rural,Low,Mild,56.2
+P00600,Manipur,Meitei,77,Male,Semi-Urban,Low,Moderate,46.6
+P00601,Assam,Assamese,57,Male,Semi-Urban,Medium,Mild,65.5
+P00602,Manipur,Meitei,68,Female,Semi-Urban,Medium,Moderate,58.0
+P00603,Arunachal Pradesh,Hindi,74,Female,Rural,Medium,None,71.0
+P00604,Mizoram,Mizo,68,Male,Semi-Urban,Low,Mild,58.7
+P00605,Arunachal Pradesh,Hindi,56,Female,Rural,Medium,Moderate,78.7
+P00606,Sikkim,Nepali,82,Male,Rural,Medium,None,56.8
+P00607,Sikkim,Nepali,65,Male,Rural,Low,None,59.5
+P00608,Nagaland,Nagamese,79,Female,Rural,Low,Moderate,61.3
+P00609,Tripura,Bengali,76,Male,Rural,Low,Moderate,69.6
+P00610,Nagaland,Nagamese,74,Female,Rural,Low,None,71.5
+P00611,Tripura,Bengali,67,Female,Rural,High,Moderate,50.1
+P00612,Nagaland,Nagamese,60,Female,Rural,High,Moderate,71.0
+P00613,Mizoram,Mizo,71,Female,Rural,High,None,57.9
+P00614,Meghalaya,Khasi,75,Female,Rural,Medium,Moderate,83.3
+P00615,Manipur,Meitei,69,Male,Rural,Medium,Moderate,54.0
+P00616,Tripura,Bengali,76,Female,Rural,Low,None,84.5
+P00617,Tripura,Bengali,62,Female,Semi-Urban,Medium,None,64.1
+P00618,Assam,Assamese,67,Female,Rural,Medium,None,50.3
+P00619,Manipur,Meitei,75,Female,Rural,Low,Moderate,62.0
+P00620,Manipur,Meitei,78,Male,Rural,Low,None,56.4
+P00621,Meghalaya,Khasi,80,Female,Rural,Medium,Mild,56.3
+P00622,Sikkim,Nepali,68,Male,Rural,Low,None,49.2
+P00623,Meghalaya,Khasi,62,Female,Rural,High,Mild,55.9
+P00624,Nagaland,Nagamese,68,Female,Rural,Medium,Moderate,77.4
+P00625,Manipur,Meitei,63,Male,Rural,Medium,Moderate,84.0
+P00626,Mizoram,Mizo,78,Male,Rural,Medium,None,75.3
+P00627,Nagaland,Nagamese,61,Male,Semi-Urban,Low,Mild,58.8
+P00628,Assam,Assamese,57,Female,Rural,Medium,None,71.3
+P00629,Assam,Assamese,71,Female,Rural,Medium,Mild,60.9
+P00630,Tripura,Bengali,68,Male,Semi-Urban,Medium,Moderate,51.1
+P00631,Arunachal Pradesh,Hindi,70,Female,Semi-Urban,Low,None,72.0
+P00632,Meghalaya,Khasi,55,Male,Rural,Low,Mild,68.8
+P00633,Assam,Assamese,62,Female,Rural,Medium,None,51.9
+P00634,Mizoram,Mizo,60,Female,Rural,Medium,Mild,48.2
+P00635,Tripura,Bengali,66,Female,Rural,Low,Moderate,81.6
+P00636,Meghalaya,Khasi,55,Male,Rural,High,None,80.0
+P00637,Sikkim,Nepali,61,Male,Semi-Urban,Medium,Mild,84.8
+P00638,Nagaland,Nagamese,56,Male,Rural,High,Moderate,45.9
+P00639,Assam,Assamese,71,Female,Rural,Low,None,50.1
+P00640,Sikkim,Nepali,57,Male,Rural,Low,Mild,46.9
+P00641,Arunachal Pradesh,Hindi,58,Female,Rural,Low,None,82.4
+P00642,Arunachal Pradesh,Hindi,66,Male,Rural,Medium,Moderate,66.6
+P00643,Meghalaya,Khasi,67,Female,Rural,High,Moderate,76.5
+P00644,Mizoram,Mizo,68,Female,Rural,Medium,None,62.7
+P00645,Sikkim,Nepali,72,Female,Rural,Medium,Moderate,83.1
+P00646,Manipur,Meitei,63,Female,Semi-Urban,Low,Mild,47.5
+P00647,Mizoram,Mizo,77,Male,Rural,Low,None,81.7
+P00648,Sikkim,Nepali,90,Female,Rural,Medium,Mild,46.8
+P00649,Manipur,Meitei,59,Female,Semi-Urban,High,Moderate,75.3
+P00650,Nagaland,Nagamese,87,Female,Rural,High,Mild,83.0
+P00651,Arunachal Pradesh,Hindi,76,Female,Rural,Low,Mild,61.5
+P00652,Tripura,Bengali,59,Female,Rural,Low,None,83.3
+P00653,Tripura,Bengali,73,Female,Rural,Low,None,69.7
+P00654,Arunachal Pradesh,Hindi,69,Male,Rural,Medium,Moderate,47.9
+P00655,Arunachal Pradesh,Hindi,80,Male,Rural,Medium,Moderate,74.2
+P00656,Tripura,Bengali,79,Female,Rural,High,None,77.0
+P00657,Arunachal Pradesh,Hindi,64,Male,Rural,Medium,None,52.2
+P00658,Mizoram,Mizo,75,Male,Rural,Medium,Mild,61.1
+P00659,Sikkim,Nepali,63,Male,Semi-Urban,High,None,74.2
+P00660,Nagaland,Nagamese,69,Male,Semi-Urban,High,None,59.2
+P00661,Tripura,Bengali,76,Male,Semi-Urban,Low,None,71.2
+P00662,Sikkim,Nepali,77,Male,Rural,Low,Mild,46.0
+P00663,Arunachal Pradesh,Hindi,64,Male,Rural,Medium,Mild,52.8
+P00664,Tripura,Bengali,68,Male,Rural,Low,None,61.8
+P00665,Assam,Assamese,61,Female,Rural,High,None,48.7
+P00666,Manipur,Meitei,73,Male,Semi-Urban,Low,Mild,48.7
+P00667,Arunachal Pradesh,Hindi,61,Female,Rural,Medium,None,64.8
+P00668,Nagaland,Nagamese,80,Male,Semi-Urban,Medium,Moderate,62.2
+P00669,Tripura,Bengali,60,Female,Rural,Low,Moderate,60.4
+P00670,Assam,Assamese,62,Male,Rural,Medium,Mild,48.3
+P00671,Sikkim,Nepali,76,Male,Rural,Low,None,69.2
+P00672,Meghalaya,Khasi,74,Male,Rural,Medium,Moderate,45.8
+P00673,Manipur,Meitei,83,Male,Semi-Urban,High,Moderate,45.8
+P00674,Mizoram,Mizo,72,Male,Rural,High,None,54.2
+P00675,Assam,Assamese,65,Female,Semi-Urban,Low,Mild,72.2
+P00676,Meghalaya,Khasi,58,Female,Semi-Urban,Medium,Moderate,57.1
+P00677,Manipur,Meitei,65,Female,Rural,High,Mild,70.3
+P00678,Sikkim,Nepali,61,Female,Rural,Medium,Mild,74.8
+P00679,Manipur,Meitei,75,Male,Semi-Urban,Medium,None,75.6
+P00680,Nagaland,Nagamese,69,Female,Semi-Urban,Medium,None,47.5
+P00681,Sikkim,Nepali,75,Female,Rural,Medium,Mild,82.0
+P00682,Sikkim,Nepali,64,Male,Semi-Urban,Low,Mild,82.8
+P00683,Mizoram,Mizo,65,Male,Rural,Low,None,47.5
+P00684,Manipur,Meitei,67,Male,Rural,High,None,71.5
+P00685,Nagaland,Nagamese,76,Male,Semi-Urban,Medium,None,70.9
+P00686,Manipur,Meitei,63,Male,Rural,Low,Mild,64.0
+P00687,Nagaland,Nagamese,73,Male,Rural,Medium,None,64.1
+P00688,Tripura,Bengali,76,Male,Semi-Urban,Medium,None,78.6
+P00689,Sikkim,Nepali,72,Female,Rural,Low,Mild,57.3
+P00690,Arunachal Pradesh,Hindi,70,Female,Semi-Urban,Medium,Mild,55.8
+P00691,Manipur,Meitei,76,Female,Semi-Urban,Medium,Moderate,81.5
+P00692,Mizoram,Mizo,71,Male,Rural,Medium,None,65.8
+P00693,Nagaland,Nagamese,64,Female,Rural,Low,None,64.0
+P00694,Mizoram,Mizo,68,Male,Rural,Medium,Mild,76.4
+P00695,Manipur,Meitei,62,Female,Rural,High,Mild,74.9
+P00696,Assam,Assamese,72,Male,Rural,High,None,47.2
+P00697,Tripura,Bengali,78,Female,Rural,Medium,None,77.9
+P00698,Mizoram,Mizo,68,Female,Rural,Medium,Moderate,62.2
+P00699,Tripura,Bengali,60,Female,Semi-Urban,Medium,None,75.0
+P00700,Meghalaya,Khasi,62,Male,Rural,Low,None,46.6
+P00701,Mizoram,Mizo,68,Male,Rural,High,Moderate,75.9
+P00702,Nagaland,Nagamese,62,Female,Semi-Urban,Medium,Moderate,64.3
+P00703,Arunachal Pradesh,Hindi,55,Male,Semi-Urban,Medium,Moderate,55.7
+P00704,Arunachal Pradesh,Hindi,72,Female,Rural,Medium,None,77.8
+P00705,Tripura,Bengali,69,Female,Rural,Low,None,59.5
+P00706,Mizoram,Mizo,60,Male,Semi-Urban,Medium,None,49.3
+P00707,Sikkim,Nepali,79,Male,Rural,Medium,Moderate,81.6
+P00708,Manipur,Meitei,61,Male,Rural,Low,Moderate,52.6
+P00709,Meghalaya,Khasi,68,Male,Rural,Medium,Mild,53.5
+P00710,Meghalaya,Khasi,58,Male,Semi-Urban,High,Moderate,80.5
+P00711,Meghalaya,Khasi,69,Male,Semi-Urban,Medium,Mild,68.7
+P00712,Arunachal Pradesh,Hindi,88,Female,Rural,Medium,Moderate,74.6
+P00713,Meghalaya,Khasi,62,Female,Semi-Urban,Low,None,83.0
+P00714,Mizoram,Mizo,71,Male,Semi-Urban,Medium,None,52.2
+P00715,Tripura,Bengali,71,Female,Semi-Urban,Medium,Mild,64.1
+P00716,Mizoram,Mizo,63,Female,Rural,Low,None,82.5
+P00717,Sikkim,Nepali,74,Male,Semi-Urban,High,Mild,71.9
+P00718,Nagaland,Nagamese,73,Female,Rural,Medium,Moderate,60.3
+P00719,Assam,Assamese,72,Male,Rural,High,Mild,66.0
+P00720,Nagaland,Nagamese,68,Male,Rural,Medium,Moderate,52.2
+P00721,Meghalaya,Khasi,55,Female,Rural,Low,Mild,79.1
+P00722,Assam,Assamese,73,Male,Rural,Medium,None,50.9
+P00723,Tripura,Bengali,56,Male,Rural,Low,Moderate,58.7
+P00724,Assam,Assamese,71,Female,Semi-Urban,Low,Mild,66.9
+P00725,Sikkim,Nepali,65,Male,Semi-Urban,Low,Mild,53.1
+P00726,Nagaland,Nagamese,67,Male,Rural,High,Mild,68.9
+P00727,Manipur,Meitei,67,Female,Rural,High,None,64.5
+P00728,Arunachal Pradesh,Hindi,66,Female,Semi-Urban,Medium,Mild,59.1
+P00729,Arunachal Pradesh,Hindi,55,Female,Rural,Medium,Moderate,78.3
+P00730,Tripura,Bengali,72,Male,Semi-Urban,Medium,Mild,77.2
+P00731,Mizoram,Mizo,66,Female,Rural,Medium,Mild,63.6
+P00732,Nagaland,Nagamese,81,Male,Rural,Medium,Mild,53.2
+P00733,Sikkim,Nepali,65,Female,Rural,Medium,None,69.5
+P00734,Meghalaya,Khasi,68,Female,Semi-Urban,Medium,Mild,55.1
+P00735,Arunachal Pradesh,Hindi,70,Female,Rural,Low,None,58.3
+P00736,Assam,Assamese,85,Male,Rural,Low,Mild,69.0
+P00737,Meghalaya,Khasi,75,Female,Rural,High,Mild,64.9
+P00738,Meghalaya,Khasi,72,Female,Rural,High,Mild,60.7
+P00739,Sikkim,Nepali,85,Female,Semi-Urban,Low,None,72.2
+P00740,Sikkim,Nepali,80,Female,Rural,Medium,Mild,70.4
+P00741,Mizoram,Mizo,70,Male,Semi-Urban,Medium,Moderate,74.5
+P00742,Sikkim,Nepali,55,Male,Rural,High,Mild,55.4
+P00743,Assam,Assamese,73,Female,Rural,Low,Mild,73.5
+P00744,Assam,Assamese,73,Male,Semi-Urban,High,Mild,68.7
+P00745,Tripura,Bengali,67,Female,Rural,Medium,None,50.5
+P00746,Meghalaya,Khasi,55,Female,Semi-Urban,Low,None,62.4
+P00747,Nagaland,Nagamese,72,Male,Rural,Low,Moderate,60.5
+P00748,Assam,Assamese,73,Female,Semi-Urban,Low,Mild,58.5
+P00749,Sikkim,Nepali,64,Female,Rural,Low,None,56.3
+P00750,Sikkim,Nepali,70,Female,Rural,Low,None,78.5
+P00751,Tripura,Bengali,66,Male,Rural,High,Mild,76.7
+P00752,Assam,Assamese,64,Female,Semi-Urban,Low,None,62.5
+P00753,Mizoram,Mizo,65,Female,Rural,High,None,71.2
+P00754,Nagaland,Nagamese,66,Female,Rural,Medium,None,75.7
+P00755,Manipur,Meitei,70,Female,Rural,Medium,Moderate,72.4
+P00756,Nagaland,Nagamese,77,Female,Semi-Urban,Low,None,82.0
+P00757,Mizoram,Mizo,59,Female,Rural,Low,Mild,49.1
+P00758,Sikkim,Nepali,70,Female,Rural,High,None,69.1
+P00759,Arunachal Pradesh,Hindi,65,Female,Semi-Urban,High,None,66.5
+P00760,Manipur,Meitei,76,Male,Rural,Low,None,53.1
+P00761,Sikkim,Nepali,61,Female,Rural,Low,None,53.4
+P00762,Meghalaya,Khasi,82,Male,Rural,Low,Mild,50.9
+P00763,Manipur,Meitei,65,Male,Rural,High,Moderate,77.3
+P00764,Arunachal Pradesh,Hindi,72,Female,Rural,High,Moderate,48.5
+P00765,Meghalaya,Khasi,82,Male,Rural,High,None,62.8
+P00766,Mizoram,Mizo,59,Male,Rural,High,None,58.3
+P00767,Tripura,Bengali,74,Male,Rural,Low,None,61.0
+P00768,Nagaland,Nagamese,70,Female,Rural,High,Mild,73.7
+P00769,Assam,Assamese,57,Male,Rural,High,Mild,66.7
+P00770,Assam,Assamese,64,Female,Semi-Urban,Medium,Mild,62.8
+P00771,Sikkim,Nepali,72,Female,Rural,Medium,Mild,49.7
+P00772,Manipur,Meitei,67,Female,Rural,High,None,68.9
+P00773,Nagaland,Nagamese,74,Female,Semi-Urban,Low,Moderate,65.3
+P00774,Sikkim,Nepali,56,Male,Rural,Medium,Moderate,73.7
+P00775,Tripura,Bengali,83,Female,Semi-Urban,Low,Mild,75.3
+P00776,Assam,Assamese,71,Female,Semi-Urban,Medium,None,67.0
+P00777,Tripura,Bengali,74,Female,Rural,Low,Moderate,57.5
+P00778,Mizoram,Mizo,72,Female,Rural,High,None,52.7
+P00779,Nagaland,Nagamese,83,Male,Rural,Low,None,60.0
+P00780,Arunachal Pradesh,Hindi,69,Female,Semi-Urban,Medium,None,80.6
+P00781,Arunachal Pradesh,Hindi,62,Male,Rural,Low,Moderate,70.4
+P00782,Nagaland,Nagamese,58,Female,Rural,Medium,None,63.7
+P00783,Mizoram,Mizo,68,Female,Rural,Low,Mild,67.7
+P00784,Manipur,Meitei,74,Female,Rural,Medium,Moderate,80.8
+P00785,Arunachal Pradesh,Hindi,74,Female,Semi-Urban,Low,Mild,80.6
+P00786,Mizoram,Mizo,68,Female,Rural,Low,None,61.2
+P00787,Assam,Assamese,78,Female,Rural,Medium,None,47.6
+P00788,Meghalaya,Khasi,71,Female,Rural,Low,Moderate,82.8
+P00789,Manipur,Meitei,62,Male,Rural,High,Mild,67.8
+P00790,Arunachal Pradesh,Hindi,58,Male,Rural,Low,None,63.0
+P00791,Meghalaya,Khasi,62,Male,Semi-Urban,Low,Moderate,48.9
+P00792,Meghalaya,Khasi,74,Male,Semi-Urban,Medium,Mild,54.1
+P00793,Manipur,Meitei,66,Female,Rural,Low,Moderate,77.7
+P00794,Sikkim,Nepali,64,Female,Rural,Medium,Moderate,64.4
+P00795,Mizoram,Mizo,80,Female,Rural,Low,Mild,54.4
+P00796,Manipur,Meitei,69,Female,Rural,Medium,Mild,83.7
+P00797,Manipur,Meitei,76,Male,Rural,Medium,Moderate,71.4
+P00798,Meghalaya,Khasi,79,Female,Rural,Medium,Moderate,54.8
+P00799,Sikkim,Nepali,77,Female,Rural,High,None,80.6
+P00800,Arunachal Pradesh,Hindi,86,Female,Rural,Low,Mild,47.1
+P00801,Meghalaya,Khasi,66,Male,Rural,High,Mild,45.3
+P00802,Meghalaya,Khasi,70,Male,Rural,Medium,Mild,84.3
+P00803,Meghalaya,Khasi,66,Female,Rural,Medium,Moderate,56.1
+P00804,Arunachal Pradesh,Hindi,77,Male,Rural,High,Mild,53.7
+P00805,Nagaland,Nagamese,62,Female,Rural,Low,None,80.1
+P00806,Arunachal Pradesh,Hindi,71,Female,Rural,Low,Mild,73.2
+P00807,Manipur,Meitei,59,Male,Semi-Urban,Medium,Mild,57.1
+P00808,Tripura,Bengali,69,Female,Rural,Medium,Mild,79.3
+P00809,Nagaland,Nagamese,64,Male,Semi-Urban,Medium,None,52.0
+P00810,Manipur,Meitei,63,Male,Rural,High,None,62.9
+P00811,Tripura,Bengali,78,Female,Rural,Medium,Mild,45.1
+P00812,Tripura,Bengali,88,Female,Rural,High,Mild,70.3
+P00813,Arunachal Pradesh,Hindi,65,Female,Rural,High,None,71.1
+P00814,Arunachal Pradesh,Hindi,68,Female,Rural,Low,Moderate,79.7
+P00815,Mizoram,Mizo,76,Female,Semi-Urban,Medium,Mild,46.6
+P00816,Tripura,Bengali,57,Male,Rural,Medium,Mild,46.4
+P00817,Nagaland,Nagamese,55,Female,Rural,High,None,49.1
+P00818,Nagaland,Nagamese,68,Female,Semi-Urban,Medium,Mild,49.3
+P00819,Sikkim,Nepali,60,Male,Rural,Low,Mild,53.8
+P00820,Sikkim,Nepali,67,Female,Rural,Medium,Moderate,69.4
+P00821,Sikkim,Nepali,72,Male,Semi-Urban,High,None,62.5
+P00822,Nagaland,Nagamese,55,Female,Rural,High,None,72.9
+P00823,Manipur,Meitei,65,Female,Rural,Low,Mild,80.2
+P00824,Sikkim,Nepali,57,Female,Rural,High,Moderate,62.6
+P00825,Manipur,Meitei,67,Female,Rural,High,Moderate,63.5
+P00826,Nagaland,Nagamese,68,Male,Rural,Low,Mild,47.6
+P00827,Nagaland,Nagamese,77,Male,Rural,Low,None,58.7
+P00828,Sikkim,Nepali,73,Male,Rural,Medium,Moderate,80.6
+P00829,Tripura,Bengali,68,Male,Semi-Urban,Medium,Mild,50.5
+P00830,Assam,Assamese,71,Male,Rural,Medium,None,49.1
+P00831,Manipur,Meitei,67,Male,Rural,Medium,Mild,66.1
+P00832,Assam,Assamese,69,Female,Semi-Urban,Medium,None,52.5
+P00833,Nagaland,Nagamese,73,Female,Rural,Medium,None,53.1
+P00834,Mizoram,Mizo,67,Female,Rural,Medium,None,46.1
+P00835,Manipur,Meitei,74,Male,Rural,High,Mild,56.4
+P00836,Arunachal Pradesh,Hindi,64,Female,Rural,High,Moderate,70.1
+P00837,Meghalaya,Khasi,58,Male,Rural,Medium,None,71.4
+P00838,Arunachal Pradesh,Hindi,59,Female,Semi-Urban,High,None,70.6
+P00839,Assam,Assamese,65,Male,Rural,Medium,Mild,53.7
+P00840,Tripura,Bengali,68,Female,Semi-Urban,Low,None,75.4
+P00841,Meghalaya,Khasi,63,Male,Rural,High,Mild,59.0
+P00842,Assam,Assamese,63,Male,Rural,Medium,Mild,84.4
+P00843,Arunachal Pradesh,Hindi,55,Male,Rural,High,None,69.5
+P00844,Tripura,Bengali,66,Male,Rural,High,Mild,57.1
+P00845,Tripura,Bengali,75,Female,Rural,Low,Mild,63.1
+P00846,Mizoram,Mizo,55,Female,Rural,Low,Moderate,77.9
+P00847,Arunachal Pradesh,Hindi,66,Female,Rural,Low,None,49.1
+P00848,Arunachal Pradesh,Hindi,61,Female,Semi-Urban,Medium,Moderate,84.7
+P00849,Mizoram,Mizo,84,Female,Rural,High,None,53.9
+P00850,Manipur,Meitei,66,Male,Rural,Medium,Mild,62.5
+P00851,Manipur,Meitei,61,Female,Semi-Urban,High,None,70.0
+P00852,Meghalaya,Khasi,70,Female,Rural,High,Mild,73.8
+P00853,Sikkim,Nepali,77,Male,Rural,Medium,None,80.9
+P00854,Manipur,Meitei,63,Male,Rural,Medium,None,45.7
+P00855,Arunachal Pradesh,Hindi,67,Male,Rural,Low,Mild,70.2
+P00856,Mizoram,Mizo,63,Male,Semi-Urban,Low,None,49.0
+P00857,Meghalaya,Khasi,63,Female,Rural,Medium,Mild,65.6
+P00858,Manipur,Meitei,73,Female,Semi-Urban,High,None,47.8
+P00859,Assam,Assamese,79,Male,Rural,Low,Mild,47.5
+P00860,Arunachal Pradesh,Hindi,76,Male,Rural,Medium,Mild,47.8
+P00861,Nagaland,Nagamese,55,Female,Rural,High,None,60.6
+P00862,Assam,Assamese,74,Male,Rural,Medium,Mild,61.7
+P00863,Mizoram,Mizo,66,Male,Rural,Medium,None,51.9
+P00864,Nagaland,Nagamese,69,Female,Rural,High,Moderate,79.6
+P00865,Mizoram,Mizo,71,Male,Rural,Medium,None,75.0
+P00866,Meghalaya,Khasi,70,Male,Rural,Medium,None,77.5
+P00867,Arunachal Pradesh,Hindi,65,Female,Rural,Medium,Mild,74.6
+P00868,Meghalaya,Khasi,60,Male,Rural,Medium,None,70.1
+P00869,Tripura,Bengali,69,Female,Rural,Low,Moderate,81.2
+P00870,Arunachal Pradesh,Hindi,84,Male,Rural,Medium,None,63.6
+P00871,Mizoram,Mizo,74,Female,Rural,High,Mild,80.9
+P00872,Tripura,Bengali,64,Female,Rural,Medium,Mild,76.1
+P00873,Manipur,Meitei,68,Male,Semi-Urban,High,None,60.3
+P00874,Arunachal Pradesh,Hindi,63,Male,Rural,Low,Mild,49.4
+P00875,Sikkim,Nepali,72,Female,Rural,Low,Mild,46.0
+P00876,Tripura,Bengali,68,Male,Rural,Medium,Mild,53.5
+P00877,Manipur,Meitei,65,Female,Semi-Urban,Medium,None,73.1
+P00878,Manipur,Meitei,69,Female,Rural,Medium,Moderate,50.9
+P00879,Manipur,Meitei,79,Female,Rural,Medium,Moderate,69.9
+P00880,Mizoram,Mizo,75,Male,Rural,High,Mild,75.9
+P00881,Meghalaya,Khasi,70,Male,Rural,Low,Moderate,53.7
+P00882,Nagaland,Nagamese,64,Male,Semi-Urban,Low,Moderate,47.0
+P00883,Assam,Assamese,72,Female,Rural,High,Mild,65.1
+P00884,Assam,Assamese,68,Female,Rural,High,Mild,77.9
+P00885,Mizoram,Mizo,75,Male,Rural,Medium,None,57.9
+P00886,Manipur,Meitei,73,Male,Rural,High,Mild,51.3
+P00887,Manipur,Meitei,79,Male,Rural,Low,None,69.9
+P00888,Meghalaya,Khasi,74,Female,Rural,Medium,None,66.9
+P00889,Meghalaya,Khasi,64,Female,Rural,High,Moderate,75.6
+P00890,Tripura,Bengali,75,Male,Rural,Medium,None,69.9
+P00891,Manipur,Meitei,71,Female,Rural,Low,Mild,77.1
+P00892,Arunachal Pradesh,Hindi,73,Male,Rural,Low,Mild,51.4
+P00893,Arunachal Pradesh,Hindi,78,Male,Rural,Low,Mild,59.5
+P00894,Arunachal Pradesh,Hindi,67,Female,Rural,High,Mild,63.9
+P00895,Sikkim,Nepali,65,Male,Rural,High,Mild,81.7
+P00896,Nagaland,Nagamese,67,Male,Rural,Low,None,54.6
+P00897,Mizoram,Mizo,70,Female,Rural,Low,Mild,80.1
+P00898,Tripura,Bengali,66,Male,Rural,Medium,Moderate,60.1
+P00899,Assam,Assamese,68,Female,Semi-Urban,Low,Mild,54.5
+P00900,Meghalaya,Khasi,58,Male,Rural,Medium,None,74.7
+P00901,Sikkim,Nepali,79,Male,Rural,High,Mild,52.6
+P00902,Mizoram,Mizo,67,Female,Rural,Medium,None,52.8
+P00903,Mizoram,Mizo,81,Female,Rural,Low,Moderate,64.7
+P00904,Manipur,Meitei,73,Male,Rural,Medium,None,49.5
+P00905,Manipur,Meitei,77,Male,Rural,Medium,None,68.5
+P00906,Manipur,Meitei,65,Female,Semi-Urban,Medium,None,45.7
+P00907,Sikkim,Nepali,80,Female,Semi-Urban,Medium,Mild,84.2
+P00908,Tripura,Bengali,76,Male,Semi-Urban,Low,Mild,64.5
+P00909,Manipur,Meitei,61,Male,Rural,Medium,None,74.8
+P00910,Sikkim,Nepali,73,Female,Semi-Urban,Low,None,55.0
+P00911,Mizoram,Mizo,57,Male,Rural,Low,Mild,56.2
+P00912,Assam,Assamese,67,Male,Rural,Medium,Mild,51.8
+P00913,Mizoram,Mizo,78,Female,Rural,Low,None,54.6
+P00914,Tripura,Bengali,61,Male,Rural,Low,None,72.9
+P00915,Tripura,Bengali,69,Female,Semi-Urban,High,Mild,57.6
+P00916,Meghalaya,Khasi,76,Female,Rural,Low,Mild,59.0
+P00917,Mizoram,Mizo,66,Female,Rural,Low,Moderate,59.5
+P00918,Tripura,Bengali,64,Female,Rural,Low,Mild,49.9
+P00919,Meghalaya,Khasi,67,Female,Rural,Low,Mild,60.4
+P00920,Arunachal Pradesh,Hindi,64,Male,Rural,Medium,Moderate,80.8
+P00921,Mizoram,Mizo,63,Male,Rural,Medium,None,52.5
+P00922,Assam,Assamese,63,Male,Rural,Medium,None,58.5
+P00923,Tripura,Bengali,66,Female,Semi-Urban,Medium,Moderate,80.3
+P00924,Manipur,Meitei,61,Male,Rural,High,Moderate,65.0
+P00925,Nagaland,Nagamese,65,Male,Semi-Urban,Medium,Mild,63.1
+P00926,Arunachal Pradesh,Hindi,76,Male,Rural,Low,None,78.7
+P00927,Meghalaya,Khasi,80,Female,Rural,Medium,Mild,50.7
+P00928,Assam,Assamese,70,Female,Semi-Urban,Medium,None,60.6
+P00929,Sikkim,Nepali,60,Male,Rural,Medium,None,73.1
+P00930,Sikkim,Nepali,77,Female,Semi-Urban,Medium,Mild,60.0
+P00931,Tripura,Bengali,78,Male,Semi-Urban,Medium,Mild,57.7
+P00932,Assam,Assamese,55,Male,Semi-Urban,Medium,Mild,46.2
+P00933,Tripura,Bengali,61,Female,Rural,Medium,Mild,57.6
+P00934,Manipur,Meitei,80,Female,Rural,Low,Mild,66.5
+P00935,Sikkim,Nepali,62,Female,Rural,Medium,Moderate,71.6
+P00936,Manipur,Meitei,67,Male,Rural,High,Mild,47.9
+P00937,Nagaland,Nagamese,82,Female,Semi-Urban,Low,None,51.0
+P00938,Sikkim,Nepali,63,Male,Semi-Urban,Medium,Mild,82.8
+P00939,Sikkim,Nepali,72,Male,Rural,Medium,None,77.0
+P00940,Sikkim,Nepali,65,Female,Rural,High,Mild,58.5
+P00941,Tripura,Bengali,81,Female,Rural,Medium,Moderate,47.1
+P00942,Nagaland,Nagamese,76,Male,Rural,Low,None,63.4
+P00943,Nagaland,Nagamese,71,Female,Semi-Urban,Medium,Mild,74.1
+P00944,Assam,Assamese,69,Male,Semi-Urban,Low,Mild,58.2
+P00945,Sikkim,Nepali,68,Female,Semi-Urban,Medium,Moderate,71.4
+P00946,Tripura,Bengali,75,Female,Rural,Medium,Moderate,46.9
+P00947,Meghalaya,Khasi,64,Female,Rural,High,Mild,74.4
+P00948,Sikkim,Nepali,64,Female,Semi-Urban,Medium,None,55.5
+P00949,Nagaland,Nagamese,71,Female,Semi-Urban,Medium,None,74.4
+P00950,Arunachal Pradesh,Hindi,64,Male,Rural,Medium,Mild,67.1
+P00951,Assam,Assamese,77,Female,Rural,Low,None,85.0
+P00952,Nagaland,Nagamese,77,Female,Rural,Medium,Moderate,84.9
+P00953,Assam,Assamese,68,Male,Rural,Medium,None,72.4
+P00954,Assam,Assamese,64,Female,Rural,High,None,77.5
+P00955,Arunachal Pradesh,Hindi,65,Female,Semi-Urban,Medium,None,63.0
+P00956,Nagaland,Nagamese,76,Male,Rural,High,Mild,49.7
+P00957,Nagaland,Nagamese,75,Male,Rural,Medium,Moderate,49.5
+P00958,Tripura,Bengali,76,Male,Rural,Medium,Mild,69.2
+P00959,Arunachal Pradesh,Hindi,60,Female,Rural,High,Mild,50.8
+P00960,Arunachal Pradesh,Hindi,75,Male,Rural,Low,Mild,45.4
+P00961,Meghalaya,Khasi,58,Male,Rural,Low,Moderate,53.3
+P00962,Assam,Assamese,76,Male,Semi-Urban,Medium,None,78.8
+P00963,Arunachal Pradesh,Hindi,70,Male,Rural,Medium,Moderate,72.0
+P00964,Mizoram,Mizo,57,Male,Rural,High,None,78.7
+P00965,Arunachal Pradesh,Hindi,65,Female,Rural,High,Moderate,65.0
+P00966,Manipur,Meitei,66,Female,Rural,Low,Moderate,83.7
+P00967,Meghalaya,Khasi,72,Male,Rural,Low,Mild,75.0
+P00968,Assam,Assamese,69,Female,Rural,Low,Mild,73.5
+P00969,Manipur,Meitei,74,Male,Rural,Medium,Mild,52.6
+P00970,Nagaland,Nagamese,66,Male,Rural,Medium,Mild,67.5
+P00971,Meghalaya,Khasi,58,Male,Semi-Urban,High,None,60.0
+P00972,Tripura,Bengali,67,Male,Semi-Urban,High,Mild,48.5
+P00973,Arunachal Pradesh,Hindi,55,Male,Rural,Low,None,52.1
+P00974,Manipur,Meitei,63,Female,Semi-Urban,Medium,None,49.7
+P00975,Meghalaya,Khasi,71,Female,Rural,High,None,65.8
+P00976,Arunachal Pradesh,Hindi,70,Female,Rural,Medium,Moderate,57.3
+P00977,Sikkim,Nepali,70,Female,Rural,Medium,Mild,68.6
+P00978,Sikkim,Nepali,62,Female,Semi-Urban,Low,Mild,64.4
+P00979,Arunachal Pradesh,Hindi,66,Female,Semi-Urban,Medium,Moderate,67.0
+P00980,Mizoram,Mizo,67,Female,Rural,Low,Moderate,68.5
+P00981,Assam,Assamese,82,Female,Rural,Medium,None,64.9
+P00982,Mizoram,Mizo,61,Male,Semi-Urban,Medium,Moderate,48.6
+P00983,Arunachal Pradesh,Hindi,55,Female,Rural,Medium,None,47.6
+P00984,Mizoram,Mizo,57,Female,Rural,Medium,None,74.9
+P00985,Sikkim,Nepali,65,Male,Rural,Medium,None,70.9
+P00986,Meghalaya,Khasi,67,Female,Rural,Low,Moderate,70.4
+P00987,Tripura,Bengali,73,Male,Rural,Medium,Mild,61.0
+P00988,Arunachal Pradesh,Hindi,66,Female,Rural,Low,Moderate,53.7
+P00989,Sikkim,Nepali,61,Female,Rural,Medium,Mild,60.3
+P00990,Assam,Assamese,61,Male,Semi-Urban,Medium,None,63.4
+P00991,Assam,Assamese,63,Female,Rural,Low,Mild,62.5
+P00992,Arunachal Pradesh,Hindi,75,Male,Semi-Urban,Medium,None,62.5
+P00993,Sikkim,Nepali,88,Male,Semi-Urban,Medium,None,68.0
+P00994,Nagaland,Nagamese,62,Female,Rural,High,Moderate,63.4
+P00995,Arunachal Pradesh,Hindi,68,Female,Rural,Medium,None,80.5
+P00996,Tripura,Bengali,67,Male,Rural,Low,Mild,79.5
+P00997,Mizoram,Mizo,73,Female,Semi-Urban,High,Mild,49.6
+P00998,Tripura,Bengali,71,Female,Rural,Low,Mild,78.5
+P00999,Sikkim,Nepali,68,Female,Rural,Medium,None,83.9
+P01000,Nagaland,Nagamese,75,Male,Semi-Urban,Low,Moderate,58.1
